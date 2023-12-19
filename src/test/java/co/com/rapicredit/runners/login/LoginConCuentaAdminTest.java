@@ -1,2 +1,4 @@
-package co.com.rapicredit.runners.login;public class LoginConCuentaAdminTest {
+package co.com.rapicredit.runners.login;
+
+public class LoginConCuentaAdminTest {
 }
