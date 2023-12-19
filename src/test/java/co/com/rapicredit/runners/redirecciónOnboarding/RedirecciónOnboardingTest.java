@@ -1,4 +1,4 @@
-package co.com.rapicredit.runners;
+package co.com.rapicredit.runners.redirecciónOnboarding;
 
 public class RedirecciónOnboardingTest {
 }
