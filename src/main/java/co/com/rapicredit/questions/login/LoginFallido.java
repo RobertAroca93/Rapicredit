@@ -14,9 +14,6 @@ public class LoginFallido implements Question<Boolean> {
         return this;
 
     }
-
-
-
     @Override
     public Boolean answeredBy(Actor actor) {
         return (VALIDACIÓN_LOGIN_FALLIDO.resolveFor(actor).containsOnlyText(mensajeDeLoginFallido));

@@ -1,0 +1,252 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!--[if IE 7]>
+<!--<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">-->
+
+<link rel="stylesheet" type="text/css" href="fontawesome-free-5.7.2-web/css/all.min.css">
+<link rel="stylesheet" type="text/css" href="fontawesome-free-5.7.2-web/css/v4-shims.min.css">
+
+<!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><link rel="stylesheet" type="text/css" href="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.css">
+<link rel="stylesheet" type="text/css" href="chartist/dist/chartist.min.css">
+<script src="chartist/dist/chartist.min.js"></script>
+<script src="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.js"></script>
+<!-- Required Stylesheets -->
+<link href="bootstrap-treeview/dist/bootstrap-treeview.min.css" rel="stylesheet">
+
+<!-- Required Javascript -->
+<script src="bootstrap-treeview/dist/bootstrap-treeview.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.10.20/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.10.20/datatables.min.js"></script>
+<script type="text/javascript" src="datatables/1.10.20/time-elapsed-dhms.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="datatables/1.10.20/datatables.bootstrap4.min.js"></script>
+<link type="text/css" href="datatables/1.10.20/datatables.bootstrap4.min.css" rel="stylesheet" />
+
+<script>
+    jQuery.fn.dataTable.ext.type.order['time-elapsed-dhms-pre'] = function(data) {
+
+        var matches = data.match(/^(\d+(?:\.\d+)?)\s*([a-z]+)/i);
+        var multipliers = {
+            ms: 1,
+            s: 1000,
+            m: 60000,
+            h: 3600000,
+            d: 86400000
+        };
+
+        if (matches) {
+            var multiplier = multipliers[matches[2].toLowerCase()];
+            return parseFloat(matches[1]) * multiplier;
+        } else {
+            return -1;
+        };
+    };
+</script>
+<link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">
+                <span class="projecttitle"></span>
+                <span class="projectsubtitle"></span>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="0b8beff934403c09466257d61d57de433b7d78cbb1d211589c2088cc58233291.html">Yo Como Usuario Administrativo De Rapicredit</a></span>
+                > <span class="truncate-60"><a
+                    href="458a760037078182df0915996996d78375f00aee726470987110f69bfbcf73bd.html">Autenticaci&oacute;n de usuario administrativo </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="7ea0a5e2d679b9deeda9910ae4a9bcd3a281e0d908303a9e16e486103e98880c.html"><i class="fa fa-comments-o"></i> Capabilities</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 19-12-2023 15:30</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Yo Como Usuario Administrativo De Rapicredit </span>
+                                    <span class="badge tag-badge" style="">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                Quiero autenticarme en el login unificado<br />
+Para poder ingresar a la plataforma
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-check-circle-o success-icon fa-2x' title='SUCCESS'></i></a></span>
+                            <span class="test-case-title">
+                                <span class="success-color">Autenticaci&oacute;n de usuario administrativo
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="427e5674ddfa5114785641da2a505dc7ffecb11de90a15fce98ffe699ea596cc.png" title=" Dado que me encuentro en el login unificado" width="1366"/>
+                <img src="427e5674ddfa5114785641da2a505dc7ffecb11de90a15fce98ffe699ea596cc.png" title=" Usuario abrir pagina web" width="1366"/>
+                <img src="427e5674ddfa5114785641da2a505dc7ffecb11de90a15fce98ffe699ea596cc.png" title=" Usuario opens the En la pagina web" width="1366"/>
+                <img src="17320ea4f8bbbad244f23a4f8b1f0e2ea42f5a84abd67a848532fc24dc9bf2ca.png" title=" Usuario opens the En la pagina web (completed)" width="1034"/>
+                <img src="17320ea4f8bbbad244f23a4f8b1f0e2ea42f5a84abd67a848532fc24dc9bf2ca.png" title=" Usuario abrir pagina web (completed)" width="1034"/>
+                <img src="17320ea4f8bbbad244f23a4f8b1f0e2ea42f5a84abd67a848532fc24dc9bf2ca.png" title=" Dado que me encuentro en el login unificado (completed)" width="1034"/>
+                <img src="f5e1e1552915d29a7048c3126cb10ada5e808fa3a0e0b9130d21b34ef3419ebe.png" title=" Cuando ingreso las credenciales administrativas" width="1034"/>
+                <img src="f5e1e1552915d29a7048c3126cb10ada5e808fa3a0e0b9130d21b34ef3419ebe.png" title=" Usuario navegar hacia el login" width="1034"/>
+                <img src="f5e1e1552915d29a7048c3126cb10ada5e808fa3a0e0b9130d21b34ef3419ebe.png" title=" Usuario clicks on login" width="1034"/>
+                <img src="7199cf71a2061eff39a78dc3ec61356f6fd1aa5f117152a2f6009e6f46fcc578.png" title=" Usuario clicks on login (completed)" width="1034"/>
+                <img src="7199cf71a2061eff39a78dc3ec61356f6fd1aa5f117152a2f6009e6f46fcc578.png" title=" Usuario navegar hacia el login (completed)" width="1034"/>
+                <img src="7199cf71a2061eff39a78dc3ec61356f6fd1aa5f117152a2f6009e6f46fcc578.png" title=" Usuario diligenciar login" width="1034"/>
+                <img src="630e6b9204526d13b794e7b88d8e66dfa87e420f0d9a222c4f8935a19aa05876.png" title=" Usuario enters 'gallego@yopmail.com' into Correo" width="1034"/>
+                <img src="65ac532b5f178d03013af74d4741ad6332d37309b4b3fb53d817cadbc05c5b8e.png" title=" Usuario enters 'gallego@yopmail.com' into Correo (completed)" width="1034"/>
+                <img src="820039ec08ba0a4f2ff93d43619bbe117e05d426e470f4ca58563d51b3b67863.png" title=" Usuario enters '123456' into Contrase&ntilde;a" width="1034"/>
+                <img src="63b58936a765eb97e4c8499c75cc2ddea0f8f7761feda745352118f707e1dfde.png" title=" Usuario enters '123456' into Contrase&ntilde;a (completed)" width="1034"/>
+                <img src="5b57677628334d4bd52ffb4fb418ddd90b486792b9fa05faeb80928d7522e766.png" title=" Usuario clicks on Ingresar" width="1034"/>
+                <img src="f2a24b123a07a9f2163fc4c3d7778bb18298a4025bbc0d44824e8331be4aaabb.png" title=" Usuario clicks on Ingresar (completed)" width="1034"/>
+                <img src="f2a24b123a07a9f2163fc4c3d7778bb18298a4025bbc0d44824e8331be4aaabb.png" title=" Usuario diligenciar login (completed)" width="1034"/>
+                <img src="f2a24b123a07a9f2163fc4c3d7778bb18298a4025bbc0d44824e8331be4aaabb.png" title=" Cuando ingreso las credenciales administrativas (completed)" width="1034"/>
+                <img src="3286a9abcae769a85593e3719605b6d2feec963c6331a7d64b1ce5420d223cc3.png" title=" Entonces se debe mostrar mensaje de error" width="1034"/>
+                <img src="3286a9abcae769a85593e3719605b6d2feec963c6331a7d64b1ce5420d223cc3.png" title=" Then login usuario admin fallido should be (true)" width="1034"/>
+                <img src="c9ae2901abd8d4b70fa464bd9df2eb00b20b4dc802f32f8b35f8e9d690db1f5e.png" title=" Then login usuario admin fallido should be (true) (completed)" width="1034"/>
+                <img src="c9ae2901abd8d4b70fa464bd9df2eb00b20b4dc802f32f8b35f8e9d690db1f5e.png" title=" Entonces se debe mostrar mensaje de error (completed): <span class='success-color'>SUCCESS</span>" width="1034"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 2.2.12</span>
+</div>
+</body>
+</html>
