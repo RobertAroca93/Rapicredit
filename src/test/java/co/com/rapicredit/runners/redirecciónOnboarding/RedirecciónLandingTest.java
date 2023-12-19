@@ -1,4 +1,4 @@
-package co.com.rapicredit.runners.redireccionOnboarding;
+package co.com.rapicredit.runners.redirecciónOnboarding;
 
 
 import io.cucumber.junit.CucumberOptions;

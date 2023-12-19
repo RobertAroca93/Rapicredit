@@ -1,8 +1,9 @@
-package co.com.rapicredit.stepDefinitions;
+package co.com.rapicredit.stepDefinitions.redirecciónOnboarding;
 
-import co.com.rapicredit.tasks.misCreditos.AbrirPaginaAdd;
-import co.com.rapicredit.tasks.misCreditos.AbrirPaginaPpd;
-import co.com.rapicredit.tasks.misCreditos.AbrirPaginaTyc;
+import co.com.rapicredit.stepDefinitions.SetUp;
+import co.com.rapicredit.tasks.appMisCreditos.AbrirPaginaAdd;
+import co.com.rapicredit.tasks.appMisCreditos.AbrirPaginaPpd;
+import co.com.rapicredit.tasks.appMisCreditos.AbrirPaginaTyc;
 import com.github.javafaker.Faker;
 import io.cucumber.java.es.Cuando;
 import io.cucumber.java.es.Dado;
@@ -12,11 +13,11 @@ import static co.com.rapicredit.questions.redirecciónOnboarding.RediecciónDesd
 import static co.com.rapicredit.questions.redirecciónOnboarding.RedirecciónDesdeAddExitosa.redirecciónAlLoginExitosa;
 import static co.com.rapicredit.questions.redirecciónOnboarding.RedirecciónDesdePpdExitosa.redirecciónDesdePpdExitosa;
 import static co.com.rapicredit.tasks.abrirPaginaWeb.AbrirPaginaWeb.abrirPaginaWeb;
-import static co.com.rapicredit.tasks.misCreditos.IniciarSolicitud.iniciarSolicitud;
-import static co.com.rapicredit.tasks.misCreditos.IrAlLoginEnAdd.irAlLoginEnAdd;
-import static co.com.rapicredit.tasks.misCreditos.IrAlLoginEnPdp.irAlLoginEnPdp;
-import static co.com.rapicredit.tasks.misCreditos.IrAlLoginEnTyc.irAlLoginEnTyc;
-import static co.com.rapicredit.tasks.misCreditos.IrAlOnboarding.irAlOnboarding;
+import static co.com.rapicredit.tasks.appMisCreditos.IniciarSolicitud.iniciarSolicitud;
+import static co.com.rapicredit.tasks.appMisCreditos.IrAlLoginEnAdd.irAlLoginEnAdd;
+import static co.com.rapicredit.tasks.appMisCreditos.IrAlLoginEnPdp.irAlLoginEnPdp;
+import static co.com.rapicredit.tasks.appMisCreditos.IrAlLoginEnTyc.irAlLoginEnTyc;
+import static co.com.rapicredit.tasks.appMisCreditos.IrAlOnboarding.irAlOnboarding;
 import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
 import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
 import static org.hamcrest.CoreMatchers.equalTo;

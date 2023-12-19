@@ -1,4 +1,4 @@
-package co.com.rapicredit.tasks.misCreditos;
+package co.com.rapicredit.tasks.appMisCreditos;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
@@ -7,7 +7,6 @@ import net.serenitybdd.screenplay.actions.Scroll;
 
 import static co.com.rapicredit.userInterface.paginaLogin.LandingAdd.BOTON_INICIAR_SESION_ADD;
 import static co.com.rapicredit.userInterface.paginaLogin.LandingAdd.CERRAR_AVISO_ADD;
-import static co.com.rapicredit.userInterface.paginaLogin.LandingPpd.BOTON_INICIAR_SESIÓN_PDP;
 
 public class IrAlLoginEnAdd implements Task {
     @Override

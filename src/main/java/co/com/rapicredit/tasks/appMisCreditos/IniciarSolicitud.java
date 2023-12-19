@@ -1,4 +1,4 @@
-package co.com.rapicredit.tasks.misCreditos;
+package co.com.rapicredit.tasks.appMisCreditos;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
