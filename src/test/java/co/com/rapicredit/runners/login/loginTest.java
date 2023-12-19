@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
         snippets = CucumberOptions.SnippetType.CAMELCASE,
-        features = {"src/test/resources/features/login.feature"},
+        features = {"src/test/resources/features/login/login.feature"},
         glue = {"co.com.rapicredit.stepDefinitions.login"},
         tags = {""}
 )
