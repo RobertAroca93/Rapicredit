@@ -4,7 +4,7 @@ import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class SegundFormulario extends PageObject {
+public class SegundoFormulario extends PageObject {
 
     public static final Target PRIMER_NOMBRE = Target
             .the("PrimerNombre").located(By.id("first_name"));
