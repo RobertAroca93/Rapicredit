@@ -1,2 +1,4 @@
-package co.com.rapicredit.tasks.onboardingRP;public class FirmarSolicitud {
+package co.com.rapicredit.tasks.onboardingRP;
+
+public class FirmarSolicitud {
 }
