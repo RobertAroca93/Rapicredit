@@ -1,0 +1,1009 @@
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Listado de Solicitudes Rechazadas</title>
+        <meta name="description" content="¿Es tu primer Crédito? Ingresa y regístrate aquí">
+        <meta name="viewport" content="width=device-width">
+        <meta name="google" value="notranslate">
+        <link rel="shortcut icon" href="https://miscreditosresources.test.rapicredit.com/img/Logo_RapiCredit.ico">
+
+		
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script async="" src="https://s3.eu-central-1.amazonaws.com/portal-cdn-production/people-events-sdk/pe.latest-2.js"></script><script src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-383507.js?sv=7"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-RGPT5M5M2D&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NB58PCZ"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KS5474"></script><script src="https://miscreditosresources.test.rapicredit.com/js/vendor/jquery/3.2.1/jquery.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/libreriasnuevas/jquery-ui.js"></script>
+
+
+        <!-- Sección para los estilos de la app -->
+		
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/normalize/2.0.1/normalize.css">
+<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/theme/rapiCredit/jquery-ui-1.10.3.custom.min.css">
+
+<!-- CSS plugins files -->
+<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/fontawesome/4.0/font-awesome.min.css">
+<!--[if IE 7]><link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/fontawesome/3.0/font-awesome-ie7.min.css"><![endif]-->
+<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/jqgrid/4.4.1/ui.jqgrid.css">
+<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/ui.jqgrid-fix.css">
+<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/fileUpload/8.8.4/jquery.fileupload-ui.css">
+<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/fullcalendar/1.5.4/fullcalendar.css">
+<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/contextmenu/1.0.32/contextMenu.css">
+
+<!-- /CSS plugins files -->
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/modernizr/2.6.2/modernizr.min.js"></script>
+
+<!-- Nuevos estilos -->
+
+	<!-- versi&oacute;n 3.3.1 de Boostrap -->
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/bootstrap/3.3.7/bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/bootstrap/3.3.7/bootstrap-theme.min.css">
+
+	<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/main.fix.css">
+
+	<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/main.css">
+	<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/rapicredit.css">
+	<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/modernizr/2.6.2/modernizr.min.js"></script>
+	<!-- Simulador -->
+
+<!-- Css Combo-Box -->
+	<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/autocompletado/jquery-ui.css">
+	<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/autocompletado/estiloscombobox.css">
+	<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/datapicker-bootstrap/datepicker.css">
+
+		
+
+
+
+
+
+
+
+<script type="text/javascript">
+	var appContext = '';
+</script>
+<!--js del menu-->
+<script src="/resources/js/menu/script.min.js"></script>
+
+		
+
+
+
+
+
+
+
+
+<!--css del menu-->
+<link rel="stylesheet" href="https://miscreditosresources.test.rapicredit.com/css/menu/estilos_menu_cliente.css">
+		<!-- Sección para los estilos del webelement notification -->
+		
+
+
+
+
+
+
+
+<!--js del header-->
+<script src="https://webelements.test.rapicredit.com/notification/main.js"></script>
+		
+
+
+
+
+
+
+
+
+<!--css del header-->
+<link rel="stylesheet" href="https://webelements.test.rapicredit.com/notification/styles.css">
+
+    <style>.cdk-overlay-container,.cdk-global-overlay-wrapper{pointer-events:none;top:0;left:0;height:100%;width:100%}.cdk-overlay-container{position:fixed;z-index:1000}.cdk-overlay-container:empty{display:none}.cdk-global-overlay-wrapper{display:flex;position:absolute;z-index:1000}.cdk-overlay-pane{position:absolute;pointer-events:auto;box-sizing:border-box;z-index:1000;display:flex;max-width:100%;max-height:100%}.cdk-overlay-backdrop{position:absolute;top:0;bottom:0;left:0;right:0;z-index:1000;pointer-events:auto;-webkit-tap-highlight-color:rgba(0,0,0,0);transition:opacity 400ms cubic-bezier(0.25, 0.8, 0.25, 1);opacity:0}.cdk-overlay-backdrop.cdk-overlay-backdrop-showing{opacity:1}.cdk-high-contrast-active .cdk-overlay-backdrop.cdk-overlay-backdrop-showing{opacity:.6}.cdk-overlay-dark-backdrop{background:rgba(0,0,0,.32)}.cdk-overlay-transparent-backdrop{transition:visibility 1ms linear,opacity 1ms linear;visibility:hidden;opacity:1}.cdk-overlay-transparent-backdrop.cdk-overlay-backdrop-showing{opacity:0;visibility:visible}.cdk-overlay-backdrop-noop-animation{transition:none}.cdk-overlay-connected-position-bounding-box{position:absolute;z-index:1000;display:flex;flex-direction:column;min-width:1px;min-height:1px}.cdk-global-scrollblock{position:fixed;width:100%;overflow-y:scroll}.rapicredit-notification {
+  font-family: inherit;
+}.rapicredit-notification__icon {
+  cursor: pointer;
+}.rapicredit-notification__list {
+  width: 20.9375rem;
+  border-radius: 0.3125rem;
+  background: #ededed;
+  padding: 0.625rem;
+  margin: 0;
+  margin-top: 0.5rem;
+  box-shadow: 0rem 0.25rem 0.625rem 0rem rgba(0, 0, 0, 0.1490196078);
+}.rapicredit-notification__list > li {
+  list-style-type: none;
+  border-bottom: solid 0.0625rem #8b8b8b;
+  padding: 0.5rem 0;
+}.rapicredit-notification__list > li:last-child {
+  border-bottom: none;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uLy4uL25vZGVfbW9kdWxlcy9AYW5ndWxhci9jZGsvb3ZlcmxheS1wcmVidWlsdC5jc3MiLCJub3RpZmljYXRpb25zLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLG1EQUFtRCxtQkFBbUIsQ0FBQyxLQUFLLENBQUMsTUFBTSxDQUFDLFdBQVcsQ0FBQyxVQUFVLENBQUMsdUJBQXVCLGNBQWMsQ0FBQyxZQUFZLENBQUMsNkJBQTZCLFlBQVksQ0FBQyw0QkFBNEIsWUFBWSxDQUFDLGlCQUFpQixDQUFDLFlBQVksQ0FBQyxrQkFBa0IsaUJBQWlCLENBQUMsbUJBQW1CLENBQUMscUJBQXFCLENBQUMsWUFBWSxDQUFDLFlBQVksQ0FBQyxjQUFjLENBQUMsZUFBZSxDQUFDLHNCQUFzQixpQkFBaUIsQ0FBQyxLQUFLLENBQUMsUUFBUSxDQUFDLE1BQU0sQ0FBQyxPQUFPLENBQUMsWUFBWSxDQUFDLG1CQUFtQixDQUFDLHlDQUF5QyxDQUFDLHlEQUF5RCxDQUFDLFNBQVMsQ0FBQyxtREFBbUQsU0FBUyxDQUFDLDZFQUE2RSxVQUFVLENBQUMsMkJBQTJCLDBCQUEwQixDQUFDLGtDQUFrQyxtREFBbUQsQ0FBQyxpQkFBaUIsQ0FBQyxTQUFTLENBQUMsK0RBQStELFNBQVMsQ0FBQyxrQkFBa0IsQ0FBQyxxQ0FBcUMsZUFBZSxDQUFDLDZDQUE2QyxpQkFBaUIsQ0FBQyxZQUFZLENBQUMsWUFBWSxDQUFDLHFCQUFxQixDQUFDLGFBQWEsQ0FBQyxjQUFjLENBQUMsd0JBQXdCLGNBQWMsQ0FBQyxVQUFVLENBQUMsaUJBQWlCLENDRXp3QztFQUNFLG9CQUFBO0FBQUYsQ0FFRTtFQUNFLGVBQUE7QUFBSixDQUVFO0VBQ0UsaUJBQUE7RUFDQSx3QkFBQTtFQUNBLG1CQUFBO0VBQ0EsaUJBQUE7RUFDQSxTQUFBO0VBQ0Esa0JBQUE7RUFDQSxrRUFBQTtBQUFKLENBQ0k7RUFDRSxxQkFBQTtFQUNBLHNDQUFBO0VBQ0EsaUJBQUE7QUFDTixDQUFNO0VBQ0UsbUJBQUE7QUFFUiIsImZpbGUiOiJub3RpZmljYXRpb25zLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNkay1vdmVybGF5LWNvbnRhaW5lciwuY2RrLWdsb2JhbC1vdmVybGF5LXdyYXBwZXJ7cG9pbnRlci1ldmVudHM6bm9uZTt0b3A6MDtsZWZ0OjA7aGVpZ2h0OjEwMCU7d2lkdGg6MTAwJX0uY2RrLW92ZXJsYXktY29udGFpbmVye3Bvc2l0aW9uOmZpeGVkO3otaW5kZXg6MTAwMH0uY2RrLW92ZXJsYXktY29udGFpbmVyOmVtcHR5e2Rpc3BsYXk6bm9uZX0uY2RrLWdsb2JhbC1vdmVybGF5LXdyYXBwZXJ7ZGlzcGxheTpmbGV4O3Bvc2l0aW9uOmFic29sdXRlO3otaW5kZXg6MTAwMH0uY2RrLW92ZXJsYXktcGFuZXtwb3NpdGlvbjphYnNvbHV0ZTtwb2ludGVyLWV2ZW50czphdXRvO2JveC1zaXppbmc6Ym9yZGVyLWJveDt6LWluZGV4OjEwMDA7ZGlzcGxheTpmbGV4O21heC13aWR0aDoxMDAlO21heC1oZWlnaHQ6MTAwJX0uY2RrLW92ZXJsYXktYmFja2Ryb3B7cG9zaXRpb246YWJzb2x1dGU7dG9wOjA7Ym90dG9tOjA7bGVmdDowO3JpZ2h0OjA7ei1pbmRleDoxMDAwO3BvaW50ZXItZXZlbnRzOmF1dG87LXdlYmtpdC10YXAtaGlnaGxpZ2h0LWNvbG9yOnJnYmEoMCwwLDAsMCk7dHJhbnNpdGlvbjpvcGFjaXR5IDQwMG1zIGN1YmljLWJlemllcigwLjI1LCAwLjgsIDAuMjUsIDEpO29wYWNpdHk6MH0uY2RrLW92ZXJsYXktYmFja2Ryb3AuY2RrLW92ZXJsYXktYmFja2Ryb3Atc2hvd2luZ3tvcGFjaXR5OjF9LmNkay1oaWdoLWNvbnRyYXN0LWFjdGl2ZSAuY2RrLW92ZXJsYXktYmFja2Ryb3AuY2RrLW92ZXJsYXktYmFja2Ryb3Atc2hvd2luZ3tvcGFjaXR5Oi42fS5jZGstb3ZlcmxheS1kYXJrLWJhY2tkcm9we2JhY2tncm91bmQ6cmdiYSgwLDAsMCwuMzIpfS5jZGstb3ZlcmxheS10cmFuc3BhcmVudC1iYWNrZHJvcHt0cmFuc2l0aW9uOnZpc2liaWxpdHkgMW1zIGxpbmVhcixvcGFjaXR5IDFtcyBsaW5lYXI7dmlzaWJpbGl0eTpoaWRkZW47b3BhY2l0eToxfS5jZGstb3ZlcmxheS10cmFuc3BhcmVudC1iYWNrZHJvcC5jZGstb3ZlcmxheS1iYWNrZHJvcC1zaG93aW5ne29wYWNpdHk6MDt2aXNpYmlsaXR5OnZpc2libGV9LmNkay1vdmVybGF5LWJhY2tkcm9wLW5vb3AtYW5pbWF0aW9ue3RyYW5zaXRpb246bm9uZX0uY2RrLW92ZXJsYXktY29ubmVjdGVkLXBvc2l0aW9uLWJvdW5kaW5nLWJveHtwb3NpdGlvbjphYnNvbHV0ZTt6LWluZGV4OjEwMDA7ZGlzcGxheTpmbGV4O2ZsZXgtZGlyZWN0aW9uOmNvbHVtbjttaW4td2lkdGg6MXB4O21pbi1oZWlnaHQ6MXB4fS5jZGstZ2xvYmFsLXNjcm9sbGJsb2Nre3Bvc2l0aW9uOmZpeGVkO3dpZHRoOjEwMCU7b3ZlcmZsb3cteTpzY3JvbGx9IiwiQGltcG9ydCAnQGFuZ3VsYXIvY2RrL292ZXJsYXktcHJlYnVpbHQuY3NzJztcblxuLnJhcGljcmVkaXQtbm90aWZpY2F0aW9uIHtcbiAgZm9udC1mYW1pbHk6IGluaGVyaXQ7XG5cbiAgJl9faWNvbiB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICB9XG4gICZfX2xpc3Qge1xuICAgIHdpZHRoOiAyMC45Mzc1cmVtO1xuICAgIGJvcmRlci1yYWRpdXM6IDAuMzEyNXJlbTtcbiAgICBiYWNrZ3JvdW5kOiAjZWRlZGVkO1xuICAgIHBhZGRpbmc6IDAuNjI1cmVtO1xuICAgIG1hcmdpbjogMDtcbiAgICBtYXJnaW4tdG9wOiAwLjVyZW07XG4gICAgYm94LXNoYWRvdzogMHJlbSAwLjI1cmVtIDAuNjI1cmVtIDByZW0gIzAwMDAwMDI2O1xuICAgID4gbGkge1xuICAgICAgbGlzdC1zdHlsZS10eXBlOiBub25lO1xuICAgICAgYm9yZGVyLWJvdHRvbTogc29saWQgMC4wNjI1cmVtICM4YjhiOGI7XG4gICAgICBwYWRkaW5nOiAwLjVyZW0gMDtcbiAgICAgICY6bGFzdC1jaGlsZCB7XG4gICAgICAgIGJvcmRlci1ib3R0b206IG5vbmU7XG4gICAgICB9XG4gICAgfVxuICB9XG59XG4iXX0= */</style><script async="" src="https://script.hotjar.com/modules.fd7a1c20a85f7a95e5ff.js" charset="utf-8"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><link rel="stylesheet" href="https://a.omappapi.com/app/js/api.min.css" id="omapi-css" media="all"></head>
+    <body>
+    <!-- Seccion para el script de googe analytics -->
+     
+
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KS5474"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KS5474');</script>
+<!-- End Google Tag Manager -->
+
+
+
+ <!-- Google Tag Manager (noscript) -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NB58PCZ"
+                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <!-- End Google Tag Manager (noscript) -->
+
+ <!-- Google Tag Manager -->
+ <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-NB58PCZ');</script>
+ <!-- End Google Tag Manager --> 
+    
+    <!-- Loading para paginas web -->
+	<div id="loadign-page" class="hide">
+		<div id="content-loading">
+			<div>
+				<i class="color-sping fa fa-spinner fa-spin fa-5x"></i>
+				<p>Procesando, por favor espere...</p>
+			</div>		
+		</div>	
+	</div>
+    
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+	<div class="content-app">
+		<!-- Sección para el encabezado de la app -->
+		<div class="row encabezado"> 
+			<!-- web-elements notifications -->
+
+<!-- end web-elements notifications -->
+
+
+	
+
+
+
+
+
+
+
+
+	<!-- Nuevo encabezado -->
+<div class="headerCambiarContrasenaSalirBlock">
+	<div class="col-md-4">
+		<div id="imgResponsiveMovil" class="LogoRapicredit">
+			<a href="/cliente/inicio">
+			<img id="imgMovil" src="https://miscreditosresources.test.rapicredit.com/img/encabezado/Logo_RapiCredit.png"></a>
+		</div>
+		<div id="imgWeb" class="LogoRapicredit">
+			<a href="/cliente/inicio">
+			<img src="https://miscreditosresources.test.rapicredit.com/img/encabezado/Logo_RapiCredit.png"></a>
+		</div>
+	</div>
+
+	<div id="webHeader" class="col-md-offset-3 col-md-5">
+		<div class="bienvenido"> Bienvenido    </div>
+		<div class="usuario">
+			<img src="https://miscreditosresources.test.rapicredit.com/img/encabezado/ico-Usuario.png">
+			
+				
+				
+					<span class="user-Name">prueba endtoend</span>
+				
+			
+			<div class="user_logiut">
+				<p id="userEmail" class="user-email">correodeprueba40@yopmail.com</p>
+			</div>
+			
+				<div>
+					<p class="user-cupo">
+						<b>Cupo:</b> <span id="cupoUsuario" style="color: #eb7d3f">200000</span>
+						<b>Utilizado:</b>  <span style="color: #eb7d3f">$0</span>
+					</p>
+					<p class="user-cupo">
+						<b>Créditos activos:</b> <span style="color: #eb7d3f">0</span>
+					</p>
+				</div>
+			
+		</div>
+		<div>
+			<a id="ampliarCupoLink" href="#ampliarCupo">
+				<div class="col-md-4 opcionAmpliarCupo">Amplia tu cupo</div>
+			</a>
+			<a href="#modal-configuracion" data-toggle="modal">
+				<div class="opcionContrasena">
+					<img src="https://miscreditosresources.test.rapicredit.com/img/encabezado/ico-CambiarContrasena.png">
+					Cambiar de contraseña
+				</div>
+			</a>
+			<div class="r-notifications">
+				<r-notifications ng-version="14.1.0"><div class="rapicredit-notification"><em id="notificationsBellId" cdkoverlayorigin="" class="rc-icon-bell rapicredit-notification__icon" ng-reflect-ng-style="[object Object]" style="color: rgb(235, 125, 63); font-size: 2rem;"></em><!--container--></div><!--ng-container--><!--bindings={
+  "ng-reflect-ng-if": "true"
+}--></r-notifications>
+			</div>
+			<a href="/logout">
+				<div class="opcionSalir"><img src="https://miscreditosresources.test.rapicredit.com/img/encabezado/ico-Salir.png">Salir</div>
+			</a>
+		</div>
+	</div>
+
+	<!--Encabezado Responsive-->
+	<div id="responsiveHeader" class="col-md-5">
+		<div class="headerLinks">
+			<a href="#modal-configuracion" data-toggle="modal">
+				<div class="opcionContrasena">
+					<img src="https://miscreditosresources.test.rapicredit.com/img/encabezado/ico-CambiarContrasena.png">
+					Cambiar de contraseña
+				</div>
+			</a>
+			<div class="r-notifications-responsive">
+				<r-notifications ng-version="14.1.0"><div class="rapicredit-notification"><em id="notificationsBellId" cdkoverlayorigin="" class="rc-icon-bell rapicredit-notification__icon" ng-reflect-ng-style="[object Object]" style="color: rgb(235, 125, 63); font-size: 2rem;"></em><!--container--></div><!--ng-container--><!--bindings={
+  "ng-reflect-ng-if": "true"
+}--></r-notifications>
+			</div>
+			<a href="/logout">
+				<div class="opcionSalir"><img src="https://miscreditosresources.test.rapicredit.com/img/encabezado/ico-Salir.png">Salir</div>
+			</a>
+		</div>
+		<div class="headerContent">
+			<div class="basicInfoResponsive">
+				<div class="bienvenido"> Bienvenido    </div>
+				<img src="https://miscreditosresources.test.rapicredit.com/img/encabezado/ico-Usuario.png">
+				
+					
+					
+						<span class="user-Name">prueba endtoend</span>
+					
+				
+				<div class="user_logiut">
+					<p class="user-email">correodeprueba40@yopmail.com</p>
+				</div>
+			</div>
+			<div class="usuario creditInfoResponsive">
+				
+					<div>
+						<p class="user-cupo">
+							<b>Cupo:</b> <span style="color: #eb7d3f">200000</span>
+							<b>Utilizado:</b>  <span style="color: #eb7d3f">$0</span>
+						</p>
+						<p class="user-cupo">
+							<b>Créditos activos:</b> <span style="color: #eb7d3f">0</span>
+						</p>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Modal de configuraciÃ²n -->
+
+
+
+
+
+
+
+
+<div id="modal-configuracion" class="modal fade modal-fix ui-draggable" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header ui-draggable-handle" style="cursor: move;">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
+				<div id="myModalLabel">
+					<h2 class="TituloGeneral-fix">Configuración</h2>
+				</div>
+			</div>
+			<div class="modal-body">
+				<div class="columna-content-configuracion">
+					<p class="importantesList-fix">
+						Nueva contraseña
+					</p>
+					<span class="cambio-fail-c1"></span>
+					<div>
+						<div class="input-prepend">
+							<span class="add-on form-control-fix"><i class="fa fa-key key-fix"></i></span>
+							<input type="password" id="passNuevaContrasena" class="form-control-fix form-control" placeholder="Nueva contraseña">
+						</div>
+					</div>
+
+					<p class="importantesList-fix">
+						Confirma tu nueva contraseña
+					</p>
+					<span class="cambio-fail-c1"></span>
+					<div>
+						<div class="input-prepend">
+							<span class="add-on form-control-fix"><i class="fa fa-key key-fix"></i></span>
+							<input type="password" id="passConfirmNuevaContrasena" class="form-control-fix form-control" placeholder="Confirma tu nueva contraseña">
+						</div>
+					</div>
+				</div>
+				<div class="columna-content-configuracion">
+					<div id="contenedor-items">
+						<p data-actbuton="0" class="itemscompletosConfiguracion1 textoimportante">
+							<span class="items-configuracion1"><i class="fa fa-circle"></i></span>
+							Nueva contraseña
+						</p>
+						<p data-actbuton="0" class="itemscompletosConfiguracion2 textoimportante">
+							<span class="items-configuracion2"><i class="fa fa-circle"></i></span>
+							Confirmar nueva contraseña
+						</p>
+						<p data-actbuton="0" class="itemscompletosConfiguracion3 textoimportante">
+							<span class="items-configuracion3"><i class="fa fa-circle"></i></span>
+							No dejar campos vacíos
+						</p>
+						<p data-actbuton="0" class="itemscompletosConfiguracion6 textoimportante">
+							<span class="items-configuracion6"><i class="fa fa-circle"></i></span>
+							La contraseña no debe  contener espacios en blanco
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="modal-footer ui-draggable-handle" style="cursor: move;">
+				<button id="btn-cambioContrasena" class="btn-formulario-pri-fix">
+					Guardar cambios
+				</button>
+				<button class="btn-formulario-seg-fix" data-dismiss="modal" aria-hidden="true">
+					Salir
+				</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script>
+	$(document).ready(function () {
+		// Espera a que el elemento r-notifications estÃ© presente en el DOM
+		waitForNotificationsElement(function () {
+			const clientId = 1778208;
+			const bellStyle = {
+				color: '#eb7d3f',
+				'font-size': '2rem',
+			};
+			const openUponDisplay = false;
+
+			// Inicializa el componente cuando el elemento estÃ© presente
+			initializeRapicreditNotifications(clientId, bellStyle, openUponDisplay);
+		});
+	});
+
+	function waitForNotificationsElement(callback) {
+		const checkInterval = 100; // Intervalo de comprobaciÃ³n en milisegundos
+		const maxAttempts = 30; // NÃºmero mÃ¡ximo de intentos
+
+		let attempts = 0;
+
+		function checkElement() {
+			const notifications = $('r-notifications');
+
+			if (notifications.length > 0) {
+				// El elemento r-notifications estÃ¡ presente, llama al callback
+				callback();
+			} else {
+				attempts++;
+
+				if (attempts < maxAttempts) {
+					// Si no se encuentra el elemento, sigue comprobando
+					setTimeout(checkElement, checkInterval);
+				} else {
+					// Se alcanzÃ³ el nÃºmero mÃ¡ximo de intentos, termina
+					console.error('Elemento r-notifications no encontrado despuÃ©s de varios intentos.');
+				}
+			}
+		}
+
+		// Inicia la comprobaciÃ³n del elemento
+		checkElement();
+	}
+
+	function initializeRapicreditNotifications(clientId, bellStyle, openUponDisplay) {
+		const notifications = $('r-notifications');
+		notifications[0].ngElementStrategy.componentRef.instance.build({
+			clientId: clientId,
+			bellStyle: bellStyle,
+			openUponDisplay: openUponDisplay,
+		});
+		notifications[1].ngElementStrategy.componentRef.instance.build({
+			clientId: clientId,
+			bellStyle: bellStyle,
+			openUponDisplay: openUponDisplay,
+		});
+
+	}
+
+</script>
+		</div>
+		<!-- <div id="container"> -->
+        	<!-- Sección para el body de la app -->
+        <div id="main-container">
+        		
+
+
+
+
+
+
+
+	
+<!-- Nuevo Menu -->
+ <div class="row menuInterno">
+	 <div id="cssmenu"><div id="menu-button">Menu</div>
+	  <div id="menu-lineSolicitud"></div>
+		         <ul>
+            <li>
+                <a id="padding" href="/cliente/inicio">
+                <img src="https://miscreditosresources.test.rapicredit.com/img/menu/casita-Menu.png">
+                </a></li>
+            <li class="divisor"></li>
+            <li>
+                <a href="/cliente/informacion">Mi perfil
+                </a>
+            </li>
+            <li class="divisor"></li>
+            <li>
+
+            </li>
+            <li class="has-sub"><span class="submenu-button"></span><a href="#">Mis Solicitudes
+                <img class="deletedMobileResponsiveBlock" src="https://miscreditosresources.test.rapicredit.com/img/menu/ico-combo.png">
+            </a>
+                <ul>
+                    <li><a href="/solicitud">Nueva Solicitud</a></li>
+                    <li><a href="/solicitud/ver-solicitudes">Mis Solicitudes</a></li>
+                </ul>
+            </li>
+
+            <li class="divisor"></li>
+            <li class="has-sub"><span class="submenu-button"></span><a href="#">Mis Créditos
+                <img class="deletedMobileResponsiveBlock" src="https://miscreditosresources.test.rapicredit.com/img/menu/ico-combo.png">
+            </a>
+                <ul>
+                    <li><a href="/credito/proceso">Solicitado</a></li>
+                    <li><a href="/credito/ver-creditos-activos">Desembolsado</a></li>
+                    <li><a href="/credito/ver-creditos-pagos">Pagados</a></li>
+                    <li><a href="/credito/seccion-legal">Servicio de Firma Electrónica</a></li>
+                </ul>
+            </li>
+            <li class="divisor deletedMobileResponsiveBlock"></li>
+            <li class="deletedMobileResponsiveBlock"><a href="/pagos/placetopay/listarPagos">Historial PlaceToPay
+                </a>
+            </li>
+            <li class="divisor deletedMobileResponsiveBlock"></li>
+            <li class="deletedMobileResponsiveBlock"><a href="/cliente/referir">Referidos
+                </a>
+            </li>
+            <li class="divisor deletedMobileResponsiveBlock"></li>
+            <li class="deletedMobileResponsiveBlock"><a href="https://www.rapicredit.com/blog/">Educación
+                </a>
+            </li>
+        </ul>
+    <div id="menu-line" style="width: 72px; left: 0px;"></div></div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <img src="https://miscreditosresources.test.rapicredit.com/img/contenido/sombra-Separadora.png" class="img-responsive">
+    </div>
+</div>
+
+<!-- Nuevo Menu -->
+        	
+        <div class="container-fluid">
+        	
+
+
+
+
+
+
+
+<style>
+	.accionesCliente{
+		z-index:0;
+		height:100%;
+		width: 100%;
+	}
+
+</style>
+	   <div class="row miga">
+     		<div class="col-md-12">
+					<a style="color:#414140" href="/cliente/inicio">Inicio </a>/
+					<a style="color:#414140" href="#"> Ver solicitudes</a>
+   			</div>
+ 		</div>
+<section id="contenedor-verSolicitudes">
+	<div class="col-md-12">
+		<div class="TituloFormulario">
+			Mis <samp class="textoRojo">Solicitudes</samp>
+		</div>
+	</div>
+
+	<div class="row botonesCreditos">
+		<div class="col-md-12 mt-5">
+				<div class="btnSolicitar-Creditos mt-5"><a href="/solicitud">
+				<img class="nuevasolicitud" src="https://miscreditosresources.test.rapicredit.com/img/contenido/btn-rapicredit-solicita-tu-credito.png"></a>
+				<p class="pNuevaSolicitud">Nueva solicitud</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+	  <div class="col-md-12">
+			<div class="contenido-Grid">
+				<table id="listaSolicitudes"></table>
+				<div id="paginacion"></div>
+			</div>
+			<!-- Inicio Card -->
+			<div id="card"><div class="row"><div class="col-md-6"><div class="cards"><div class="solicitudEstudio"><div class="numSolicitud"> Solicitud <span class="consecutivo">7488865<span class="ResaltadoValor"></span></span></div><div class="row"><div class="col-md-6"><div class="infoCard">Fecha de solicitud <br><span class="Resaltado">12-01-2024 17:50<span class="ResaltadoValor"></span></span></div><div class="infoCard">Cantidad <br><span class="ResaltadoValor">$200.000<span class="ResaltadoValor"></span></span></div></div><div class="col-md-6"><div class="infoCard">Fecha de respuesta <br><span class="Resaltado"><span class="ResaltadoValor"></span></span></div><div class="infoCard">Plazo (días) <br><span class="Resaltado">30<span class="ResaltadoValor"></span></span></div></div></div><div class="row"><div class="col-md-12"><div class="infoCard">Estado <br> <span class="estadoEstudio"> EN ESTUDIO<span class="ResaltadoValor"></span></span></div></div><div class="col-md-12"><div class="infoCard">Observaciones <br><span class="Observaciones">Usted no posee observaciones en este momento!<span class="ResaltadoValor"></span></span></div></div></div></div></div></div></div></div>
+
+		</div>
+	</div>
+
+</section>
+
+<!-- Modal para Archivos adjustos  -->
+
+
+
+
+
+
+
+
+<div id="modalAdjuntos" class="modal fade modal-fix ui-draggable">
+  <div class="modal-dialog">
+  <div class="modal-content">
+
+    <div class="modal-header ui-draggable-handle" style="cursor: move;">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">X</button>
+      <div class="TituloGeneral-fix" id="lbl-solicitudId-cliente">Adjuntar archivos</div>
+    </div>
+    <div class="modal-body">
+      <form:form id="formAdjuntarArchivos" method="POST" modelattribute="uploadForm" enctype="multipart/form-data">
+          <div style="height: 508px; padding: 10px; overflow-y: auto">
+            <p class="textoimportante">Si quieres mejorar tu scoring de crédito dentro de RapiCredit, adjúntanos algunos de los siguientes documentos:</p>
+            <ul id="lista-anexos">
+              <li class="textoimportante">Tus 2 últimos desprendibles de nómina.</li>
+              <li class="textoimportante">Tu último extracto bancario de la cuenta que matriculaste.</li>
+              <li class="textoimportante">Tu cuenta de servicios públicos.</li>
+              <li class="textoimportante">Tu declaración de renta.</li>
+              <li class="textoimportante">Cualquier documento que demuestre tus ingresos.</li>
+            </ul>
+            <p class="textoimportante">Puedes tomarles  una foto con tu celular o escanear los documentos, recuerda que no pueden pesar más de 1 mega cada uno.</p>
+            <p class="textoimportante">El adjuntar documentación adicional nos facilita la aprobación de tu crédito, aumenta tu cupo y prioriza el desembolso!</p>
+
+
+            <div id="adjuntos-Mensajes"></div>
+            <div id="dropzone" class="fade well fade-well-fix2">Arrastra tus archivos aquí</div>
+
+            <div id="progress" class="progress">
+              <div class="bar" style="width: 0%;"></div>
+            </div>
+
+            <div class="tableAdjuntos">
+                </div><table id="uploaded-files" class="table">
+              <tbody><tr>
+              <th style="width:70%">Nombre del archivo</th>
+                <th>Tamaño</th>
+                <th>Tipo</th>
+              
+              </tr>
+            </tbody></table>
+          </div>
+          <hr>
+          <div class="align-right-content" id="btn-NoAceptoAdjuntos">
+              <button id="btnNoAcepto" data-dismiss="modal" class="btn btn-default btn-lg" aria-hidden="true">
+                  En otro momento
+              </button>
+           </div>
+          <button class="fileinput-button  btn btn-danger btn-lg">
+              <span style="font-family: Roboto-Light; padding-right: 22px; color:white ">Añadir archivos</span>
+              <input id="fileupload-despues" type="file" data-url="/archivos/cargar-adjunto-cliente" name="file">
+          </button>
+      </form:form>
+    </div>
+  </div>
+  </div>
+
+
+</div>
+
+
+<!-- Modal para ver observaciones -->
+
+
+
+
+
+
+
+
+<div id="modal-verObservaciones" class="modal fade modal-fix ui-draggable">
+  <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header ui-draggable-handle" style="cursor: move;">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <div class="TituloGeneral-fix">Observaciones de tu Solicitud</div>
+        </div>
+        <div class="modal-body">
+          <p class="clienteObservacion textoimportante textoimportante"></p>
+        </div>
+        <div class="modal-footer ui-draggable-handle" style="cursor: move;">
+        <button class="btn-terminos-pri-fix " data-dismiss="modal">Volver</button>
+        </div>
+    </div>
+  </div>
+</div>
+
+
+        </div>
+         <div class="row piePaginaInternos">
+		    <!-- Sección para el pie de pagina de la app -->
+			
+
+
+
+
+
+
+
+<!-- Nuevo footer -->
+<div class="row menu">
+	<a href="../acercaDe">
+	<div class="col-md-4">Acerca de Rapicredit</div>
+</a>
+<a href="https://www.rapicredit.com/preguntas-frecuentes/">
+	<div class="col-md-4">Preguntas frecuentes</div>
+</a>
+<a href="../buenGobierno">
+	<div class="col-md-4">¿Necesitas soporte?</div>
+</a>
+</div>
+
+<div class="row redes">
+	<div class="form-group">
+		<div class="col-md-6 alineacionredes"><span class="redesTexto">Síguenos en Redes Sociales</span>
+		<a href="https://www.facebook.com/RapiCreditSAS" target="_blank">
+			<img src="https://miscreditosresources.test.rapicredit.com/img/piePagina/ico-fb.png" alt="visita nuestra pagina en facebook, creditos rapidos por internet, desembolsos en menos de 24 horas">
+		</a>
+	</div>
+</div>
+
+</div>
+
+<div class="row creditos">
+	<div class="col-md-12">Todos los derechos reservados a RAPICREDIT COMPAÑÍA DE CRÉDITOS RÁPIDOS SAS
+		<button style="background-color: #c2c2c2; border: none; " id="cambiarCodigosCredito" type="button"></button>
+	</div>
+</div>
+
+		 </div>
+        
+        
+       	<div class="seccionModales">
+       		<!-- Sección para Javascripts que se deben incluir en cada pagina. -->
+			 
+			
+       	</div>
+  </div>
+
+        <!-- Sección para las alertas de la app --> 
+		
+
+
+
+
+
+
+
+
+<div class="container-fluid">
+	<div class="row">
+	 <div class="col-md-12">
+			<div class="div-alerts">
+				<div id="alert-top" class="alert alert-dismissible hidden ">
+					<button type="button" class="close" data-hide="alert">×</button>
+					<strong></strong> <span></span>
+				</div>
+			</div>
+	  </div>
+	</div>	
+</div>
+        
+        <!-- Sección para los dialogos de la app --> 
+        
+
+
+
+
+
+
+
+<div id="dlgLayoutDelete-dialogs" data-backdrop="static" data-keyboard="false" class="modal fade modal-fix ui-draggable" tabindex="-1" role="dialog" aria-labelledby="h3LayoutDelete-dialogs" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+	<div class="modal-header ui-draggable-handle" style="cursor: move;">
+		<h3>???common.confirmation???</h3>
+	</div>
+	<div class="modal-body">
+		<p></p>
+	</div>
+	<div class="modal-footer ui-draggable-handle" style="cursor: move;">
+		<button id="btnLayoutDelete-dialog" type="button" class="btn btn-danger">Yes</button>
+		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+	</div>
+	</div>
+	</div>
+	
+	
+</div>
+
+<div id="dlgLayoutProgress-dialogs" data-backdrop="static" data-keyboard="false" class="modal fade modal-fix ui-draggable" tabindex="-1" role="dialog" aria-labelledby="h3LayoutProgess-dialogs" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+	<div class="modal-body">
+		<p id="pLayoutProgress-dialogs">???download.file.text???</p>
+		<div class="progress progress-striped active">
+			<div class="bar" style="width: 100%;"></div>
+		</div>
+	</div>
+	</div>
+	</div>
+	
+</div>
+
+<div id="dlgErrorDownload-dialogs" data-backdrop="static" class="modal fade modal-fix ui-draggable" tabindex="-1" role="dialog" aria-labelledby="h3ErrorDownload-dialogs" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+	<div class="modal-body">
+		???message.error.downloaded.not.succesfully???.
+	</div>
+		<div class="modal-footer ui-draggable-handle" style="cursor: move;">
+			<button id="aErrorDownload-close-dialogs" href="#" data-dismiss="modal" class="btn">???common.close???</button>
+		</div>
+	
+	</div>
+	</div>
+	
+</div>
+        
+	   	<!-- Sección para Javascripts de la app -->
+		 
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	var appContext = '';
+    var appResources = 'https://miscreditosresources.test.rapicredit.com/';
+
+</script>
+
+<script src="/messages"></script>
+
+<!-- Calendario JS-->
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/libreriasnuevas/moment.min.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/datepicker-bootstrap/bootstrap-datetimepicker.min.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/libreriasnuevas/validation.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/datepicker-bootstrap/bootstrap-datetimepicker.min.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/datepicker-bootstrap/datepicker.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/jquery.date-dropdown/jquery.date-dropdowns.js"></script>
+<!-- Fin Calendario JS -->
+
+<!-- JS plugins files -->
+<script src="https://miscreditosresources.test.rapicredit.com/js/bootstrap/3.3.7/bootstrap.min.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/libreriasnuevas/validation.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/fullcalendar/1.5.4/fullcalendar.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/inputmask/2.0.9/jquery.inputmask.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/jqueryFormatCurrency/1.4.0/jquery.formatCurrency-1.4.0.min.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/fileUpload/8.8.4/jquery.fileupload.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/fileUpload/8.8.4/jquery.fileupload-ui.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/fileUpload/8.8.4/jquery.fileupload-jquery-ui.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/fileUpload/8.8.4/jquery.iframe-transport.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/fileUpload/8.8.4/jquery.fileupload-process.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/fileUpload/8.8.4/vendor/jquery.ui.widget.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/cookiejs/cookie.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/datetimepicker/jquery-ui-timepicker-addon.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/jqgrid/4.5.2/i18n/grid.locale-es.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/jqgrid/4.5.2/jquery.jqGrid.min.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/validCampoFranz/validCampoFranz.js"></script>
+
+<!-- /JS plugins files -->
+
+<script src="/resources/js/main/plugins.js"></script>
+<script src="/resources/js/main/main.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/vendor/maskInputJquery/1.3.1/jquery.maskedinput.min.js"></script>
+<script src="https://miscreditosresources.test.rapicredit.com/js/jquery.ui.touch-punch.js"></script>
+
+		
+		<!-- Sección para Javascripts que se deben incluir en cada pagina. -->
+		 
+		
+        	<script src="/resources/js/solicitud/listar-solicitudes-rechazadas.js"></script>
+	    
+        
+        <!-- <script>
+            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script> -->
+        <!-- Codigo GoSquared -->
+        <script>
+        
+        	  //GoSquared.UserName = "";
+			  //function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
+			  //arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
+			  //d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
+			  //insertBefore(d,q)}(window,document,'script','_gs');
+			  
+			  //_gs('GSN-867915-S');
+			  
+			  
+			  var GoSquared = {};
+				GoSquared.acct = "GSN-867915-S";
+				GoSquared.UserName = "prueba endtoend";
+				GoSquared.Visitor = {
+					'Email' : "correodeprueba40@yopmail.com"
+				};
+				(function(w) {
+					function gs() {
+						w._gstc_lt = +new Date;
+						var d = document, g = d.createElement("script");
+						g.type = "text/javascript";
+						g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
+						var s = d.getElementsByTagName("script")[0];
+						s.parentNode.insertBefore(g, s);
+					}
+					w.addEventListener ? w.addEventListener("load", gs, false) : w.attachEvent("onload", gs);
+				 })(window);
+			  
+			  
+			  
+			  
+		 </script>
+        <!-- Finc codigo GoSquared -->
+    <!-- </div> -->
+    <!-- Secciones unicamente para algunas vistas google adWords -->
+    
+    <!-- Seccion para el script de Zendesk soporte -->
+    
+
+
+
+
+
+
+
+
+<!-- Start of Rapicredit Zendesk Widget script -->
+<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","rapicredit.zendesk.com");/*]]>*/</script>
+<!-- End of Rapicredit Zendesk Widget script -->
+
+    	
+    
+   
+ </div><script type="text/javascript" id="">!function(d,e,a,b,c){b=d[b]=d[b]||function(){(b.q=b.q||[]).push(arguments)};c=e.createElement(a);a=e.getElementsByTagName(a)[0];c.src="//d1l6p2sc9645hc.cloudfront.net/tracker.js";a.parentNode.insertBefore(c,a)}(window,document,"script","_gs");_gs("GSN-867915-S");</script><script type="text/javascript" id="">var cookie_name="fb_utm",cookie_duration=.04;/utm_source/g.exec(location.search)&&/utm_medium/g.exec(location.search)?cookieModify(cookie_name,!0):cookieModify(cookie_name,!1);
+function cookieModify(d,b){if(null==readCookie(d)){if(b){b=/utm_source=([^&]+)/g.exec(location.search)[1];var c=/utm_medium=([^&]+)/g.exec(location.search)[1],a=/utm_campaign=([^&]+)/g.exec(location.search)?/utm_campaign=([^&]+)/g.exec(location.search)[1]:"undefined";fbq("trackCustom","UTMs",{Source:b,Medium:c,Campaign:a});b="utm_source\x3d"+b+"\x26utm_medium\x3d"+c+"\x26utm_campaign\x3d"+a}else b=""==document.referrer?"direct":document.referrer,c="direct"==b?"none":"organic",a="none",fbq("trackCustom",
+"UTMs",{Source:b,Medium:c,Campaign:a}),b="utm_source\x3d"+b+"\x26utm_medium\x3d"+c+"\x26utm_campaign\x3d"+a;createCookie(d,b,cookie_duration)}else d=readCookie(d),b=/utm_source=([^&]+)/g.exec(d)[1],c=/utm_medium=([^&]+)/g.exec(d)[1],a=/utm_campaign=([^&]+)/g.exec(d)?/utm_campaign=([^&]+)/g.exec(d)[1]:"undefined",fbq("trackCustom","UTMs",{Source:b,Medium:c,Campaign:a})}
+function createCookie(d,b,c){if(c){var a=new Date;a.setTime(a.getTime()+864E5*c);c="; expires\x3d"+a.toGMTString()}else c="";document.cookie=d+"\x3d"+b+c+"; path\x3d/"}function readCookie(d){d+="\x3d";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var a=b[c];" "==a.charAt(0);)a=a.substring(1,a.length);if(0==a.indexOf(d))return a.substring(d.length,a.length)}return null}function eraseCookie(d){createCookie(d,"",-1)};</script><script type="text/javascript" id="">(function(a,d,g,b){a.PeopleEventsObject=b;a[b]=a[b]||{init:function(c){a[b].apiKey=c},setPerson:function(c,e){a[b].person=c;a[b].personTtl=e},forgetPerson:function(){a[b].toForgetPerson=!0},track:function(){(a[b].q=a[b].q||[]).push(arguments)},updatePerson:function(c){a[b].personToUpdate={person:c}},appendToList:function(c,e){a[b].attributeToAppend={attributeName:c,attribute:e}}};var f=d.createElement("script");d=d.getElementsByTagName("script")[0];f.async=1;f.src=g;d.parentNode.insertBefore(f,d)})(window,
+document,"https://s3.eu-central-1.amazonaws.com/portal-cdn-production/people-events-sdk/pe.latest-2.js","pe");pe.init("315218b27c558426bd2757f8678ad28c-a5847b1e-96eb-493c-92ec-3d02939f782a");</script><iframe src="javascript:false" title="" role="presentation" style="display: none;"></iframe><script type="text/javascript" id="">var cookie_name="fb_utm",cookie_duration=180;/utm_source/g.exec(location.search)&&/utm_medium/g.exec(location.search)?cookieModify(cookie_name,!0):cookieModify(cookie_name,!1);
+function cookieModify(c,e){if(e){var a=/utm_source=([^&]+)/g.exec(location.search)[1],b=/utm_medium=([^&]+)/g.exec(location.search)[1],d=/utm_campaign=([^&]+)/g.exec(location.search)?/utm_campaign=([^&]+)/g.exec(location.search)[1]:void 0;fbq("trackCustom","UTMs",{Source:a,Medium:b,Campaign:d});null!=readCookie(c)&&eraseCookie(c);a="utm_source\x3d"+a+"\x26utm_medium\x3d"+b+"\x26utm_campaign\x3d"+d;createCookie(c,a,cookie_duration)}else-1==document.referrer.search(location.hostname)?(a=""==document.referrer?
+"direct":document.referrer.replace(/(http|https):\/\/www\.|\//g,""),b="direct"==a?"none":"organic",d=void 0,fbq("trackCustom","UTMs",{Source:a,Medium:b,Campaign:d}),null!=readCookie(c)&&eraseCookie(c),a="utm_source\x3d"+a+"\x26utm_medium\x3d"+b+"\x26utm_campaign\x3d"+d,createCookie(c,a,cookie_duration)):(d=readCookie(c),a=/utm_source=([^&]+)/g.exec(d)[1],b=/utm_medium=([^&]+)/g.exec(d)[1],d=/utm_campaign=([^&]+)/g.exec(d)?/utm_campaign=([^&]+)/g.exec(d)[1]:void 0,fbq("trackCustom","UTMs",{Source:a,
+Medium:b,Campaign:d}))}function createCookie(c,e,a){if(a){var b=new Date;b.setTime(b.getTime()+864E5*a);a="; expires\x3d"+b.toGMTString()}else a="";document.cookie=c+"\x3d"+e+a+"; path\x3d/"}function readCookie(c){c+="\x3d";for(var e=document.cookie.split(";"),a=0;a<e.length;a++){for(var b=e[a];" "==b.charAt(0);)b=b.substring(1,b.length);if(0==b.indexOf(c))return b.substring(c.length,b.length)}return null}function eraseCookie(c){createCookie(c,"",-1)};</script><iframe id="_hjSafeContext_21208833" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe> 
+    
+<div style="display: none; visibility: hidden;">
+<script type="text/javascript" src="https://a.omappapi.com/app/js/api.min.js" data-account="88213" data-user="78455" async="null"></script>
+</div><iframe data-product="web_widget" title="No content" role="presentation" tabindex="-1" allow="microphone *" aria-hidden="true" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe><div style="visibility: visible;"><div></div><div><div style="display: flex; flex-direction: column; z-index: 999999; bottom: 88px; position: fixed; left: 16px; direction: ltr; align-items: end; gap: 8px;"><div style="display: flex; gap: 8px;"><iframe title="Cerrar mensaje" style="color-scheme: light; height: 40px; width: 40px; border: 0px; background-color: transparent; box-shadow: rgba(23, 73, 77, 0.15) 0px 20px 30px; border-radius: 100%; vertical-align: unset; opacity: 1; align-self: end;"></iframe><iframe title="Mensaje de la compañía" style="color-scheme: light; width: 171.828px; height: 44px; max-width: 280px; overflow: auto; border: 0px; background-color: transparent; box-shadow: rgba(23, 73, 77, 0.15) 0px 20px 30px; border-radius: 20px; display: inline-block; vertical-align: unset; transform-origin: left bottom; opacity: 0; transform: scale(0);"></iframe></div></div><style>
+        @-webkit-keyframes ww-40d7fd04-627e-48d5-a3b9-6798ef061e5f-launcherOnOpen {
+          0% {
+            -webkit-transform: translateY(0px) rotate(0deg);
+                    transform: translateY(0px) rotate(0deg);
+          }
+
+          30% {
+            -webkit-transform: translateY(-5px) rotate(2deg);
+                    transform: translateY(-5px) rotate(2deg);
+          }
+
+          60% {
+            -webkit-transform: translateY(0px) rotate(0deg);
+                    transform: translateY(0px) rotate(0deg);
+          }
+
+
+          90% {
+            -webkit-transform: translateY(-1px) rotate(0deg);
+                    transform: translateY(-1px) rotate(0deg);
+
+          }
+
+          100% {
+            -webkit-transform: translateY(-0px) rotate(0deg);
+                    transform: translateY(-0px) rotate(0deg);
+          }
+        }
+        @keyframes ww-40d7fd04-627e-48d5-a3b9-6798ef061e5f-launcherOnOpen {
+          0% {
+            -webkit-transform: translateY(0px) rotate(0deg);
+                    transform: translateY(0px) rotate(0deg);
+          }
+
+          30% {
+            -webkit-transform: translateY(-5px) rotate(2deg);
+                    transform: translateY(-5px) rotate(2deg);
+          }
+
+          60% {
+            -webkit-transform: translateY(0px) rotate(0deg);
+                    transform: translateY(0px) rotate(0deg);
+          }
+
+
+          90% {
+            -webkit-transform: translateY(-1px) rotate(0deg);
+                    transform: translateY(-1px) rotate(0deg);
+
+          }
+
+          100% {
+            -webkit-transform: translateY(-0px) rotate(0deg);
+                    transform: translateY(-0px) rotate(0deg);
+          }
+        }
+
+        @keyframes ww-40d7fd04-627e-48d5-a3b9-6798ef061e5f-widgetOnLoad {
+          0% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 1;
+          }
+        }
+
+        @-webkit-keyframes ww-40d7fd04-627e-48d5-a3b9-6798ef061e5f-widgetOnLoad {
+          0% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 1;
+          }
+        }
+      </style><iframe title="Botón para iniciar la ventana de mensajería" id="launcher" style="color-scheme: light; height: 64px; width: 64px; position: fixed; bottom: 16px; left: 16px; transform: none; transform-origin: left bottom; border: 0px; margin-top: 0px; opacity: 0; box-shadow: rgba(23, 73, 77, 0.15) 0px 20px 30px; animation: 0.2s ease-in 0.5s 1 normal forwards running ww-40d7fd04-627e-48d5-a3b9-6798ef061e5f-widgetOnLoad; z-index: 999999; border-radius: 50%;"></iframe></div></div></body></html>

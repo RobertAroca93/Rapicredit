@@ -12,34 +12,32 @@ import net.serenitybdd.screenplay.actions.Scroll;
 import static co.com.rapicredit.userInterface.paginaLogin.OnboardingRP.*;
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
-public class GeneraryReutilizarCorreo implements Task {
+public class GenerarCorreo implements Task {
 
-    private String correoGenerado;
+    private static String emailGenerado;
 
+    private static int contador = 0;
 
-    public static Performable email() {
-        return Task.where("{0} genera un correo aleatorio",)
-        actor -> {
-            GenerarCorreo generarCorreo = new GenerarCorreo();
-            generarCorreo.correo = Faker.instance().internet().emailAddress();
-            actor.remember("correoGenerado", generarCorreo.correo);
-        }
-    }
 
     @Override
     public <T extends Actor> void performAs(T actor) {
 
 
-
         Faker faker = new Faker();
 
-        String email = faker.internet().emailAddress();
+        int randomNumber = faker.number().randomDigit();
+
+        String email =  "correoprueba" + randomNumber + "@yopmail.com";
+
+        /*Increment the counter for each email generation
+        contador++;
+
+        // Construct the email address with a numeric suffix
+        String email = "automationtest" + String.format("%02d", contador) + "@yopmail.com";*/
 
         // Almacena el correo electrónico en el contexto del actor para que pueda ser recuperado más tarde
         actor.remember("emailGenerado", email);
 
-        // Devuelve el correo electrónico generado como resultado de la tarea
-        actor.remember("emailGenerado", email);
 
         actor.attemptsTo(
                 Scroll.to(CORREO_SOLICITUD),
@@ -54,51 +52,14 @@ public class GeneraryReutilizarCorreo implements Task {
         );
     }
 
-
-    public static GeneraryReutilizarCorreo generaryReutilizarCorreo() {
-        return new GeneraryReutilizarCorreo();
+    public static Performable email() {
+        return instrumented(GenerarCorreo.class);
     }
 
     public static String obtenerResultado(Actor actor) {
         // Recupera el correo electrónico generado desde el contexto del actor
-        return actor.recall("result");
-
+        return actor.recall("emailGenerado");
     }
+
 
 }
-
-    /*public static void main(String[] args) {
-
-        // Crea una instancia de JavaFaker
-        Faker faker = new Faker();
-
-        // Genera un correo electrónico ficticio
-        String emailFake = generarEmailFake(faker);
-
-        // Imprime el correo electrónico generado
-        System.out.println("Correo electrónico generado: " + emailFake);
-
-        // Puedes reutilizar el correo electrónico en diferentes partes de tu código
-        // Por ejemplo, puedes usarlo en un formulario, base de datos, etc.
-        String reusedEmail = reuseEmail(emailFake);
-        System.out.println("Correo electrónico reutilizado: " + reusedEmail);
-    }
-
-    private static String generarEmailFake(Faker faker) {
-        // Genera un correo electrónico ficticio
-        return faker.internet().emailAddress();
-    }
-
-    private static String reuseEmail(String email) {
-        // Aquí puedes realizar cualquier acción que necesites con el correo electrónico,
-        // como almacenarlo en una base de datos, utilizarlo en un formulario, etc.
-        return email;
-    }
-
-    @Override
-    public <T extends Actor> void performAs(T actor) {
-
-    }
-    public static GenerarCorreo generarCorreo(){
-        return new GenerarCorreo();
-    }*/

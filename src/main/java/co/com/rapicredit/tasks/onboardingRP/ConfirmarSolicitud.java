@@ -22,4 +22,7 @@ public class ConfirmarSolicitud implements Task {
         );
 
     }
+    public static ConfirmarSolicitud confirmarSolicitud(){
+        return new ConfirmarSolicitud();
+    }
 }

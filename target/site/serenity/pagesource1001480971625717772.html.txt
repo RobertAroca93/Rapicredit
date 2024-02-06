@@ -1,0 +1,1522 @@
+<html lang="es-CO" class=""><head>
+	    <meta charset="utf-8">
+	    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+	    <meta content="width=device-width, initial-scale=1" name="viewport">
+
+		
+		<!-- Google Tag Manager -->
+		<!--<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WL82ZQ7');</script>
+		<!-- End Google Tag Manager -->
+		
+		<link rel="apple-touch-icon" sizes="57x57" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/favicon-16x16.png">
+		<link rel="manifest" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/manifest.json">
+		<meta name="msapplication-TileImage" content="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/ms-icon-144x144.png">
+		<meta name="theme-color" content="#000000">
+
+	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">  
+	    <link href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/css/ion.rangeSlider.min.css" rel="stylesheet">
+	    <link href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/css/slick.css" rel="stylesheet">
+	    <link href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/css/style.css" rel="stylesheet">
+		<meta name="robots" content="noindex, follow, nofollow">
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v19.3 (Yoast SEO v20.2.1) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>POLÍTICA PARA LA PROTECCIÓN Y TRATAMIENTO DE DATOS PERSONALES | RapiCredit</title>
+	<meta name="description" content="Política de Privacidad y Tratamiento de datos personales en la plataforma Rapicredit.com y sitios relacionados">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="POLÍTICA PARA LA PROTECCIÓN Y TRATAMIENTO DE DATOS PERSONALES">
+	<meta property="og:description" content="Política de Privacidad y Tratamiento de datos personales en la plataforma Rapicredit.com y sitios relacionados">
+	<meta property="og:url" content="https://home.test.rapicredit.com/politica-de-privacidad-tratamiento-de-datos/">
+	<meta property="og:site_name" content="RapiCredit.com">
+	<meta property="article:publisher" content="https://www.facebook.com/RapiCreditSAS">
+	<meta property="article:modified_time" content="2022-07-14T00:05:15+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@rapicredit">
+	<meta name="twitter:label1" content="Est. reading time">
+	<meta name="twitter:data1" content="33 minutos">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["WebPage","SearchResultsPage"],"@id":"https://home.test.rapicredit.com/politica-de-privacidad-tratamiento-de-datos/","url":"https://home.test.rapicredit.com/politica-de-privacidad-tratamiento-de-datos/","name":"POLÍTICA PARA LA PROTECCIÓN Y TRATAMIENTO DE DATOS PERSONALES | RapiCredit","isPartOf":{"@id":"https://172.31.71.5/#website"},"datePublished":"2020-12-04T20:18:50+00:00","dateModified":"2022-07-14T00:05:15+00:00","description":"Política de Privacidad y Tratamiento de datos personales en la plataforma Rapicredit.com y sitios relacionados","breadcrumb":{"@id":"https://home.test.rapicredit.com/politica-de-privacidad-tratamiento-de-datos/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://home.test.rapicredit.com/politica-de-privacidad-tratamiento-de-datos/"]}]},{"@type":"BreadcrumbList","@id":"https://home.test.rapicredit.com/politica-de-privacidad-tratamiento-de-datos/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://home.test.rapicredit.com/"},{"@type":"ListItem","position":2,"name":"POLÍTICA PARA LA PROTECCIÓN Y TRATAMIENTO DE DATOS PERSONALES"}]},{"@type":"WebSite","@id":"https://172.31.71.5/#website","url":"https://172.31.71.5/","name":"RapiCredit.com","description":"Préstamos y créditos personales 100% Online, Rápido y Seguro. Solicitalo por Internet; obtén aprobación inmediata y recibe el dinero en menos de 24 horas.","publisher":{"@id":"https://172.31.71.5/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://172.31.71.5/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"https://172.31.71.5/#organization","name":"RapiCredit","url":"https://172.31.71.5/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://172.31.71.5/#/schema/logo/image/","url":"https://172.31.71.5/wp-content/uploads/2020/05/rapricredit_logo.svg","contentUrl":"https://172.31.71.5/wp-content/uploads/2020/05/rapricredit_logo.svg","width":271,"height":66,"caption":"RapiCredit"},"image":{"@id":"https://172.31.71.5/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/RapiCreditSAS","https://twitter.com/rapicredit","https://www.instagram.com/rapicredit_sas/","https://www.linkedin.com/company/rapicredit/mycompany/","https://www.youtube.com/channel/UCS9GQfCDEQBuFM6aS4sgTNA"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="dns-prefetch" href="//home.test.rapicredit.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="wp-block-library-css" href="https://home.test.rapicredit.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://home.test.rapicredit.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://home.test.rapicredit.com/wp-includes/css/dashicons.min.css?ver=6.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp_review-style-css" href="https://home.test.rapicredit.com/wp-content/plugins/wp-review/public/css/wp-review.css?ver=5.3.5" type="text/css" media="all">
+<link rel="https://api.w.org/" href="https://home.test.rapicredit.com/wp-json/"><link rel="alternate" type="application/json" href="https://home.test.rapicredit.com/wp-json/wp/v2/pages/4531"><link rel="alternate" type="application/json+oembed" href="https://home.test.rapicredit.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhome.test.rapicredit.com%2Fpolitica-de-privacidad-tratamiento-de-datos%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://home.test.rapicredit.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhome.test.rapicredit.com%2Fpolitica-de-privacidad-tratamiento-de-datos%2F&amp;format=xml">
+<!-- Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FinancialService","name":"RapiCredit","image":{"@type":"ImageObject","url":"https:\/\/www.rapicredit.com\/wp-content\/uploads\/2020\/05\/rapricredit_logo.svg","width":271,"height":66},"telephone":"(601) 3902670","url":"https:\/\/www.rapicredit.com\/","address":{"@type":"PostalAddress","streetAddress":"Colombia","addressLocality":"Colombia","postalCode":"110111","addressRegion":"Colombia","addressCountry":"CO"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","reviewCount":"500"},"priceRange":"100.000 - 750.000","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":[""],"opens":"","closes":""}]}</script><!-- / Schema optimized by Schema Pro --><!-- organization Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"organization","name":"RapiCredit","url":"https:\/\/home.test.rapicredit.com"}</script><!-- / organization Schema optimized by Schema Pro --><!-- breadcrumb Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/home.test.rapicredit.com\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/home.test.rapicredit.com\/politica-de-privacidad-tratamiento-de-datos\/","name":"POL\u00cdTICA PARA LA PROTECCI\u00d3N Y TRATAMIENTO DE DATOS PERSONALES"}}]}</script><!-- / breadcrumb Schema optimized by Schema Pro -->		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+				<style type="text/css" id="wp-custom-css">
+			.video-responsive {
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	position: relative;
+	}
+.video-responsive iframe, .video-responsive object, .video-responsive embed {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	}
+
+.amp-wp-header{
+	background: #ffffff;
+}
+
+.aligncenter{
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+
+.aligncenter:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	}
+
+@media (max-width: 766px){
+.aligncenter{
+		width:350px;
+		height:45px;	
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+.aligncenter:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	}}
+
+
+.aligncenter-grande{
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+
+.aligncenter-grande:hover{
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+
+@media (max-width: 766px){
+.aligncenter-grande{
+		width:330px;
+		height:200px;
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+	.aligncenter-grande:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	}}
+
+.alignnone{
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+
+.alignnone:hover{
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+
+@media (max-width: 766px){
+.alignnone{
+		width:310px;
+		height:60px;
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+.alignnone:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	}}
+
+
+@media (max-width: 766px){
+.ejemplo-36-cuotas{
+		width:310px;
+		height:454px;
+		align-content:center;
+	}}
+
+
+@media (max-width: 766px){
+.ejemplo-cuotas{
+		width:310px;
+		height:403px;
+		align-content:center;
+	}}
+
+#boton_contenido{
+	background: #DA0916; 
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c; 
+	color: #ffffff;
+	border: none; 
+	border-radius: 50px; 
+	cursor: pointer; 
+	font-family: Akrobat; 
+	font-size: 1.56rem; 
+	font-weight: 600; line-height: 1;
+	margin-bottom: 1.125rem; 
+	min-width: 320px; 
+	padding: .84rem; display: inline-block;
+}
+
+#boton_contenido:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	text-decoration:none;
+	}
+
+#imagen-registro{	
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c; 
+}
+
+#imagen-registro:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	text-decoration:none;
+	}
+
+.imagen-camino-conciencia-financiera{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-camino-conciencia-financiera{
+		width:310px;
+		height:483px;	
+	}}
+
+
+
+.imagen-ejemplo-interes-efectivo-1{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-efectivo-1{
+		width:310px;
+		height:30px;	
+	}}
+
+
+.imagen-ejemplo-interes-efectivo-2{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-efectivo-2{
+		width:310px;
+		height:207px;	
+	}}
+
+
+
+.imagen-ejemplo-interes-efectivo-3{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-efectivo-3{
+		width:310px;
+		height:134px;	
+	}}
+
+
+
+.imagen-ejemplo-interes-efectivo-4{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-efectivo-4{
+		width:310px;
+		height:138px;	
+	}}
+
+.imagen-ejemplo-interes-gota-gota{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-gota-gota{
+		width:310px;
+		height:152px;	
+	}
+
+.imagen-ejemplo-interes-efectivo-5{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-efectivo-5{
+		width:310px;
+		height:204px;	
+	}}
+
+
+.imagen-viajar-qatar{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-viajar-qatar{
+		width:310px;
+		height:132px;	
+	}}
+
+
+
+@media (max-width: 766px){
+.imagen-novacion{
+		width:310px;
+		height:165px;	
+	}}
+
+
+/*formulario landing contactos tiktok*/
+.formulario-1{	
+    margin-top: -900px;
+    position: relative;
+    margin-left: -125px;
+}
+
+.icon_item{
+	font-size:30px;
+}
+
+.content-landing-1 .table-container .table-responsive{
+	background: #ECEDF1;
+    border-radius: 30px;
+    box-shadow: -2px -2px 5px white, 5px 5px 10px rgb(0 0 0 / 20%);}
+
+.content-landing-1 .info-top{
+	color: #5A5A5A;
+    font-size: 1.56rem;
+    line-height: 1.875rem;
+    text-align: center;}
+
+.content-landing-1 .table-container .table-responsive table tr td{
+	padding: 15px 45px;
+    vertical-align: middle;
+}
+
+.content-landing-1 .table-container .message-table{
+	color: #5A5A5A;
+    margin: 45px 0 0;
+    text-align: center;}
+
+.content-landing-1{
+	padding-top: 100px;}
+
+
+
+#wpcf7-f7705-p7647-o1{
+	background: #E4E7EC;
+    border-radius: 30px;
+    font-size: 0.87rem;
+    padding: 15px 15px 0px 15px;
+    max-width: 600px;
+    text-align: center;
+}
+
+.title-form-1{
+	    font-size: 40px;
+	color:white;
+}
+
+
+.title-form-landing{
+	color: #232427;
+    font-size: 1.56rem;
+    font-weight: bold;
+    line-height: 1.75rem;
+    margin-top: 0;
+    margin-bottom: 10px;
+    max-width: none;
+    position: relative;
+    text-align: center;
+}
+
+.wpcf7-form-control[type='submit']{
+		min-width: 100px;
+	background: #AF0063;
+	color: white;}
+
+.texto-formulario-1{
+	margin-top: 200px;
+}
+
+@media (max-width: 1400px){
+.formulario-1{	
+	margin-top: -550px;}
+}
+
+
+@media (max-width: 766px){
+	.formulario-1{	
+		margin-top: -300px;	
+    margin-left: -1px;}		
+	.texto-formulario-1{
+		margin-top: 50px;}
+	.icon_item{
+		font-size:25px;}	
+	.title-form-1{
+	   font-size: 25px;
+		color:white;
+		text-shadow: black 0.1em 0.1em 0.2em;}
+	.content-landing-1 .table-container .table-responsive table tr td{
+		padding: 5px 5px 5px 10px;
+    vertical-align: middle;
+	font-size: 15px}
+	.icon_item > img{
+		height:50px;
+		width:50px;
+	}
+}
+
+/*Botón simulador pequeño derecha
+.btn.btn-default{
+	
+	background: #AF0063;
+}+/*/
+	
+	
+@media (max-width: 766px){
+.imagen-disfraz{
+		width:310px;
+		height:447px;	
+	}}
+		</style>
+			    	</head>
+	
+	<body class="page-template page-template-page-static page-template-page-static-php page page-id-4531 wp-schema-pro-2.0.0">
+		<!-- Google Tag Manager (noscript) -->
+		<!--<noscript><iframe 
+		height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-WL82ZQ7" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>-->
+		<!-- End Google Tag Manager (noscript) -->
+		 
+		<header>
+		    <div class="container">
+		        <div class="header">
+		            <button class="navbar-toggle collapsed">
+		            	<span class=""></span>
+		            	<span class=""></span>
+		            	<span class=""></span>
+		            </button>
+		            <a class="logo" href="/">
+		                <img alt="Rapicredit" title="Rapicredit" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/rapricredit_logo_color.svg" class=" lazyloaded" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/rapricredit_logo_color.svg"><noscript><img alt="Rapicredit" title="Rapicredit" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/rapricredit_logo_color.svg"/></noscript>
+		            </a>
+		        
+		            <nav id="menu" class="main-menu"><ul id="menu-menu-principal" class="menu-menu-principal"><li id="menu-item-8127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8127"><a href="#">Productos</a>
+<ul class="sub-menu">
+	<li id="menu-item-11271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11271"><a href="https://home.test.rapicredit.com/">RapiCredit</a></li>
+	<li id="menu-item-7997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7997"><a href="https://landing.rapicredit.com/landing">RapiPlazo</a></li>
+</ul>
+</li>
+<li id="menu-item-7998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7998"><a href="#">¿Cómo funciona?</a>
+<ul class="sub-menu">
+	<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a title="¿Cómo funciona RapiFlex?" href="https://home.test.rapicredit.com/como-funciona/">¿Cómo Funciona RapiFlex?</a></li>
+	<li id="menu-item-7999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7999"><a title="¿Cómo Funciona RapiPlazo?" href="https://www.rapicredit.com/rapiplazo/como-funciona/">¿Cómo Funciona RapiPlazo?</a></li>
+</ul>
+</li>
+<li id="menu-item-8000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8000"><a href="#">Paga tu Préstamo</a>
+<ul class="sub-menu">
+	<li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a title="Paga tu Préstamo" href="https://home.test.rapicredit.com/pagar-prestamo/">Paga tu RapiFlex</a></li>
+	<li id="menu-item-6787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6787"><a href="https://cliente.rapicredit.com/login">Paga tu RapiPlazo</a></li>
+</ul>
+</li>
+<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a title="Preguntas y Respuestas sobre RapiCredit" href="https://home.test.rapicredit.com/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15"><a title="Quienes somos" href="#">Quienes somos</a>
+<ul class="sub-menu">
+	<li id="menu-item-472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a title="Acerca de RapiCredit" href="https://home.test.rapicredit.com/acerca-de/">Acerca de RapiCredit</a></li>
+	<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a title="Refiere RapiCredit y gana" href="https://home.test.rapicredit.com/referidos/">Referidos</a></li>
+	<li id="menu-item-479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-479"><a title="Obtener más Plazo" href="https://home.test.rapicredit.com/obtener-mas-plazo/">Ampliar Plazo</a></li>
+	<li id="menu-item-475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a title="Noticias sobre RapiCredit" href="https://home.test.rapicredit.com/noticias/">Noticias</a></li>
+	<li id="menu-item-8096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8096"><a href="https://home.test.rapicredit.com/blog/">Blog</a></li>
+</ul>
+</li>
+</ul></nav>
+		            <div class="right-menu">
+		            <nav class="user-menu"><ul id="menu-login" class="menu"><li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23"><a href="https://frontlendingst.test.rapicredit.com/login">Login</a>
+<ul class="sub-menu">
+	<li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a target="_blank" rel="noopener" href="https://frontlendingst.test.rapicredit.com/login">Iniciar Sesión</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a target="_blank" rel="noopener" href="https://www.rapicredit.com/app/signUp">Registrarte</a></li>
+</ul>
+</li>
+</ul></nav>		            </div>
+		        </div>
+		    </div>
+		</header>
+<div class="container">
+	<ul class="breadcrumb"><li><a href="https://home.test.rapicredit.com" rel="nofollow">Home</a></li><li class="active">POLÍTICA PARA LA PROTECCIÓN Y TRATAMIENTO DE DATOS PERSONALES</li></ul></div>
+<section class="content">
+	<div class="container">
+		<h1 class="title-block">POLÍTICA PARA LA PROTECCIÓN Y TRATAMIENTO DE DATOS PERSONALES</h1>
+
+		 <!--Because the_content() works only inside a WP Loop -->
+		        <div class="body_page">
+					<p>0. GENERALIDADES<br>
+En cumplimiento a lo dispuesto en la Ley Estatutaria 1581 de 20121 y sus Decretos<br>
+Reglamentarios, la Empresa establece la Política General y Especiales aplicables para el<br>
+Tratamiento y Protección de Datos Personales en la organización.<br>
+0.1. IDENTIFICACIÓN DEL RESPONSABLE<br>
+LA COMPAÑÍA DE CRÉDITOS RÁPIDOS S.A.S. (en adelante la “Compañía”,<br>
+“RapiCredit”), es una sociedad comercial identificada con NIT 900.564.668-4, con matrícula<br>
+mercantil 02366627 y con domicilio principal en la ciudad de Bogotá D.C., que se constituye<br>
+como una Empresa colombiana cuyo objeto social consiste en el desarrollo de productos y<br>
+servicios que promuevan la inclusión financiera y el acceso al crédito de las personas, así<br>
+como de las micro, pequeñas y medias empresas (Mipymes).</p>
+<table>
+<tbody>
+<tr>
+<td width="203"><strong>DIRECCIÓN FÍSICA:</strong></td>
+<td width="374">Carrera 29 #75 A 26 de la ciudad de Bogotá D.C.</td>
+</tr>
+<tr>
+<td width="203">CORREO ELECTRÓNICO:</td>
+<td width="374"><u><a href="mailto:notificaciones@rapicredit.com">datospersonales@rapicredit.com</a></u></td>
+</tr>
+<tr>
+<td width="203">PÁGINA WEB:</td>
+<td width="374"><a href="https://www.rapicredit.com/">www.rapicredit.com</a></td>
+</tr>
+<tr>
+<td width="203">TELÉFONO:</td>
+<td width="374">60 (1) 3902670</td>
+</tr>
+</tbody>
+</table>
+<p>1. OBJETIVO<br>
+La presente Política establece las directrices generales para la protección y el tratamiento<br>
+de datos personales al interior de la Compañía, permitiendo de esta manera fortalecer el<br>
+nivel de confianza entre Responsable y Titulares con relación al tratamiento de su<br>
+información; Informar a los Titulares sobre las finalidades y transferencias a que son<br>
+sometidos sus datos personales y los mecanismos y formas para el ejercicio de sus<br>
+derechos.<br>
+2. ALCANCE<br>
+Esta Política de Tratamiento y Protección de Datos Personales (en adelante la “Política”)<br>
+será aplicada a todas las bases de datos y/o archivos que incluyan datos personales que<br>
+sean objeto de tratamiento por parte de RapiCredit como responsable del tratamiento de<br>
+datos personales.<br>
+La presente constituye la versión 2.0 de Política de Tratamiento de Datos Personales de la<br>
+Compañía, lo anterior, con base en el proceso de actualización de bases de datos que<br>
+realizó la empresa dando cumplimiento a la Circular Externa 003 del 2018, esto es la actualización que debe realizar toda empresa de sus bases de datos entre el 02 de enero<br>
+y el 31 de marzo de cada año a partir del 2020.<br>
+3. TERMINOLOGÍA<br>
+ Autorización: Consentimiento previo, expreso e informado del Titular para llevar a<br>
+cabo el tratamiento de datos personales.<br>
+ Aviso de privacidad: Es el documento físico, electrónico o en cualquier otro<br>
+formato conocido o por conocer, que es puesto a disposición del Titular con el fin de<br>
+informar sobre el tratamiento de sus datos personales.<br>
+ Base de datos: Conjunto organizado de datos personales que sea objeto de<br>
+tratamiento.<br>
+ Causahabiente: Persona que por sucesión o transmisión adquiere los derechos de<br>
+otra persona.<br>
+ Dato personal: Cualquier información vinculada o que pueda asociarse a una o<br>
+varias personas naturales determinadas o determinables.<br>
+ Encargado del tratamiento: Persona natural o jurídica, pública o privada, que por<br>
+sí misma o en asocio con otros, realice el tratamiento de datos personales por<br>
+cuenta del Responsable del tratamiento.<br>
+ Habeas data: Derecho que tiene toda persona de conocer, actualizar y rectificar la<br>
+información que se haya recogido sobre ella en archivos y bancos de datos de<br>
+naturaleza pública o privada.<br>
+ Responsable del tratamiento: Persona natural o jurídica, pública o privada, que<br>
+por sí misma o en asocio con otros, decida sobre la base de datos y/o el tratamiento<br>
+de los datos.<br>
+ Tratamiento: Cualquier operación o conjunto de operaciones sobre datos<br>
+personales, tales como la recolección, almacenamiento, uso, circulación o<br>
+supresión.<br>
+ Titular: Persona natural cuyos datos personales sean objeto de tratamiento 4. NORMATIVIDAD APLICABLE<br>
+ Ley 1581 de 2012 – Disposiciones Generales para la Protección de Datos<br>
+Personales.<br>
+ Decreto 1074 de 2015 – Por medio del cual se expide el Decreto Único<br>
+Reglamentario del Sector Comercio, Industria y Turismo. Capítulo 25: Reglamenta<br>
+parcialmente la Ley 1581 de 2012.<br>
+ Ley 1273 de 2009 – Por medio de la cual se modifica el Código Penal, se crea un<br>
+nuevo bien jurídico tutelado – denominado ‘de la protección de la información y de<br>
+los datos’- y se preservan integralmente los sistemas que utilicen las tecnologías de<br>
+la información y las comunicaciones, entre otras disposiciones.<br>
+5. DOCUMENTOS RELACIONADOS<br>
+ ISM-PT-001 – Política Seguridad y Ciberseguridad.<br>
+ GLG-ML-001 – Manual de Contratación.<br>
+6. RESPONSABILIDADES<br>
+ Titulares de los datos personales: Relacione las responsabilidades principales frente<br>
+al cumplimiento de la política.<br>
+ Responsable del Tratamiento de Datos Personales: Relacione las<br>
+responsabilidades principales frente al cumplimiento de la política.<br>
+ Oficial de Protección de Datos Personales: Relacione las responsabilidades<br>
+principales frente al cumplimiento de la política.<br>
+7. DISPOSICIONES<br>
+7.1. PRINCIPIOS RECTORES APLICABLES EN MATERIA DE DATOS<br>
+PERSONALES<br>
+En materia de protección de datos personales se deben aplicar los siguientes principios<br>
+rectores:<br>
+a) Principio de legalidad en materia de Tratamiento de Datos: El tratamiento a que<br>
+se refiere la Ley de Habeas Data es una actividad regulada que debe sujetarse a lo<br>
+establecido en ella y en las demás disposiciones que la desarrollen.<br>
+b) Principio de finalidad: El tratamiento debe obedecer a una finalidad legítima de<br>
+acuerdo con la Constitución y la ley, la cual debe ser informada al Titular.</p>
+<p>c) Principio de libertad: El tratamiento sólo puede ejercerse con el consentimiento,<br>
+previo, expreso e informado del Titular. Los datos personales no podrán ser<br>
+obtenidos o divulgados sin previa autorización, o en ausencia de mandato legal o<br>
+judicial que releve el consentimiento.<br>
+d) Principio de veracidad o calidad: La información sujeta a tratamiento debe ser<br>
+veraz, completa, exacta, actualizada, comprobable y comprensible. Se prohíbe el<br>
+tratamiento de datos parciales, incompletos, fraccionados o que induzcan a error.<br>
+e) Principio de transparencia: En el tratamiento debe garantizarse el derecho del<br>
+Titular a obtener del Responsable del tratamiento o del Encargado del tratamiento,<br>
+en cualquier momento y sin restricciones, información acerca de la existencia de<br>
+datos que le conciernan.<br>
+f) Principio de acceso y circulación restringida: El tratamiento se sujeta a los<br>
+límites que se derivan de la naturaleza de los datos personales, de las disposiciones<br>
+de la ley y la Constitución. En este sentido, el tratamiento sólo podrá hacerse por<br>
+personas autorizadas por el Titular y/o por las personas previstas en la ley.<br>
+Los datos personales, salvo la información pública, no podrán estar disponibles en<br>
+Internet u otros medios de divulgación o comunicación masiva, salvo que el acceso<br>
+sea técnicamente controlable para brindar un conocimiento restringido sólo a los<br>
+Titulares o terceros autorizados conforme a la ley.<br>
+g) Principio de seguridad: La información sujeta a tratamiento por el Responsable<br>
+del tratamiento o Encargado del tratamiento a que se refiere la Ley de Habeas Data,<br>
+se deberá manejar con las medidas técnicas, humanas y administrativas que sean<br>
+necesarias para otorgar seguridad a los registros evitando su adulteración, pérdida,<br>
+consulta, uso o acceso no autorizado o fraudulento.<br>
+h) Principio de confidencialidad: Todas las personas que intervengan en el<br>
+tratamiento de datos personales que no tengan la naturaleza de públicos están<br>
+obligadas a garantizar la reserva de la información, inclusive después de finalizada<br>
+su relación con alguna de las labores que comprende el tratamiento, pudiendo sólo<br>
+realizar suministro o comunicación de datos personales cuando ello corresponda al<br>
+desarrollo de las actividades autorizadas en la ley y en los términos de la misma.<br>
+7.2. DERECHOS DE LOS TITULARES<br>
+Los Titulares de datos personales gozarán de los siguientes derechos, y de aquellos que<br>
+les otorgue la ley:<br>
+a) Conocer, actualizar y rectificar sus datos personales frente al Responsable del<br>
+tratamiento o Encargados del tratamiento. Este derecho se podrá ejercer, entre otros<br>
+frente a datos parciales, inexactos, incompletos, fraccionados, que induzcan a error,<br>
+o aquellos cuyo tratamiento esté expresamente prohibido o no haya sido autorizado.</p>
+<p>b) Solicitar prueba de la autorización otorgada al Responsable del tratamiento salvo<br>
+cuando expresamente se exceptúe como requisito para el tratamiento, de<br>
+conformidad con lo previsto en el artículo 10 de la ley.<br>
+c) Ser informado por el Responsable del tratamiento o el Encargado del tratamiento,<br>
+previa solicitud, respecto del uso que les ha dado a sus datos personales.<br>
+d) Presentar ante la Superintendencia de Industria y Comercio quejas por infracciones<br>
+a lo dispuesto en la ley y las demás normas que la modifiquen, adicionen o<br>
+complementen.<br>
+e) Revocar la autorización y/o solicitar la supresión del dato cuando en el tratamiento<br>
+no se respeten los principios, derechos y garantías constitucionales y legales. La<br>
+revocatoria y/o supresión procederá cuando la Superintendencia de Industria y<br>
+Comercio haya determinado que en el tratamiento el Responsable o Encargado han<br>
+incurrido en conductas contrarias a la ley y a la Constitución.<br>
+f) Acceder en forma gratuita a sus datos personales que hayan sido objeto de<br>
+tratamiento.<br>
+7.3. AUTORIZACIÓN DEL TITULAR DE DATOS PERSONALES<br>
+Sin perjuicio de las excepciones previstas en la Ley Estatutaria 1581 de 2012, por regla<br>
+general en el tratamiento de datos de carácter personal la Compañía recolectará la<br>
+autorización previa e informada del Titular, la cual podrá ser obtenida por cualquier medio<br>
+que pueda ser objeto de consulta posterior.<br>
+7.3.1. Eventos en los cuales no es necesaria la autorización<br>
+a) Información requerida por una entidad pública o administrativa en ejercicio de sus<br>
+funciones legales o por orden judicial.<br>
+b) Datos de naturaleza pública.<br>
+c) Casos de urgencia médica o sanitaria.<br>
+d) Tratamiento de información autorizado por la ley para fines históricos, estadísticos<br>
+o científicos.<br>
+e) Datos relacionados con el Registro Civil de las Personas.<br>
+7.4. DEBERES DE LA COMPAÑÍA DE CRÉDITOS RÁPIDOS S.A.S COMO<br>
+RESPONSABLE DEL TRATAMIENTO DE DATOS PERSONALES<br>
+RapiCredit como responsable del tratamiento de datos personales, cumplirá los siguientes<br>
+deberes:<br>
+a) Garantizar al Titular, en todo tiempo, el pleno y efectivo ejercicio del derecho de<br>
+hábeas data.</p>
+<p>b) Solicitar y conservar, en las condiciones previstas en la ley, copia de la respectiva<br>
+autorización otorgada por el Titular.<br>
+c) Informar debidamente al Titular sobre la finalidad de la recolección y los derechos<br>
+que le asisten por virtud de la autorización otorgada.<br>
+d) Conservar la información bajo las condiciones de seguridad necesarias para impedir<br>
+su adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento.<br>
+e) Garantizar que la información que se suministre al Encargado del tratamiento sea<br>
+veraz, completa, exacta, actualizada, comprobable y comprensible.<br>
+f) Actualizar la información, comunicando de forma oportuna al Encargado del<br>
+tratamiento, todas las novedades respecto de los datos que previamente le haya<br>
+suministrado y adoptar las demás medidas necesarias para que la información<br>
+suministrada a este se mantenga actualizada.<br>
+g) Rectificar la información cuando sea incorrecta y comunicar lo pertinente al<br>
+Encargado del tratamiento.<br>
+h) Suministrar al Encargado del tratamiento, según el caso, únicamente datos cuyo<br>
+tratamiento esté previamente autorizado de conformidad con lo previsto en la<br>
+presente ley.<br>
+i) Exigir al Encargado del tratamiento en todo momento, el respeto a las condiciones<br>
+de seguridad y privacidad de la información del Titular.<br>
+j) Tramitar las consultas y reclamos formulados en los términos señalados en la Ley<br>
+Estatutaria 1581 de 2012.<br>
+k) Adoptar un manual interno de políticas y procedimientos para garantizar el<br>
+adecuado cumplimiento de la ley y en especial, para la atención de consultas y<br>
+reclamos.<br>
+l) Informar al Encargado del tratamiento cuando determinada información se<br>
+encuentra en discusión por parte del Titular, una vez se haya presentado la<br>
+reclamación y no haya finalizado el trámite respectivo.<br>
+m) Informar a solicitud del Titular sobre el uso dado a sus datos.<br>
+n) Informar a la autoridad de protección de datos cuando se presenten violaciones a<br>
+los códigos de seguridad y existan riesgos en la administración de la información de<br>
+los Titulares.<br>
+o) Cumplir las instrucciones y requerimientos que imparta la Superintendencia de<br>
+Industria y Comercio.</p>
+<p>7.5. POLÍTICAS ESPECÍFICAS PARA EL TRATAMIENTO DE DATOS<br>
+PERSONALES.<br>
+7.5.1. Tratamiento de datos personales de Clientes<br>
+La Compañía recolecta los datos personales de sus clientes y los almacena en una base<br>
+de datos la cual es calificada por RapiCredit como de reserva, y sólo será revelada con la<br>
+expresa autorización del titular o cuando una Autoridad Competente lo solicite.<br>
+Las finalidades para las cuales son utilizados los datos personales de los clientes de la<br>
+Compañía, serán:<br>
+a) Contar con documentos digitalizados y físicos de los clientes con el propósito de<br>
+gestionar el proceso de vinculación y creación del cliente en la empresa.<br>
+b) Generación de informes mensuales sobre el comportamiento de la cartera del<br>
+cliente.<br>
+c) Prestar servicios crediticios a personas naturales y jurídicas a través de plataformas<br>
+electrónicas.<br>
+d) Realizar ante los operadores de información (Experian, Transunion y/o cualquier<br>
+otra entidad que llegue a manejar bases de datos con los mismos objetivos) la<br>
+consulta de la información crediticia, así como el reporte de la generación,<br>
+modificación, extinción, cumplimiento o incumplimiento de las obligaciones<br>
+contraídas.<br>
+e) Compartir e intercambiar con sus entidades filiales, matrices, aliadas y/o con<br>
+entidades financieras, cesionarios o inversionistas, la información personal y<br>
+financiera así como la información en relación con créditos contratados u otorgados<br>
+con o a través la Compañía, contenida en las bases de datos de la entidad con fines<br>
+de control de riesgos, desembolso y pago de obligaciones.<br>
+f) Realizar servicios legalmente autorizados bajo el contrato de mutuo firmado con<br>
+nuestros clientes, como pueden ser cesiones de cartera, cobro de obligaciones y<br>
+cualquier otra actividad autorizada en dicho contrato.<br>
+g) Adelantar contactos con fines comerciales y/o promocionales ya sea sobre sus<br>
+propios servicios y productos, o los de terceros con los que la Compañía tenga<br>
+relaciones comerciales o alianzas, a través de correo, teléfono, celular, correo<br>
+electrónico o cualquier otro medio conocido o por conocer.<br>
+h) Realizar actividades de gestión de cobro, aviso de reporte a las centrales de riesgo,<br>
+entrega de extractos de obligaciones y actualizar la información a través de<br>
+diferentes actividades como lo son la consulta en bases de datos públicas, páginas<br>
+de internet y redes sociales y referencias de terceras personas. Así mismo, por parte<br>
+de RapiCredit se solicita información de terceras personas que podrá utilizar en una<br>
+etapa pre-contractual, contractual o post-contractual con el fin de actualizar y llevar</p>
+<p>a cabo actividades de localización de clientes para asegurar una adecuada gestión<br>
+del crédito y experiencia del cliente, razón por la cual el cliente debe contar con la<br>
+autorización del(os) tercero(s) que proporcionará como referencia(s).<br>
+i) Seguimiento de procesos jurídicos, identificación de pagos realizados y calificación<br>
+de cartera de manera directa o a través de terceros ubicados dentro y fuera del<br>
+territorio nacional.<br>
+j) Seguimiento continuo a nuestros clientes, mediante estrategias de fidelización<br>
+efectivas propiciando confianza y lealtad para la prestación de nuevos servicios.<br>
+k) Con el propósito de dar a conocer a los clientes el portafolio de servicios crediticios<br>
+que son ofrecidos a través de la Empresa.<br>
+l) Consultar y reportar información de los clientes a través de centrales de riesgo y de<br>
+acuerdo con lo establecido en la Ley 1266 de 2008.<br>
+m) Contactar al Titular a través de medios físicos y electrónicos, incluyendo pero sin<br>
+limitar, los siguientes medios: correo electrónico, Short Message Servive (SMS por<br>
+sus siglas en inglés), Multimedia Message Service (MMS por sus siglas en inglés),<br>
+Unstructured Supplementary Service Data (USSD por sus siglas en inglés),<br>
+mensajes de WhatsApp, Push Notification, y chats de redes sociales y aplicaciones<br>
+asociadas al número telefónico registrado por el cliente para el envío de información<br>
+de interés o relacionada con el portafolio de servicios.<br>
+n) Mantener contacto con la sociedad aun cuando finalice la relación contractual.<br>
+o) Compartir la información con terceros aliados que colaboran con la sociedad,<br>
+considerando que para el cumplimiento de sus encargos deben acceder en alguna<br>
+medida a la información, los cuales estarán igualmente sujetos a las obligaciones<br>
+de confidencialidad, manejo de la información y protección de datos personales a<br>
+las que está sujeto esta sociedad. tales como proveedores de servicios de<br>
+mensajería, agencias de publicidad, casas de cobranzas, proveedores de<br>
+productos. Etc.<br>
+p) Dar atención y seguimiento a las solicitudes que reciba de los Titulares de Datos<br>
+Personales, en ejercicio del derecho de Habeas data.<br>
+q) Gestión administrativa para la ejecución de las etapas precontractual, contractual y<br>
+post contractual.<br>
+r) Evaluar la atención brindada al cliente y realizar actividades de prospección<br>
+comercial.<br>
+s) Gestionar y dar atención oportuna a las peticiones, quejas o reclamos presentados<br>
+por los clientes de la organización a través de los canales de servicio al cliente.</p>
+<p>t) Dar cumplimiento al Sistema de prevención de lavado de activos y financiación del<br>
+terrorismo adoptado por la empresa y en consecuencia consultar al titular en listas<br>
+restrictivas.<br>
+Por otro lado, el titular autoriza el envío de contenido publicitario, incluyendo pero sin limitar,<br>
+los siguientes medios: correo electrónico, Short Message Servive (SMS por sus siglas en<br>
+inglés), Multimedia Message Service (MMS por sus siglas en inglés), Unstructured<br>
+Supplementary Service Data (USSD por sus siglas en inglés), mensajes de WhatsApp,<br>
+Push Notification dentro de la franja horaria entre las 8:00 am hasta las 9:30 pm, y los días<br>
+sábado, domingo y festivo hasta las 18:30 horas de manera segmentada.<br>
+Adicionalmente, la información no será objeto de tratamiento por un período superior al<br>
+tiempo que dure la relación contractual entre el cliente y la Compañía, y el tiempo adicional<br>
+que se requiera de acuerdo con las circunstancias legales o contractuales que hagan<br>
+necesario el manejo de la información.<br>
+7.5.2. Tratamiento de datos personales de Prospectos<br>
+La Compañía recolecta los datos personales de prospectos y los almacena en una base de<br>
+datos la cual es calificada por RapiCredit como de reserva, y solo será revelada con la<br>
+expresa autorización del titular o cuando una autoridad competente lo solicite.<br>
+Las finalidades para las cuales son utilizados los datos personales de los prospectos de La<br>
+Compañía, serán:<br>
+ Dar a conocer el portafolio de servicios crediticios que son comercializados por la<br>
+Compañía.<br>
+ Realizar seguimiento y perfilación en el proceso de adquisición de un crédito y<br>
+actividades de prospección comercial.<br>
+ Consultar al interesado en centrales de riesgo y con base en la Ley 1266 de 2008.<br>
+ Mantener contacto con la Compañía a través de canales físicos y digitales<br>
+ Realizar invitaciones a eventos y ofrecer nuevos productos y servicios.<br>
+ Suministrar información de contacto a la fuerza comercial y/o red de distribución, y<br>
+cualquier tercero con el cual la Compañía tenga un vínculo contractual para el<br>
+desarrollo de la actividad de prospección comercial.<br>
+ Contactar al Titular a través de medios físicos y electrónicos, incluyendo pero sin<br>
+limitar, lo siguientes medios: correo electrónico, , Short Message Servive (SMS por<br>
+sus siglas en inglés), Multimedia Message Service (MMS por sus siglas en inglés),<br>
+Unstructured Supplementary Service Data (USSD por sus siglas en inglés),<br>
+mensajes de WhatsApp, Push Notification, y chats de redes sociales y aplicaciones<br>
+asociadas al número telefónico registrado por el cliente para el envío de información<br>
+de interés o relacionada con el portafolio de servicios.</p>
+<p> Consultar antecedentes del prospecto en listas restrictivas, listas OFAC, PEPS,<br>
+Clinton y ONU, en aras de prevenir el lavado de activos y financiación del terrorismo.<br>
+Por otro lado, el titular autoriza el envío de contenido publicitario a través de medios físicos<br>
+y electrónicos, incluyendo pero sin limitar, lo siguientes medios: correo electrónico, , Short<br>
+Message Servive (SMS por sus siglas en inglés), Multimedia Message Service (MMS por<br>
+sus siglas en inglés), Unstructured Supplementary Service Data (USSD por sus siglas en<br>
+inglés), mensajes de WhatsApp, Push Notification dentro de la franja horaria entre las 8:00<br>
+am hasta las 9:30 pm, y los días sábado, domingo y festivo hasta las 18:30 horas de manera<br>
+segmentada.<br>
+En todo caso, la información no será objeto de tratamiento por un período superior al<br>
+establecido a través de la autorización otorgada por el prospecto para usar sus datos<br>
+personales contado a partir de su recolección de acuerdo con las circunstancias legales o<br>
+contractuales que hacen necesario el manejo de la información.<br>
+7.5.3. Tratamiento de datos personales de Empleados<br>
+RapiCredit recolecta los datos personales de sus trabajadores los cuales son calificados<br>
+por la Compañía como de reserva, y solo serán revelados por la Compañía con la expresa<br>
+autorización del Titular o cuando una autoridad competente lo solicite.<br>
+Las finalidades para las cuales son utilizados los datos personales de los empleados de la<br>
+Compañía serán:<br>
+ Dar cumplimiento a las obligaciones que impone la Ley Laboral colombiana a los<br>
+empleadores, o bien las órdenes que impartan las autoridades colombianas o<br>
+extranjeras competentes;<br>
+ Emitir certificaciones relativas a la relación del Titular del dato con RapiCredit.<br>
+ Cumplir con las obligaciones impuestas a la Compañía como empleador, en relación<br>
+con las normas de Seguridad y Salud Ocupacional, y el denominado Sistema de<br>
+Gestión de Seguridad y Salud en el Trabajo (SG-SST).<br>
+ Realizar y grabar las reuniones virtuales desarrolladas por los trabajadores.<br>
+ Gestionar las funciones desarrolladas por los trabajadores.<br>
+ Consultar memorandos o llamados de atención.<br>
+ Desarrollar y aplicar el proceso disciplinario.<br>
+ Establecer comunicación en casos de emergencia.<br>
+ Llevar a cabo un control, seguimiento y evaluación de los trabajadores.<br>
+ Proteger los materiales confidenciales y de propiedad de la Compañía.</p>
+<p> Tomar imágenes, fotográficas y huella digital necesarios para el reconocimiento del<br>
+trabajador, control de cumplimiento y recolección de evidencia de los servicios<br>
+desarrollados.<br>
+ Adicionalmente se usan datos biométricos de los trabajadores para fines<br>
+comerciales relacionados con el objeto social de la Compañía.<br>
+ Comunicar información de los trabajadores a terceras entidades con las que la<br>
+Compañía mantenga una relación contractual y clientes en la medida en que sea<br>
+necesario para cumplir con el protocolo de los terceros, con los únicos efectos de<br>
+que estos puedan gestionar el control y coordinación respecto del personal que<br>
+preste de manera efectiva los servicios que se derivan de la relación contractual, así<br>
+como posibilitar el cumplimiento de obligaciones legales, en materia fiscal y de<br>
+seguridad social.<br>
+ Comunicar datos de carácter identificativo de los trabajadores a agencias de viajes,<br>
+compañías de transportes, hoteles y entidades de alquiler de vehículos, para la<br>
+gestión de las reservas y liquidación de los gastos ocasionados.<br>
+ Realizar transferencia internacional de datos a países que proporcionen una<br>
+protección similar a la de Colombia como es el caso de diferentes proveedores de<br>
+servicios tecnológicos.<br>
+ Entrega de la información a terceros encargados de procesos de evaluación,<br>
+entrenamiento, certificación, y demás procesos requeridos en el desarrollo de la<br>
+relación contractual.<br>
+ Verificar, comparar, evaluar las competencias laborales y personales de los<br>
+empleados.<br>
+ Envío de información a cajas de compensación, AFP, ARL, aseguradoras entre<br>
+otros.<br>
+ Iniciar investigaciones internas con base en las quejas presentadas por clientes,<br>
+terceros o los mismos colaboradores.<br>
+ Cumplir con los requerimientos estipulados dentro de los protocolos de bioseguridad<br>
+implementados por la Compañía.<br>
+ Dar cumplimiento al Sistema de prevención de lavado de activos y financiación del<br>
+terrorismo adoptado por la empresa y en consecuencia consultar al titular en listas<br>
+restrictivas, listas OFAC, PEPS, Clinton y ONU.<br>
+RapiCredit almacena los datos personales de sus empleados, incluidos los que hayan sido<br>
+obtenidos en desarrollo del proceso de selección, y los conserva en una carpeta identificada<br>
+con el nombre de cada uno de ellos. A tal carpeta solo tendrá acceso y será tratada por el<br>
+Área de Gestión Humana, con la finalidad de administrar la relación contractual entre la<br>
+Compañía y el empleado.</p>
+<p>Así mismo, contará con elevados sistemas de seguridad para el manejo de aquellos datos<br>
+sensibles y su reserva, en el entendido que tales datos sensibles solo serán usados por<br>
+RapiCredit para los fines antes mencionados.<br>
+Terminada la relación laboral, la Compañía procederá a almacenar todos los datos<br>
+personales que haya obtenido del proceso de selección y la documentación generada en<br>
+desarrollo de la relación laboral, en un archivo central con acceso restringido, sometiendo<br>
+en todo momento la información a medidas y niveles de seguridad adecuados, dado que la<br>
+información laboral pueda contener datos de carácter sensible.<br>
+En todo caso, la información no será objeto de tratamiento por un período superior a<br>
+20 años contados a partir de la terminación de la relación laboral, o de acuerdo con las<br>
+circunstancias legales o contractuales que hagan necesario el manejo de la información.<br>
+Finalmente, de acuerdo con lo estipulado en la Circular Externa 008 de 2020 de la<br>
+Superintendencia de Industria y Comercio, los datos recolectados para dar cumplimiento a<br>
+los protocolos de bioseguridad únicamente se usarán para los fines indicados por el<br>
+Ministerio de Salud y Protección Social, y sólo se almacenarán durante el tiempo razonable<br>
+y necesario para cumplir dichos protocolos. Una vez cumplida la finalidad del Tratamiento<br>
+de Datos Personales, la Empresa suprimirá de oficio los datos recolectados.<br>
+7.5.4. Tratamiento de datos personales de candidatos o aspirantes a<br>
+procesos de selección<br>
+RapiCredit recolecta los datos personales de sus postulantes y los almacena en una base<br>
+de datos la cual es calificada por RapiCredit como de reserva, y sólo será revelada con la<br>
+expresa autorización del Titular o cuando una Autoridad Competente lo solicite.<br>
+Las finalidades para las cuales son utilizados los datos personales de los postulantes de la<br>
+Compañía, serán:<br>
+ Realización de gestión administrativa interna y externa para la ejecución<br>
+transparente del proceso de selección del personal.<br>
+ Envío de comunicaciones programadas por la Compañía para realizar diferentes<br>
+pruebas de selección.<br>
+ Corroborar cualquier requerimiento que se ocasione en desarrollo del proceso de<br>
+selección<br>
+ Verificación de referencias laborales, académicas y personales del aspirante.<br>
+ Adelantar el proceso de vinculación en general del personal seleccionado.<br>
+ Realizar pruebas de poligrafía y psicotécnicas como parte del proceso de selección.<br>
+ Dar cumplimiento al Sistema de prevención de lavado de activos y financiación del<br>
+terrorismo adoptado por la empresa y en consecuencia consultar al titular en listas<br>
+restrictivas.</p>
+<p>Todos los datos de carácter personal que el aspirante o postulante nos proporcione pasarán<br>
+a formar parte de un “Banco de Talento”, el cual RapiCredit como responsable, podrá tratar<br>
+para actuales y futuros procesos de selección en los que el perfil del aspirante se adecue.<br>
+Las bases de datos donde se almacena dicha información cuentan con las medidas de<br>
+seguridad necesarias para garantizar la total seguridad de los datos suministrados<br>
+selección. En todo caso, la información no será objeto de tratamiento por un período<br>
+superior al que el aspirante autorice y al tiempo adicional que se requiera de acuerdo con<br>
+las circunstancias legales o contractuales que hagan necesario el manejo de la información.<br>
+7.5.5. Tratamiento de datos personales de Aprendices SENA<br>
+La Compañía recolecta los datos personales de los aprendices SENA y los almacena en<br>
+una base de datos la cual es calificada por la Compañía como de reserva, y sólo será<br>
+revelada con la expresa autorización del titular o cuando una Autoridad Competente lo<br>
+solicite.<br>
+Las finalidades para las cuales son utilizados los datos personales de los aprendices SENA<br>
+de la Compañía, serán:<br>
+ Dar cumplimiento a las obligaciones que impone la ley colombiana a las Empresas<br>
+patrocinadoras, en especial a lo dispuesto en la Ley 789 de 2002 así como sus<br>
+Decretos Reglamentarios.<br>
+ Emitir certificaciones relativas a la relación del titular del dato con la Compañía.<br>
+ Corroborar cualquier requerimiento que se ocasione en desarrollo del proceso de<br>
+vinculación de aprendices.<br>
+ Cumplir con las obligaciones impuestas a la Compañía como Empresa<br>
+patrocinadora, en relación con las normas de Seguridad y Salud Ocupacional, y el<br>
+denominado Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST).<br>
+ Gestionar las funciones desarrolladas por los aprendices.<br>
+ Controlar el desarrollo de los aprendices en la etapa lectiva y etapa productiva.<br>
+ Contactar a familiares en casos de emergencia.<br>
+ Dar cumplimiento al Sistema de prevención de lavado de activos y financiación del<br>
+terrorismo adoptado por la empresa y en consecuencia consultar al titular en listas<br>
+restrictivas.<br>
+Como quiera que el contrato de aprendizaje al interior de las Empresas patrocinadoras se<br>
+enmarca en el ámbito de las relaciones laborales, los respectivos soportes documentales<br>
+son manejados y custodiados por parte de la Compañía como historia laboral por las áreas<br>
+encargadas de la administración del talento humano.<br>
+En todo caso, la información no será objeto de tratamiento por un período superior al tiempo<br>
+que dure la relación del postulante con la Compañía, que en ningún caso podrá ser superior</p>
+<p>a dos (2) años, y el tiempo adicional que se requiera de acuerdo con las circunstancias<br>
+legales o contractuales que hagan necesario el manejo de la información.<br>
+7.5.6. Tratamiento de datos personales de Niños, Niñas y Adolescentes<br>
+La Compañía no realiza de forma directa el tratamiento de datos personales de menores<br>
+de edad; sin embargo, de forma particular la Compañía recolecta y trata los datos<br>
+personales de los hijos menores de edad de sus trabajadores, con la única finalidad de<br>
+cumplir con las obligaciones que impone la Ley a los empleadores en relación con las<br>
+afiliaciones a sistema de seguridad social y parafiscales, así como el cumplimiento de la<br>
+jornada familiar (Ley 1857 de 2017), y en particular para permitir el disfrute de los derechos<br>
+fundamentales de los niños a la salud, la recreación y el derecho a la familia.<br>
+En todo caso, la Compañía recolectará cuando corresponda la respectiva autorización a<br>
+sus representantes legales para su tratamiento, teniendo siempre de presente el interés<br>
+superior del menor y el respeto de los derechos prevalentes de los niños, niñas y<br>
+adolescentes consagrados en el artículo 44 de la Constitución Política de Colombia.<br>
+7.5.7. Tratamiento de datos personales de Proveedores y Contratistas<br>
+La Compañía recolecta los datos personales de sus Proveedores y contratistas y los<br>
+almacena en una base de datos la cual, aunque se compone en su mayoría de datos<br>
+públicos, es calificada por la Compañía como de reserva. En el caso de datos privados,<br>
+RapiCredit solo los revelará con la expresa autorización del Titular o cuando una autoridad<br>
+competente lo solicite.<br>
+Las finalidades para las cuales son utilizados los datos personales de los Proveedores o<br>
+contratistas de la Compañía, serán:<br>
+a) Llevar a cabo procesos de evaluaciones y selección de proveedores.<br>
+b) Procesos de vinculación y creación del proveedor en los sistemas de información<br>
+de la Compañía.<br>
+c) Cumplimiento de aspectos tributarios y legales ante entidades públicas y<br>
+regulatorias.<br>
+d) Establecer relaciones de negocio para adquirir bienes o servicios.<br>
+e) Llevar gestión y control de los pagos realizados por los bienes y servicios recibidos.<br>
+f) Evaluaciones cualitativas y cuantitativas de los niveles de servicio recibidos de los<br>
+proveedores.<br>
+g) Comunicación de Políticas y procedimientos sobre la forma de hacer negocios con<br>
+los proveedores.<br>
+h) Proceso de control y registro contable de las obligaciones contraídas con los<br>
+proveedores.</p>
+<p>i) Consultas, auditorias y revisiones derivadas de la relación de negocio con el<br>
+proveedor.<br>
+j) Envío de invitaciones a contratar y realización de gestiones para las etapas<br>
+precontractual, contractual y post contractual.<br>
+k) Envío de invitaciones a eventos programados por la Compañía o sus vinculadas.<br>
+l) Las demás establecidas específicamente en las autorizaciones que sean otorgadas<br>
+por los propios proveedores.<br>
+m) Consultar antecedentes de los proveedores y contratistas en listas restrictivas, listas<br>
+OFAC, PEPS, Clinton y ONU, en aras de prevenir el lavado de activos y financiación<br>
+del terrorismo.<br>
+La Compañía sólo recaudará de sus proveedores y contratistas los datos que sean<br>
+necesarios, pertinentes y no excesivos para realizar el proceso de selección, evaluación y<br>
+ejecución del contrato a que haya lugar.<br>
+La recolección de los datos personales de empleados de los proveedores y contratistas por<br>
+parte de la Compañía tendrá en todo caso como finalidad verificar la idoneidad y<br>
+competencia de los empleados; es decir, una vez verificado este requisito, RapiCredit<br>
+devolverá o eliminará tal información, salvo cuando se autorice expresamente su<br>
+conservación.<br>
+En todo caso, la información no será objeto de tratamiento por un período superior al tiempo<br>
+que dure la relación del Proveedor o contratista con la Compañía, y el tiempo adicional que<br>
+se requiera de acuerdo con las circunstancias legales o contractuales que hagan necesario<br>
+el manejo de la información.<br>
+7.5.8. Tratamiento de datos personales en la páginas web<br>
+La Compañía recolecta datos personales privados de terceros a través de su página web o<br>
+redes sociales y los almacena en una base de datos la cual es calificada por la compañía<br>
+como de reserva, y solo será revelada con la expresa autorización del titular o cuando una<br>
+Autoridad Competente lo solicite.<br>
+Las finalidades para las cuales son utilizados los datos personales que son recopilados a<br>
+través de la página web La Compañía, serán:<br>
+a) Permitir la comunicación con los clientes, prospectos o terceros mediante la sección<br>
+de contáctenos, suscríbete o a través del canal de sugerencias.<br>
+b) Prestar servicios crediticios en línea.<br>
+c) Dar a conocer el portafolio de servicios crediticios que ofrece la Empresa.<br>
+d) Publicar eventos, reconocimientos, certificaciones y noticias de interés.<br>
+e) Recepcionar y dar trámite a las quejas y reclamos de los interesados.</p>
+<p>f) Fines legales, contables, administrativos, comerciales, promocionales, informativos,<br>
+de mercadeo y ventas.<br>
+g) Realizar campañas de promoción, marketing, publicidad.<br>
+En todo caso, la información no será objeto de tratamiento por un período superior al<br>
+pactado con el tercero a través de la autorización para usar sus datos personales, y de<br>
+acuerdo con las circunstancias legales o contractuales que hacen necesario el manejo de<br>
+la información.<br>
+7.5.9. Tratamiento de datos personales de Accionistas<br>
+La Compañía recolecta los datos personales de sus accionistas y los almacena en una base<br>
+de datos la cual, es calificada por RapiCredit como de reserva, y que solo los revelará por<br>
+la Compañía con la expresa autorización del Titular o cuando una autoridad competente lo<br>
+solicite.<br>
+Las finalidades para las cuales son utilizados los datos personales de los accionistas serán:<br>
+a) Permitir el ejercicio de los deberes y derechos derivados de la calidad de<br>
+accionistas.<br>
+b) Permitir el envío de invitaciones a eventos programados por la compañía.<br>
+c) Emitir certificaciones relativas a la relación del Titular con la sociedad.<br>
+d) Dar cumplimiento a los preceptos y normatividad establecida en el Código de<br>
+Comercio y demás normatividad aplicable.<br>
+e) Convocarlo o invitarlo a las diferentes reuniones de naturaleza societaria a las que<br>
+deba asistir por su calidad de accionista.<br>
+En todo caso, la información no será objeto de tratamiento por un período superior al<br>
+establecido a través de la autorización otorgada por el accionista para usar sus datos<br>
+personales contado a partir de su recolección de acuerdo con las circunstancias legales o<br>
+contractuales que hacen necesario el manejo de la información.<br>
+7.6. SEGURIDAD EN INTERNET<br>
+Para RapiCredit la privacidad y la seguridad de los datos de sus clientes y usuarios es<br>
+fundamental y estamos conscientes de la confianza que depositan en nosotros al requerir<br>
+nuestros servicios. Por eso, tomamos todas las medidas de seguridad a nuestro alcance<br>
+para proteger sus datos. Todas las plataformas que procesan tarjetas de pago deben contar<br>
+con el Estándar de Seguridad de Datos de la Industria de las Tarjetas de Pago (PCI DSS,<br>
+Payment Card Industry Data Security Standard, en sus siglas en inglés. PCI DSS es un<br>
+estándar que establece un conjunto de medidas, prácticas y herramientas que pretenden<br>
+garantizar la seguridad en el tratamiento de la información asociada a medios de pago<br>
+electrónicos. Aunque nuestro sistema no procesa tarjetas de pago nuestros servidores</p>
+<p>están alineados con los controles de la Norma ISO 270012:12013 para garantizar la<br>
+seguridad de la información.<br>
+La Compañía usa cookies, una herramienta empleada por los sitios web para almacenar y<br>
+recuperar información acerca de sus visitantes. En nuestro caso, las cookies solo recuperan<br>
+información que esté disponible en nuestra página. Además, la información que se recoge<br>
+nos ayuda a mejorar la experiencia del usuario en nuestro sitio.<br>
+Nuestro sitio cuenta con certificado SSL (Secure Sockets Layer, en sus siglas en inglés) el<br>
+cual nos permite encriptar los datos mientras viajan desde el computador de nuestros<br>
+clientes o usuarios hasta nuestro servidor, de esta forma nadie podrá interceptar la<br>
+comunicación para apoderarse de sus datos personales.<br>
+No obstante lo anterior, es una responsabilidad de nuestros clientes o usuarios implementar<br>
+los controles de seguridad necesarios, en sus equipos y redes privadas para su navegación<br>
+hacia el/los portales de la Compañía o para el envío de correos electrónicos. De esta<br>
+manera RapiCredit no se responsabiliza por cualquier consecuencia derivada del ingreso<br>
+fraudulento por parte de terceros a la base de datos y por alguna falla técnica en el<br>
+funcionamiento que sobrepasen las actividades desarrolladas con la diligencia debida.<br>
+7.7. TRANSFERENCIA Y TRANSMISIÓN INTERNACIONAL DE DATOS<br>
+PERSONALES<br>
+Actualmente la Compañía realiza Transferencia Internacional de bases de datos<br>
+relacionada con información de deudores o cartera a países como Estados Unidos, lo<br>
+anterior con la única finalidad de celebrar contratos de participación o venta de activos; lo<br>
+cual a su vez implica la transferencia internacional de las bases de datos con información<br>
+personal de la Compañía.<br>
+Para realizar dicho proceso, RapiCredit ha verificado que dicho país reúna los estándares<br>
+que garantizan un nivel adecuado de protección de datos personales, encontrando que en<br>
+efecto el numeral 3.2 del Capítulo tercero, del Título V de la Circular Única 005 del 10 de<br>
+agosto de 2017 de la Superintendencia de Industria y Comercio incluye a dicho país en la<br>
+lista de países seguros.<br>
+Adicionalmente, la Compañía puede llegar a realizar Transmisión internacional de datos<br>
+personales, lo anterior, con la finalidad de gestionar todos los procesos internos de la<br>
+Compañía. En todo caso, además de contar con la autorización expresa e inequívoca por<br>
+parte del Titular, RapiCredit se asegurará que la acción proporciona los niveles adecuados<br>
+de protección de datos y atiende a los requisitos fijados en Colombia por el Régimen de<br>
+Habeas Data.</p>
+<p>7.8. PROCEDIMIENTO O PROTOCOLO PARA LA ATENCIÓN DE CONSULTAS,<br>
+RECLAMOS Y PETICIONES, ASÍ COMO LOS MECANISMOS PARA EJERCER<br>
+LOS DERECHOS DE LOS TITULARES<br>
+El Titular, sus causahabientes, su representante y/o apoderado, o quien se determine por<br>
+estipulación a favor de otro; podrá hacer ejercicio de sus derechos contactándose con<br>
+nosotros a través de comunicación escrita dirigida al área encargada de la protección de<br>
+datos personales en la Compañía, ÁREA JURÍDICA con el apoyo técnico de sus<br>
+proveedores legales expertos en Protección de datos, ALMEIDA &amp; ROMO ABOGADOS<br>
+CONSULTORES. La comunicación podrá ser enviada al siguiente correo electrónico:<br>
+datospersonales@rapicredit.com.<br>
+7.8.1. Consultas<br>
+Se podrá consultar la información personal del Titular que repose en las bases de datos de<br>
+RapiCredit y la Compañía se encargará de suministrar toda la información contenida en el<br>
+registro individual o que esté vinculada con la identificación del solicitante.<br>
+La consulta una vez recibida por la Compañía, será atendida en un término máximo de 10<br>
+días hábiles contados a partir de la fecha de recibo de la misma.<br>
+Cuando no fuere posible atender la consulta dentro de dicho término, se informará al<br>
+interesado, expresando los motivos de la demora y señalando la nueva fecha en que se<br>
+atenderá tal consulta, la cual en ningún caso podrá superar los cinco (5) días hábiles<br>
+siguientes al vencimiento del primer término.<br>
+7.8.2. Reclamos<br>
+Cuando se considere que la información contenida en una base de datos de la Compañía<br>
+debe ser objeto de corrección, actualización o supresión, o cuando se advierta el presunto<br>
+incumplimiento de cualquiera de los deberes contenidos en la Ley de Habeas Data, se<br>
+podrán presentar reclamación ante la Compañía la cual será tramitada bajo las siguientes<br>
+reglas:<br>
+a) El reclamo se formulará mediante comunicación escrita dirigida a RapiCredit con la<br>
+identificación del Titular, la descripción de los hechos que dan lugar al reclamo, la<br>
+dirección, y acompañando los documentos que se quiera hacer valer.<br>
+b) Si el reclamo resulta incompleto, se requerirá al interesado dentro de los cinco (5)<br>
+días siguientes a la recepción del reclamo para que subsane las fallas.<br>
+Transcurridos dos (2) meses desde la fecha del requerimiento, sin que el solicitante<br>
+presente la información requerida, se entenderá que ha desistido del reclamo.<br>
+c) En caso de que la Compañía reciba un Reclamo del cual no sea competente para<br>
+resolverlo, la Empresa dará traslado a quien efectivamente corresponda en un<br>
+término máximo de dos (2) días hábiles e informará al Titular.</p>
+<p>d) Una vez recibido el reclamo completo, la Compañía incluirá en la respectiva base<br>
+de datos una leyenda que diga «reclamo en trámite» y el motivo del mismo, en un<br>
+término no mayor a dos (2) días hábiles. La Compañía conservará dicha leyenda<br>
+en el dato objeto de discusión hasta que el reclamo sea decidido.<br>
+e) El término máximo para atender el reclamo será de quince (15) días hábiles<br>
+contados a partir del día siguiente a la fecha de su recibo. Cuando no fuere posible<br>
+atender el reclamo dentro de dicho término, la Compañía informará al Titular los<br>
+motivos de la demora y la nueva fecha en que se atenderá su reclamo, la cual en<br>
+ningún caso podrá superar los ocho (8) días hábiles siguientes al vencimiento del<br>
+primer término.<br>
+7.8.3. Contenido mínimo de la solicitud<br>
+Las solicitudes que presente el titular con el fin de realizar una consulta o reclamo sobre el<br>
+uso y manejo de sus datos personales deberán contener unas especificaciones mínimas,<br>
+en aras de brindar al Titular una respuesta clara y coherente con lo solicitado. Los requisitos<br>
+de la solicitud son:<br>
+a) Estar dirigida a LA COMPAÑÍA DE CRÉDITOS RÁPIDOS S.A.S.<br>
+b) Contener la identificación del Titular (Nombre y Documento de identificación).<br>
+c) Contener la descripción de los hechos que motivan la consulta o el reclamo.<br>
+d) El objeto de la petición.<br>
+e) Indicar la dirección de notificación del Titular, física y/o electrónica (e-mail).<br>
+f) Anexar los documentos que se quieren hacer valer. (Especialmente para reclamos)<br>
+En el evento en que la consulta o reclamo sea presentado presencialmente el Titular deberá<br>
+plasmar su solicitud o reclamo por escrito sin ninguna formalidad más que los requisitos<br>
+exigidos en el punto anterior.<br>
+7.8.4. Requisito de procedibilidad<br>
+El Titular, sus causahabientes, su representante y/o apoderado, o quien se determine por<br>
+estipulación a favor de otro; sólo podrá presentar queja ante la Superintendencia de<br>
+Industria y Comercio por el ejercicio de sus derechos una vez haya agotado el trámite de<br>
+Consulta o Reclamo directamente ante la Compañía.<br>
+7.8.5. Petición de actualización y/o rectificación<br>
+RapiCredit rectificará y actualizará, a solicitud del titular, la información que sea inexacta o<br>
+se encuentre incompleta, atendiendo al procedimiento y los términos antes señalados, para<br>
+lo cual el Titular deberá allegar la solicitud según los canales dispuestos por la compañía,<br>
+indicando la actualización y rectificación del dato y a su vez deberá aportar la<br>
+documentación que soporte tal petición.</p>
+<p>7.8.6. Revocatoria de la autorización y/o supresión del dato<br>
+El Titular podrá revocar en cualquier momento el consentimiento o autorización dada para<br>
+el tratamiento de sus datos personales, siempre y cuando no se encuentre un impedimento<br>
+consagrado en una disposición legal o contractual.<br>
+Así también el Titular tiene derecho a solicitar en todo momento a la Compañía la supresión<br>
+o eliminación de sus datos personales cuando:<br>
+a) Considere que los mismos no están siendo tratados conforme a los principios,<br>
+deberes y obligaciones previstas en la normatividad vigente.<br>
+b) Hayan dejado de ser necesarios o pertinentes para la finalidad para la cual fueron<br>
+obtenidos.<br>
+c) Se haya cumplido el tiempo necesario para el cumplimiento de los fines para los que<br>
+fueron obtenidos.<br>
+Tal supresión implica la eliminación bien sea de manera total o parcial de la información<br>
+personal, de acuerdo con lo solicitado por el titular en los registros, archivos, bases de datos<br>
+o tratamientos realizados por la Compañía.<br>
+El derecho de cancelación no es absoluto y por lo tanto la Compañía podrá negar<br>
+revocatoria de autorización o eliminación de los datos personales en los siguientes casos:<br>
+a) El titular tenga un deber legal o contractual de permanecer en la base de datos.<br>
+b) La eliminación de datos obstaculice actuaciones judiciales o administrativas<br>
+vinculadas a obligaciones fiscales, la investigación y persecución de delitos o la<br>
+actualización de sanciones administrativas.<br>
+c) Los datos sean necesarios para proteger los intereses jurídicamente tutelados del<br>
+titular; para realizar una acción en función del interés público, o para cumplir con<br>
+una obligación legalmente adquirida por el titular.<br>
+7.9. MODIFICACIÓN DE LAS POLÍTICAS<br>
+La Compañía se reserva el derecho de modificar la Política de Tratamiento y Protección de<br>
+Datos Personales en cualquier momento. Sin embargo, toda modificación será comunicada<br>
+de forma oportuna a los titulares de los datos personales a través de los medios habituales<br>
+de contacto con cinco (5) días hábiles de antelación a su entrada en vigor.<br>
+En el evento que un titular no esté de acuerdo con la nueva Política General o especial y<br>
+con razones válidas que se constituyan en una justa causa para no continuar con la<br>
+autorización para el tratamiento de datos personales, el Titular podrá solicitar a la Compañía<br>
+el retiro de su información a través de los canales indicados en el Capítulo 12. Sin embargo,<br>
+los Titulares no podrán solicitar el retiro de sus datos personales cuando la Compañía tenga<br>
+un deber legal o contractual de tratar los datos.</p>
+<p>7.10. LEY Y JURISDICCIÓN<br>
+Toda interpretación, actuación judicial o administrativa derivada del tratamiento de los datos<br>
+personales que conforman las bases de datos de RapiCredit y la presente Política, estará<br>
+sujeta a las normas de protección personal establecidas en la República de Colombia y las<br>
+autoridades administrativas o jurisdiccionales competentes para la resolución de cualquier<br>
+inquietud, queja o demanda sobre las mismas serán las de la República de Colombia.<br>
+7.11. VIGENCIA<br>
+La presente Política rige a partir del 08/06/2022.<br>
+8. ANEXOS<br>
+Ninguno.<br>
+9. CONTROL DE CAMBIOS</p>
+<table>
+<tbody>
+<tr>
+<td width="94"><strong>Versión</strong></td>
+<td width="200"><strong>Descripción del cambio</strong></td>
+<td width="147"><strong>Autor</strong></td>
+<td width="147"><strong>Fecha</strong></td>
+</tr>
+<tr>
+<td width="94">1</td>
+<td width="200">Creación del documento</td>
+<td width="147">Manuela Prieto – Líder Jurídica</td>
+<td width="147">01/12/2021</td>
+</tr>
+<tr>
+<td width="94">2</td>
+<td width="200">Ajustes generales de la política.</td>
+<td width="147">Área Jurídica</td>
+<td width="147">03/03/2022</td>
+</tr>
+<tr>
+<td width="94"><strong>&nbsp;</strong><p></p>
+<p><strong>&nbsp;</strong></p>
+<p>3</p></td>
+<td width="200">Ajustes de la política a formato de plantilla normalizado por RapiCredit. Se elimina sección de control biométrico y bases de<p></p>
+<p>datos de visitantes ya que no aplica.</p></td>
+<td width="147"><strong>&nbsp;</strong><p></p>
+<p><strong>&nbsp;</strong></p>
+<p>Área Jurídica / Gestión de Procesos</p></td>
+<td width="147"><strong>&nbsp;</strong><p></p>
+<p><strong>&nbsp;</strong></p>
+<p>08/06/2022</p></td>
+</tr>
+</tbody>
+</table>
+
+<div id="review" class="review-wrapper wp-review-4531 wp-review-star-type wp-review-default-template wp-review-box-full-width">
+				
+	
+	
+			
+			
+			<div class="user-review-area visitors-review-area">
+			<div class="wp-review-user-rating wp-review-user-rating-star"><div id="wp-review-star-rating-6463" class="wp-review-rating-input review-star" data-post-id="4531" data-token="7a63900bb9">
+	<div class="wp-review-loading-msg">
+		<span class="animate-spin fa fa-spinner"></span>		Sending	</div>
+
+	<div class="review-result-wrapper">
+		<span data-input-value="1" title="1/5"><i class="mts-icon-star"></i></span><span data-input-value="2" title="2/5"><i class="mts-icon-star"></i></span><span data-input-value="3" title="3/5"><i class="mts-icon-star"></i></span><span data-input-value="4" title="4/5"><i class="mts-icon-star"></i></span><span data-input-value="5" title="5/5"><i class="mts-icon-star"></i></span>		<div class="review-result" style="width:86%;">
+			<i class="mts-icon-star"></i><i class="mts-icon-star"></i><i class="mts-icon-star"></i><i class="mts-icon-star"></i><i class="mts-icon-star"></i>		</div>
+	</div>
+	<input type="hidden" class="wp-review-user-rating-val" name="wp-review-user-rating-val" value="4.3">
+	<input type="hidden" class="wp-review-user-rating-nonce" value="7a63900bb9">
+	<input type="hidden" class="wp-review-user-rating-postid" value="4531">
+</div>
+
+<style type="text/css">
+	.wp-review-comment-rating #wp-review-star-rating-6463 .review-result-wrapper i {
+		color: #95bae0;
+	}
+	.wp-review-4531 #wp-review-star-rating-6463 .review-result-wrapper .review-result i {
+		color: #eeee22;
+		opacity: 1;
+		filter: alpha(opacity=100);
+	}
+	.wp-review-4531 #wp-review-star-rating-6463 .review-result-wrapper i {
+		color: #95bae0;
+	}
+	.wp-review-4531 .mts-user-review-star-container #wp-review-star-rating-6463 .selected i,
+	.wp-review-4531 .user-review-area #wp-review-star-rating-6463 .review-result i,
+	.wp-review-comment-field #wp-review-star-rating-6463 .review-result i,
+	.wp-review-comment-rating #wp-review-star-rating-6463 .review-result i,
+	.wp-review-user-rating #wp-review-star-rating-6463 .review-result-wrapper:hover span i,
+	.wp-review-comment-rating #wp-review-star-rating-6463 .review-result-wrapper:hover span i {
+		color: #eeee22;
+		opacity: 1;
+		filter: alpha(opacity=100);
+	}
+	.wp-review-user-rating #wp-review-star-rating-6463 .review-result-wrapper span:hover ~ span i,
+	.wp-review-comment-rating #wp-review-star-rating-6463 .review-result-wrapper span:hover ~ span i {
+		opacity: 1;
+		color: #95bae0;
+	}
+</style>
+</div>			<div class="user-total-wrapper">
+				<h5 class="user-review-title">User Review</h5>
+				<span class="review-total-box">
+										<span class="wp-review-user-rating-total">4.3</span>
+					<small>(<span class="wp-review-user-rating-counter">731</span> votes)</small>
+				</span>
+			</div>
+		</div>
+	
+	</div>
+
+<style type="text/css">
+	.wp-review-4531.review-wrapper {
+		width: 100%;
+		overflow: hidden;
+	}
+	.wp-review-4531.review-wrapper,
+	.wp-review-4531 .review-title,
+	.wp-review-4531 .review-desc p,
+	.wp-review-4531 .reviewed-item p {
+		color: #3f3f3f;
+	}
+	.wp-review-4531 .review-title {
+		padding-top: 15px;
+		font-weight: bold;
+	}
+	.wp-review-4531 .review-links a {
+		color: #eeee22;
+	}
+	.wp-review-4531 .review-links a:hover {
+		background: #eeee22;
+		color: #fff;
+	}
+	.wp-review-4531 .review-list li,
+	.wp-review-4531.review-wrapper {
+		background: #e5e5e5;
+	}
+	.wp-review-4531 .review-title,
+	.wp-review-4531 .review-list li:nth-child(2n),
+	.wp-review-4531 .wpr-user-features-rating .user-review-title {
+		background: #e2e2e2;
+	}
+	.wp-review-4531.review-wrapper,
+	.wp-review-4531 .review-title,
+	.wp-review-4531 .review-list li,
+	.wp-review-4531 .review-list li:last-child,
+	.wp-review-4531 .user-review-area,
+	.wp-review-4531 .reviewed-item,
+	.wp-review-4531 .review-links,
+	.wp-review-4531 .wpr-user-features-rating {
+		border-color: #e7e7e7;
+	}
+	.wp-review-4531 .wpr-rating-accept-btn {
+		background: #eeee22;
+	}
+	.wp-review-4531.review-wrapper .user-review-title {
+		color: inherit;
+	}
+</style>
+				</div>
+		    	</div>
+</section>
+<section class="cookies-content" style="display: none;">
+	<div class="container">
+		<div class="texts">
+			<p>Nuestro sitio usa cookies para darte la mejor experiencia , al visitar RapiCredit aceptas su uso. Conoce nuestros <a href="/terminos-condiciones">términos y condiciones</a></p>
+		</div>
+		<span class="icon-ic_close" id="cookies_box"></span>
+	</div>
+</section>
+<footer class="footer_rappicredit">
+			<div class="top_footer">
+			    <div class="container">
+			        <div class="item_footer footer_accordion_m">
+			            <span class="title-footer">Información Útil</span>
+			            <div class="container_item">
+				            <nav class="menu-menu-container"><ul id="menu-menu" class="1"><li id="menu-item-457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-457"><a title="Preguntas y Respuestas sobre RapiCredit" href="https://home.test.rapicredit.com/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a title="¿Cómo Funciona RapiCredit?" href="https://home.test.rapicredit.com/como-funciona/">¿Cómo funciona?</a></li>
+<li id="menu-item-456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-456"><a title="Contacto RapiCredit" href="https://home.test.rapicredit.com/contacto/">Contáctanos</a></li>
+<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a title="Blog RapiCredit" href="https://home.test.rapicredit.com/blog/">Blog</a></li>
+<li id="menu-item-11739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11739"><a href="https://home.test.rapicredit.com/referidos/">Referidos</a></li>
+</ul></nav>				        </div>
+			        </div>
+			        <div class="item_footer footer_accordion_m">
+			            <span class="title-footer">Mi cuenta</span>
+			            <div class="container_item">
+				            <nav class="menu-mi-cuenta-container"><ul id="menu-mi-cuenta" class="1"><li id="menu-item-459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459"><a title="Inicia Sesión en RapiCredit" target="_blank" rel="noopener" href="https://frontlendingst.test.rapicredit.com/login">Iniciar Sesión</a></li>
+<li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a title="Paga tu Préstamo" href="https://home.test.rapicredit.com/pagar-prestamo/">Paga tu Crédito</a></li>
+<li id="menu-item-461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a title="Obtener más Plazo" href="https://home.test.rapicredit.com/obtener-mas-plazo/">Ampliar Plazo</a></li>
+<li id="menu-item-579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579"><a title="Solicita tu Préstamo" target="_blank" rel="noopener" href="https://www.rapicredit.com/app/signUp">Pide tu Crédito</a></li>
+<li id="menu-item-7759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7759"><a href="https://landing.rapicredit.com/landing">Pide tu RapiPlazo</a></li>
+</ul></nav>				        </div>
+			        </div>
+			        <div class="item_footer footer_accordion_m">
+			            <span class="title-footer">Legal</span>
+			            <div class="container_item">
+				            <nav class="menu-nuestros-creditos-container"><ul id="menu-nuestros-creditos" class="1"><li id="menu-item-11740" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4531 current_page_item menu-item-11740"><a href="https://home.test.rapicredit.com/politica-de-privacidad-tratamiento-de-datos/" aria-current="page">Política para la protección y tratamiento de datos</a></li>
+<li id="menu-item-11741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11741"><a href="https://home.test.rapicredit.com/terminos-condiciones/">Términos y condiciones</a></li>
+</ul></nav>				        </div>
+			        </div>
+			        <div class="item_footer">
+			            <span class="title-item">SUSCRÍBETE A NUESTRO NEWSLETTER</span>
+		            	<div class="container_item">
+				            
+<div class="wpcf7 js" id="wpcf7-f618-o1" lang="es-ES" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/politica-de-privacidad-tratamiento-de-datos/#wpcf7-f618-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="618">
+<input type="hidden" name="_wpcf7_version" value="5.7.7">
+<input type="hidden" name="_wpcf7_locale" value="es_ES">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f618-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<div class="newsletter">
+	<div class="form-group">
+		<p><span class="wpcf7-form-control-wrap" data-name="email-472"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Correo electrónico" value="" type="email" name="email-472"></span>
+		</p>
+	</div>
+	<div class="form-group form-check">
+		<p><span class="wpcf7-form-control-wrap" data-name="terminos"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><input type="checkbox" name="terminos" value="1" class="form-check-label" aria-invalid="false"></span></span></span><br>
+<label class="form-check-label" for="terms">Acepto <a href="/politica-de-privacidad-tratamiento-de-datos">Política de Tratamiento y Protección de Datos Personales</a></label><br>
+		<input class="wpcf7-form-control wpcf7-hidden" id="date-newsletter" value="18/01/2024" type="hidden" name="date-777">
+		</p>
+	</div>
+	<p><input type="submit" class="btn btn-default" value="Suscríbete">
+	</p>
+</div><p style="display: none !important;"><label>Δ<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="1705616880919"><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+							<div class="content-share-play">
+								<div class="redes container_share">
+									<span class="text_share">Síguenos en:</span>
+									<ul>
+										<nav id="menu" class="redes"><ul id="menu-redes" class="1"><li id="menu-item-469" class="icon-ic_facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-469"><a title="Síguenos en Facebook" target="_blank" rel="noopener" href="https://www.facebook.com/RapiCreditSAS">Facebook</a></li>
+<li id="menu-item-470" class="icon-ic_instagram menu-item menu-item-type-custom menu-item-object-custom menu-item-470"><a title="Síguenos en Instagram" target="_blank" rel="noopener" href="https://www.instagram.com/rapicredit_sas/">Instagram</a></li>
+<li id="menu-item-471" class="icon-ic_youtube menu-item menu-item-type-custom menu-item-object-custom menu-item-471"><a title="Suscribete a nuestro canal" target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCS9GQfCDEQBuFM6aS4sgTNA">Youtube</a></li>
+<li id="menu-item-11791" class="icon-ic_twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-11791"><a title="Siguenos en Twitter" target="_blank" rel="noopener" href="https://twitter.com/Rapicredit">Twitter</a></li>
+<li id="menu-item-11792" class="icon-ic_linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item-11792"><a title="Siguenos en Linkedin" target="_blank" rel="noopener" href="https://www.linkedin.com/company/rapicredit">Linkedin</a></li>
+<li id="menu-item-11793" class="icon-ic_tiktok menu-item menu-item-type-custom menu-item-object-custom menu-item-11793"><a title="Siguenos en Tiktok" target="_blank" rel="noopener" href="https://www.tiktok.com/@rapicredit?is_copy_url=1&amp;is_from_webapp=v1">Tiktok</a></li>
+<li id="menu-item-11794" class="icon-ic_kawai menu-item menu-item-type-custom menu-item-object-custom menu-item-11794"><a title="Siguenos en Kwai" target="_blank" rel="noopener" href="https://kwai-video.com/u/@Rapicredit/6s9Cu3bR">Kwai</a></li>
+</ul></nav>									</ul>
+								</div>
+								<div class="play">
+									<a href="https://play.google.com/store/apps/details?id=co.rapicredit" target="_blank" aria-label="Descarga nuestra App en Google Play">
+										<img height="40" width="135" alt="Logo Google Play" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/google-play-badge.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/google-play-badge.svg" height="40" width="135" alt="Logo Google Play"></noscript>
+									</a>
+								</div>
+							</div>
+		            	</div>
+			        </div>
+			    </div>
+			</div>
+			<div class="bottom_footer">
+				<div class="container">
+					<div class="item_footer">
+						<div class="img_item item_footer--left">
+							<a href="https://www.sic.gov.co/" rel="nofollow" target="_blank">
+								<img width="183" height="57" title="Superintendencia Industria y comercio" alt="Superintendencia Industria y comercio" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/industriaycomercio.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="183" height="57" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/industriaycomercio.svg" title="Superintendencia Industria y comercio" alt="Superintendencia Industria y comercio"></noscript>
+							</a>
+
+							<a href="https://sicfacilita.sic.gov.co/SICFacilita/index.xhtml" rel="nofollow" target="_blank">
+								<img width="245" height="57" title="SIC facilita" alt="SIC facilita" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/sic_facilita.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="245" height="57" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/sic_facilita.png" title="SIC facilita" alt="SIC facilita"></noscript>
+							</a>
+						</div>
+					</div>
+					<div class="item_footer">
+						<div class="img_item no-margin">
+							<a href="https://www.superfinanciera.gov.co/inicio/sala-de-prensa/advertencias-y-medidas-administrativas-por-ejercicio-ilegal-de-actividad-financiera/advertencias-por-suplantacion--10097510" rel="nofollow" target="_blank">
+								<img title="Imagen de suplantación" alt="imagen de suplantación" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/icons/warning.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/icons/warning.svg" title="Imagen de suplantación" alt="imagen de suplantación"></noscript>
+							</a>
+						</div>
+						<div class="info">
+							<p class="info_warning "><strong>Evita ser víctima de fraudes financieros</strong></p>
+							<p>Conoce las recomendaciones de la Superintendencia Financiera haciendo click <a href="https://www.superfinanciera.gov.co/inicio/sala-de-prensa/advertencias-y-medidas-administrativas-por-ejercicio-ilegal-de-actividad-financiera/advertencias-por-suplantacion--10097510" rel="nofollow" target="_blank"> <strong>aquí</strong></a></p>
+							<p><span>Todos los derechos reservados a RAPICREDIT - COMPAÑÍA DE CRÉDITOS RÁPIDOS SAS de Colombia <a href="mailto:ayuda@rapicredit.com" target="_blank">ayuda@rapicredit.com</a>  NIT 900.564.668-4</span></p>
+						</div>
+					</div>
+					<div class="item_footer">
+						<div class="img_item">
+							<a href="https://www.colombiafintech.co/" rel="nofollow" target="_blank">
+								<img height="61" width="75" title="Colombia Fintech" alt="Colombia Fintech" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/ColombiaFintech.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img height="61" width="75" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/ColombiaFintech.svg" title="Colombia Fintech" alt="Colombia Fintech"></noscript>
+							</a>
+							<a href="https://www.sellofintrust.com.co/trust-seal/'.rapicredit&amp;61" rel="nofollow" target="_blank">
+								<img height="61" width="275" title="Fin Trust" alt="Fin Trust" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/Logo_FinTrust.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img height="61" width="275" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/Logo_FinTrust.png" title="Fin Trust" alt="Fin Trust"></noscript>
+							</a>
+							<a href="https://www.mintzero.io/directory" rel="nofollow" target="_blank">
+								<img height="61" width="59" title="Carbon Neutral Badge" alt="Carbon Neutral Badge" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/Carbon-Neutral-Badge.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img height="61" width="59" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/Carbon-Neutral-Badge.png" title="Carbon Neutral Badge" alt="Carbon Neutral Badge"></noscript>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!--scripts-->
+		<!--scripts-->
+	    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+	    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+			
+		<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/home.test.rapicredit.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="my_loadmore-js-extra">
+/* <![CDATA[ */
+var rapicredit_loadmore_params = {"ajaxurl":"https:\/\/home.test.rapicredit.com\/wp-admin\/admin-ajax.php","posts":"{\"page\":0,\"pagename\":\"politica-de-privacidad-tratamiento-de-datos\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"politica-de-privacidad-tratamiento-de-datos\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"orderby\":\"menu_order\",\"order\":\"ASC\",\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false}","current_page":"1","max_page":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/myloadmore.js?ver=6.0.2" id="my_loadmore-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/wp-review/public/js/js.cookie.min.js?ver=2.1.4" id="js-cookie-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
+<script type="text/javascript" id="wp_review-js-js-extra">
+/* <![CDATA[ */
+var wpreview = {"ajaxurl":"https:\/\/home.test.rapicredit.com\/wp-admin\/admin-ajax.php","loginRequiredMessage":"You must log in to add your review"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/wp-review/public/js/main.js?ver=5.3.5" id="wp_review-js-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.15.0" id="smush-lazy-load-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/wp-review/rating-types/star-input.js?ver=6.0.2" id="wp-review-star-input-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/bootstrap.min.js?ver=6.0.2" id="script-bootstrap-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/ion.rangeSlider.min.js?ver=6.0.2" id="script-rangeSlider-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/slick.js?ver=6.0.2" id="script-slick-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/jquery-scrolltofixed-min.js?ver=6.0.2" id="script-scrolltofixed-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/moment.min.js?ver=6.0.2" id="script-moment-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/rapricredit.js?ver=6.0.2" id="script-rapricredit-js"></script>
+	
+</body></html>

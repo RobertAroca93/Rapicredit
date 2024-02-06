@@ -28,7 +28,7 @@ public class RedirecciónLandingStepDefinitions extends SetUp {
 
     private static final String ACTOR_NAME = "User";
 
-    private static final String REDIRECCIÓN_EXITOSA = "Inicio de sesión";
+    private static final String REDIRECCIÓN_EXITOSA = "Iniciar sesión para continuar";
 
     @Dado("que me encuentro en el onboarding de rapiplazo")
     public void que_me_encuentro_en_el_onboarding_de_rapiplazo() {

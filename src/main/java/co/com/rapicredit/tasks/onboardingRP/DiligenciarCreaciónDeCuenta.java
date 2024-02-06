@@ -6,9 +6,10 @@ import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Scroll;
 
+
 import static co.com.rapicredit.userInterface.onboardingRP.PrimerFormulario.*;
 
-public class DiligenciarPrimerForm implements Task {
+public class DiligenciarCreaciónDeCuenta implements Task {
 
     public String numeroDeIdentificación;
 
@@ -20,30 +21,30 @@ public class DiligenciarPrimerForm implements Task {
 
     public String confirmarContraseña;
 
-    public DiligenciarPrimerForm ingresarNumeroDeIdentificación(String numeroDeIdentificación) {
+    public DiligenciarCreaciónDeCuenta ingresarNumeroDeIdentificación(String numeroDeIdentificación) {
         this.numeroDeIdentificación = numeroDeIdentificación;
         return this;
     }
 
-    public DiligenciarPrimerForm ingresarNumeroDeCelular(String numeroDeCelular) {
+    public DiligenciarCreaciónDeCuenta ingresarNumeroDeCelular(String numeroDeCelular) {
         this.numeroDeCelular = numeroDeCelular;
         return this;
     }
 
-    public DiligenciarPrimerForm ingresarEmail(String confirmarEmail) {
-        this.confirmarEmail = confirmarEmail;
-        return this;
-    }
-
-    public DiligenciarPrimerForm ingresarContraseña(String contraseña) {
+    public DiligenciarCreaciónDeCuenta ingresarContraseña(String contraseña) {
         this.contraseña = contraseña;
         return this;
     }
 
-    public DiligenciarPrimerForm ingresarConfirmaciónContraseña(String confirmarContraseña) {
+    public DiligenciarCreaciónDeCuenta ingresarConfirmaciónContraseña(String confirmarContraseña) {
         this.confirmarContraseña = confirmarContraseña;
         return this;
     }
+
+    /*public DiligenciarCreaciónDeCuenta ingresarConfirmacionEmail(String confirmarEmail){
+        this.confirmarEmail = confirmarEmail;
+        return this;
+    }*/
 
     @Override
     public <T extends Actor> void performAs(T actor) {
@@ -57,8 +58,8 @@ public class DiligenciarPrimerForm implements Task {
                 Scroll.to(NUMERO_DE_CELULAR),
                 Enter.theValue(numeroDeCelular).into(NUMERO_DE_CELULAR),
 
-                Scroll.to(CONFIRMAR_EMAIL),
-                Enter.theValue(confirmarEmail).into(CONFIRMAR_EMAIL),
+                /*Scroll.to(CONFIRMAR_EMAIL),
+                Enter.theValue(confirmarEmail).into(CONFIRMAR_EMAIL),*/
 
                 Scroll.to(INGRESAR_CONTRASEÑA),
                 Enter.theValue(contraseña).into(INGRESAR_CONTRASEÑA),
@@ -78,7 +79,9 @@ public class DiligenciarPrimerForm implements Task {
 
 
     }
-    public static DiligenciarPrimerForm diligenciarPrimerForm(){
-        return new DiligenciarPrimerForm();
+
+    public static DiligenciarCreaciónDeCuenta diligenciarPrimerForm() {
+        return new DiligenciarCreaciónDeCuenta();
     }
 }
+

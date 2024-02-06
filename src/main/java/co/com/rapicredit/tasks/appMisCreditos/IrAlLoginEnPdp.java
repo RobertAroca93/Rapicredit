@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Scroll;
 
 import static co.com.rapicredit.userInterface.paginaLogin.LandingPpd.BOTON_INICIAR_SESIÓN_PDP;
-import static co.com.rapicredit.userInterface.paginaLogin.LandingPpd.CERRAR_AVISO;
+
 
 
 public class IrAlLoginEnPdp implements Task {
@@ -15,8 +15,8 @@ public class IrAlLoginEnPdp implements Task {
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
 
-                Scroll.to(CERRAR_AVISO),
-                Click.on(CERRAR_AVISO),
+                /*Scroll.to(CERRAR_AVISO),
+                Click.on(CERRAR_AVISO),*/
 
                 Scroll.to(BOTON_INICIAR_SESIÓN_PDP),
                 Click.on(BOTON_INICIAR_SESIÓN_PDP)

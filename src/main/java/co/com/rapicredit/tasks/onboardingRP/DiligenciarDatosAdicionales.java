@@ -6,9 +6,10 @@ import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Scroll;
 
+import static co.com.rapicredit.userInterface.onboardingRP.CalculaTuRapiplazo.PIDE_TU_RAPIPLAZO_YA;
 import static co.com.rapicredit.userInterface.onboardingRP.TercerFormulario.*;
 
-public class DiligenciarTercerForm implements Task {
+public class DiligenciarDatosAdicionales implements Task {
 
     public String direcciónResidencia;
 
@@ -16,17 +17,17 @@ public class DiligenciarTercerForm implements Task {
 
     public String gastosMes;
 
-    public DiligenciarTercerForm ingresarDirecciónResidencia(String direcciónResidencia) {
+    public DiligenciarDatosAdicionales ingresarDirecciónResidencia(String direcciónResidencia) {
         this.direcciónResidencia = direcciónResidencia;
         return this;
     }
 
-    public DiligenciarTercerForm ingresarIngresosMes(String ingresosMes) {
+    public DiligenciarDatosAdicionales ingresarIngresosMes(String ingresosMes) {
         this.ingresosMes = ingresosMes;
         return this;
     }
 
-    public DiligenciarTercerForm ingresarGastosMes(String gastosMes) {
+    public DiligenciarDatosAdicionales ingresarGastosMes(String gastosMes) {
         this.gastosMes = gastosMes;
         return this;
     }
@@ -94,12 +95,14 @@ public class DiligenciarTercerForm implements Task {
 
                 Scroll.to(BOTON_CONTINUAR),
                 Click.on(BOTON_CONTINUAR)
+
+
         );
 
     }
 
-    public static DiligenciarTercerForm diligenciarTercerForm() {
-        return new DiligenciarTercerForm();
+    public static DiligenciarDatosAdicionales diligenciarDatosAdicionales() {
+        return new DiligenciarDatosAdicionales();
 
     }
 }

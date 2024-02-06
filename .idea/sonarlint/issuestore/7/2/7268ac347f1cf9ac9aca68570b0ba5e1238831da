@@ -1,0 +1,13 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§›ıµ
+{
+java:S1104"`Make direcciÃ³nResidencia a static final constant or non-public and provide accessors if needed.(©†¡Ìøÿÿÿÿ
+m
+java:S1104"WMake ingresosMes a static final constant or non-public and provide accessors if needed.(èÊÄÔ
+j
+java:S1104"UMake gastosMes a static final constant or non-public and provide accessors if needed.(ÏÉ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­½Šì
+y	java:S116"_Rename this field "direcciÃ³nResidencia" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©†¡Ìøÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§›ıµ
+Œ
+java:S1128	"qRemove this unused import 'co.com.rapicredit.userInterface.onboardingRP.CalculaTuRapiplazo.PIDE_TU_RAPIPLAZO_YA'.(ÇºÑÓøÿÿÿÿ

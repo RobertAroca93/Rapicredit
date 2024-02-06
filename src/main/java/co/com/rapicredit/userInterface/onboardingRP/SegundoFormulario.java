@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 public class SegundoFormulario extends PageObject {
 
     public static final Target PRIMER_NOMBRE = Target
-            .the("PrimerNombre").located(By.id("first_name"));
+            .the("PrimerNombre").located(By.xpath("//*[@id=\"first_name\"]"));
 
     public static final Target PRIMER_APELLIDO = Target
             .the("PrimerApellido").located(By.id("first_surname"));

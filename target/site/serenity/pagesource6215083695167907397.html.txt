@@ -1,0 +1,786 @@
+<html lang="es-CO" class=""><head>
+	    <meta charset="utf-8">
+	    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+	    <meta content="width=device-width, initial-scale=1" name="viewport">
+
+		
+		<!-- Google Tag Manager -->
+		<!--<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WL82ZQ7');</script>
+		<!-- End Google Tag Manager -->
+		
+		<link rel="apple-touch-icon" sizes="57x57" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/favicon-16x16.png">
+		<link rel="manifest" href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/manifest.json">
+		<meta name="msapplication-TileImage" content="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/favicon/ms-icon-144x144.png">
+		<meta name="theme-color" content="#000000">
+
+	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">  
+	    <link href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/css/ion.rangeSlider.min.css" rel="stylesheet">
+	    <link href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/css/slick.css" rel="stylesheet">
+	    <link href="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/css/style.css" rel="stylesheet">
+		<meta name="robots" content="noindex, nofollow">
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v19.3 (Yoast SEO v20.2.1) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Autorización datos personales | RapiCredit</title>
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Autorización datos personales">
+	<meta property="og:description" content="Autorizo de manera previa, expresa e informada a RapiCredit quien actuará como responsable de los datos personales, o a quienes representen sus derechos u ostenten en el futuro la calidad de acreedor, cesionario, o cualquier calidad frente a mi, como titular de la información y en calidad de cliente, para&nbsp; recolectar, usar, transferir, transmitir y […]">
+	<meta property="og:url" content="https://home.test.rapicredit.com/autorizacion-datos-personales/">
+	<meta property="og:site_name" content="RapiCredit.com">
+	<meta property="article:publisher" content="https://www.facebook.com/RapiCreditSAS">
+	<meta property="article:modified_time" content="2023-12-14T17:19:46+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@rapicredit">
+	<meta name="twitter:label1" content="Est. reading time">
+	<meta name="twitter:data1" content="5 minutos">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["WebPage","SearchResultsPage"],"@id":"https://home.test.rapicredit.com/autorizacion-datos-personales/","url":"https://home.test.rapicredit.com/autorizacion-datos-personales/","name":"Autorización datos personales | RapiCredit","isPartOf":{"@id":"https://172.31.71.5/#website"},"datePublished":"2023-12-14T17:19:14+00:00","dateModified":"2023-12-14T17:19:46+00:00","breadcrumb":{"@id":"https://home.test.rapicredit.com/autorizacion-datos-personales/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://home.test.rapicredit.com/autorizacion-datos-personales/"]}]},{"@type":"BreadcrumbList","@id":"https://home.test.rapicredit.com/autorizacion-datos-personales/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://home.test.rapicredit.com/"},{"@type":"ListItem","position":2,"name":"Autorización datos personales"}]},{"@type":"WebSite","@id":"https://172.31.71.5/#website","url":"https://172.31.71.5/","name":"RapiCredit.com","description":"Préstamos y créditos personales 100% Online, Rápido y Seguro. Solicitalo por Internet; obtén aprobación inmediata y recibe el dinero en menos de 24 horas.","publisher":{"@id":"https://172.31.71.5/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://172.31.71.5/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"https://172.31.71.5/#organization","name":"RapiCredit","url":"https://172.31.71.5/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://172.31.71.5/#/schema/logo/image/","url":"https://172.31.71.5/wp-content/uploads/2020/05/rapricredit_logo.svg","contentUrl":"https://172.31.71.5/wp-content/uploads/2020/05/rapricredit_logo.svg","width":271,"height":66,"caption":"RapiCredit"},"image":{"@id":"https://172.31.71.5/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/RapiCreditSAS","https://twitter.com/rapicredit","https://www.instagram.com/rapicredit_sas/","https://www.linkedin.com/company/rapicredit/mycompany/","https://www.youtube.com/channel/UCS9GQfCDEQBuFM6aS4sgTNA"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="dns-prefetch" href="//home.test.rapicredit.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="wp-block-library-css" href="https://home.test.rapicredit.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://home.test.rapicredit.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://home.test.rapicredit.com/wp-includes/css/dashicons.min.css?ver=6.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="wp_review-style-css" href="https://home.test.rapicredit.com/wp-content/plugins/wp-review/public/css/wp-review.css?ver=5.3.5" type="text/css" media="all">
+<link rel="https://api.w.org/" href="https://home.test.rapicredit.com/wp-json/"><link rel="alternate" type="application/json" href="https://home.test.rapicredit.com/wp-json/wp/v2/pages/12022"><link rel="alternate" type="application/json+oembed" href="https://home.test.rapicredit.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhome.test.rapicredit.com%2Fautorizacion-datos-personales%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://home.test.rapicredit.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhome.test.rapicredit.com%2Fautorizacion-datos-personales%2F&amp;format=xml">
+<!-- Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FinancialService","name":"RapiCredit","image":{"@type":"ImageObject","url":"https:\/\/home.test.rapicredit.com\/wp-content\/uploads\/2020\/05\/rapricredit_logo.svg","width":271,"height":66},"telephone":"(601) 3902670","url":"https:\/\/www.rapicredit.com\/","address":{"@type":"PostalAddress","streetAddress":"Colombia","addressLocality":"Colombia","postalCode":"110111","addressRegion":"Colombia","addressCountry":"CO"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","reviewCount":"500"},"priceRange":"100.000 - 750.000","openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":[""],"opens":"","closes":""}]}</script><!-- / Schema optimized by Schema Pro --><!-- organization Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"organization","name":"RapiCredit","url":"https:\/\/home.test.rapicredit.com"}</script><!-- / organization Schema optimized by Schema Pro --><!-- breadcrumb Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/home.test.rapicredit.com\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/home.test.rapicredit.com\/autorizacion-datos-personales\/","name":"Autorizaci\u00f3n datos personales"}}]}</script><!-- / breadcrumb Schema optimized by Schema Pro -->		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+				<style type="text/css" id="wp-custom-css">
+			.video-responsive {
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	position: relative;
+	}
+.video-responsive iframe, .video-responsive object, .video-responsive embed {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	}
+
+.amp-wp-header{
+	background: #ffffff;
+}
+
+.aligncenter{
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+
+.aligncenter:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	}
+
+@media (max-width: 766px){
+.aligncenter{
+		width:350px;
+		height:45px;	
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+.aligncenter:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	}}
+
+
+.aligncenter-grande{
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+
+.aligncenter-grande:hover{
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+
+@media (max-width: 766px){
+.aligncenter-grande{
+		width:330px;
+		height:200px;
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+	.aligncenter-grande:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	}}
+
+.alignnone{
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+
+.alignnone:hover{
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+
+@media (max-width: 766px){
+.alignnone{
+		width:310px;
+		height:60px;
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c;
+	}
+.alignnone:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	}}
+
+
+@media (max-width: 766px){
+.ejemplo-36-cuotas{
+		width:310px;
+		height:454px;
+		align-content:center;
+	}}
+
+
+@media (max-width: 766px){
+.ejemplo-cuotas{
+		width:310px;
+		height:403px;
+		align-content:center;
+	}}
+
+#boton_contenido{
+	background: #DA0916; 
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c; 
+	color: #ffffff;
+	border: none; 
+	border-radius: 50px; 
+	cursor: pointer; 
+	font-family: Akrobat; 
+	font-size: 1.56rem; 
+	font-weight: 600; line-height: 1;
+	margin-bottom: 1.125rem; 
+	min-width: 320px; 
+	padding: .84rem; display: inline-block;
+}
+
+#boton_contenido:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	text-decoration:none;
+	}
+
+#imagen-registro{	
+	box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px #84858c; 
+}
+
+#imagen-registro:hover{
+	box-shadow: -5px -5px 20px #ffffff, 2px 2px 10px #84858c;
+	text-decoration:none;
+	}
+
+.imagen-camino-conciencia-financiera{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-camino-conciencia-financiera{
+		width:310px;
+		height:483px;	
+	}}
+
+
+
+.imagen-ejemplo-interes-efectivo-1{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-efectivo-1{
+		width:310px;
+		height:30px;	
+	}}
+
+
+.imagen-ejemplo-interes-efectivo-2{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-efectivo-2{
+		width:310px;
+		height:207px;	
+	}}
+
+
+
+.imagen-ejemplo-interes-efectivo-3{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-efectivo-3{
+		width:310px;
+		height:134px;	
+	}}
+
+
+
+.imagen-ejemplo-interes-efectivo-4{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-efectivo-4{
+		width:310px;
+		height:138px;	
+	}}
+
+.imagen-ejemplo-interes-gota-gota{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-gota-gota{
+		width:310px;
+		height:152px;	
+	}
+
+.imagen-ejemplo-interes-efectivo-5{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-ejemplo-interes-efectivo-5{
+		width:310px;
+		height:204px;	
+	}}
+
+
+.imagen-viajar-qatar{
+	  margin-left:auto;
+		margin-right:auto;
+	}
+
+@media (max-width: 766px){
+.imagen-viajar-qatar{
+		width:310px;
+		height:132px;	
+	}}
+
+
+
+@media (max-width: 766px){
+.imagen-novacion{
+		width:310px;
+		height:165px;	
+	}}
+
+
+/*formulario landing contactos tiktok*/
+.formulario-1{	
+    margin-top: -900px;
+    position: relative;
+    margin-left: -125px;
+}
+
+.icon_item{
+	font-size:30px;
+}
+
+.content-landing-1 .table-container .table-responsive{
+	background: #ECEDF1;
+    border-radius: 30px;
+    box-shadow: -2px -2px 5px white, 5px 5px 10px rgb(0 0 0 / 20%);}
+
+.content-landing-1 .info-top{
+	color: #5A5A5A;
+    font-size: 1.56rem;
+    line-height: 1.875rem;
+    text-align: center;}
+
+.content-landing-1 .table-container .table-responsive table tr td{
+	padding: 15px 45px;
+    vertical-align: middle;
+}
+
+.content-landing-1 .table-container .message-table{
+	color: #5A5A5A;
+    margin: 45px 0 0;
+    text-align: center;}
+
+.content-landing-1{
+	padding-top: 100px;}
+
+
+
+#wpcf7-f7705-p7647-o1{
+	background: #E4E7EC;
+    border-radius: 30px;
+    font-size: 0.87rem;
+    padding: 15px 15px 0px 15px;
+    max-width: 600px;
+    text-align: center;
+}
+
+.title-form-1{
+	    font-size: 40px;
+	color:white;
+}
+
+
+.title-form-landing{
+	color: #232427;
+    font-size: 1.56rem;
+    font-weight: bold;
+    line-height: 1.75rem;
+    margin-top: 0;
+    margin-bottom: 10px;
+    max-width: none;
+    position: relative;
+    text-align: center;
+}
+
+.wpcf7-form-control[type='submit']{
+		min-width: 100px;
+	background: #AF0063;
+	color: white;}
+
+.texto-formulario-1{
+	margin-top: 200px;
+}
+
+@media (max-width: 1400px){
+.formulario-1{	
+	margin-top: -550px;}
+}
+
+
+@media (max-width: 766px){
+	.formulario-1{	
+		margin-top: -300px;	
+    margin-left: -1px;}		
+	.texto-formulario-1{
+		margin-top: 50px;}
+	.icon_item{
+		font-size:25px;}	
+	.title-form-1{
+	   font-size: 25px;
+		color:white;
+		text-shadow: black 0.1em 0.1em 0.2em;}
+	.content-landing-1 .table-container .table-responsive table tr td{
+		padding: 5px 5px 5px 10px;
+    vertical-align: middle;
+	font-size: 15px}
+	.icon_item > img{
+		height:50px;
+		width:50px;
+	}
+}
+
+/*Botón simulador pequeño derecha
+.btn.btn-default{
+	
+	background: #AF0063;
+}+/*/
+	
+	
+@media (max-width: 766px){
+.imagen-disfraz{
+		width:310px;
+		height:447px;	
+	}}
+		</style>
+			    	</head>
+	
+	<body class="page-template page-template-page-static page-template-page-static-php page page-id-12022 wp-schema-pro-2.0.0">
+		<!-- Google Tag Manager (noscript) -->
+		<!--<noscript><iframe 
+		height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-WL82ZQ7" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>-->
+		<!-- End Google Tag Manager (noscript) -->
+		 
+		<header>
+		    <div class="container">
+		        <div class="header">
+		            <button class="navbar-toggle collapsed">
+		            	<span class=""></span>
+		            	<span class=""></span>
+		            	<span class=""></span>
+		            </button>
+		            <a class="logo" href="/">
+		                <img alt="Rapicredit" title="Rapicredit" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/rapricredit_logo_color.svg" class=" lazyloaded" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/rapricredit_logo_color.svg"><noscript><img alt="Rapicredit" title="Rapicredit" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/rapricredit_logo_color.svg"/></noscript>
+		            </a>
+		        
+		            <nav id="menu" class="main-menu"><ul id="menu-menu-principal" class="menu-menu-principal"><li id="menu-item-8127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8127"><a href="#">Productos</a>
+<ul class="sub-menu">
+	<li id="menu-item-11271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11271"><a href="https://home.test.rapicredit.com/">RapiCredit</a></li>
+	<li id="menu-item-7997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7997"><a href="https://landing.rapicredit.com/landing">RapiPlazo</a></li>
+</ul>
+</li>
+<li id="menu-item-7998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7998"><a href="#">¿Cómo funciona?</a>
+<ul class="sub-menu">
+	<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a title="¿Cómo funciona RapiFlex?" href="https://home.test.rapicredit.com/como-funciona/">¿Cómo Funciona RapiFlex?</a></li>
+	<li id="menu-item-7999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7999"><a title="¿Cómo Funciona RapiPlazo?" href="https://www.rapicredit.com/rapiplazo/como-funciona/">¿Cómo Funciona RapiPlazo?</a></li>
+</ul>
+</li>
+<li id="menu-item-8000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8000"><a href="#">Paga tu Préstamo</a>
+<ul class="sub-menu">
+	<li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476"><a title="Paga tu Préstamo" href="https://home.test.rapicredit.com/pagar-prestamo/">Paga tu RapiFlex</a></li>
+	<li id="menu-item-6787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6787"><a href="https://cliente.rapicredit.com/login">Paga tu RapiPlazo</a></li>
+</ul>
+</li>
+<li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a title="Preguntas y Respuestas sobre RapiCredit" href="https://home.test.rapicredit.com/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15"><a title="Quienes somos" href="#">Quienes somos</a>
+<ul class="sub-menu">
+	<li id="menu-item-472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a title="Acerca de RapiCredit" href="https://home.test.rapicredit.com/acerca-de/">Acerca de RapiCredit</a></li>
+	<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a title="Refiere RapiCredit y gana" href="https://home.test.rapicredit.com/referidos/">Referidos</a></li>
+	<li id="menu-item-479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-479"><a title="Obtener más Plazo" href="https://home.test.rapicredit.com/obtener-mas-plazo/">Ampliar Plazo</a></li>
+	<li id="menu-item-475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a title="Noticias sobre RapiCredit" href="https://home.test.rapicredit.com/noticias/">Noticias</a></li>
+	<li id="menu-item-8096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8096"><a href="https://home.test.rapicredit.com/blog/">Blog</a></li>
+</ul>
+</li>
+</ul></nav>
+		            <div class="right-menu">
+		            <nav class="user-menu"><ul id="menu-login" class="menu"><li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23"><a href="https://frontlendingst.test.rapicredit.com/login">Login</a>
+<ul class="sub-menu">
+	<li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a target="_blank" rel="noopener" href="https://frontlendingst.test.rapicredit.com/login">Iniciar Sesión</a></li>
+	<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a target="_blank" rel="noopener" href="https://www.rapicredit.com/app/signUp">Registrarte</a></li>
+</ul>
+</li>
+</ul></nav>		            </div>
+		        </div>
+		    </div>
+		</header>
+<div class="container">
+	<ul class="breadcrumb"><li><a href="https://home.test.rapicredit.com" rel="nofollow">Home</a></li><li class="active">Autorización datos personales</li></ul></div>
+<section class="content">
+	<div class="container">
+		<h1 class="title-block">Autorización datos personales</h1>
+
+		 <!--Because the_content() works only inside a WP Loop -->
+		        <div class="body_page">
+					<p><strong>Autorizo de manera previa, expresa e informada a RapiCredit quien actuará como responsable de los datos personales, o a quienes representen sus derechos u ostenten en el futuro la calidad de acreedor, cesionario, o cualquier calidad frente a mi, como titular de la información y en calidad de cliente, para&nbsp; recolectar, usar, transferir, transmitir y tratar datos personales conforme la Política de Tratamiento de Datos Personales y&nbsp; las finalidades que se indican a continuación: </strong></p>
+<p>&nbsp;</p>
+<p><strong>(i)</strong> Contar con documentos digitalizados y físicos de los clientes con el propósito de&nbsp; gestionar el proceso de vinculación y creación del cliente en la empresa. <strong>(ii)</strong> Generar informes mensuales sobre el comportamiento de la cartera del cliente. <strong>(iii)</strong> Prestar servicios crediticios a personas naturales y jurídicas a través de plataformas&nbsp; electrónicas.<strong> (iv)</strong> Conocer su comportamiento financiero, comercial y crediticio y el cumplimiento de sus obligaciones legales. <strong>(v)</strong> Realizar ante los operadores de información (Experian, Transunion y/o cualquier otra&nbsp; entidad que llegue a manejar bases de datos con los mismos objetivos) la consulta de la&nbsp; información crediticia, así como el reporte de la generación, modificación, extinción,&nbsp; cumplimiento o incumplimiento de las obligaciones contraídas. <strong>(vi)</strong> Compartir e intercambiar con sus entidades filiales, matrices, aliadas y/o con entidades&nbsp; financieras, cesionarios o inversionistas, la información personal y financiera así como la&nbsp; información en relación con créditos contratados u otorgados con o a través la Compañía,&nbsp; contenida en las bases de datos de la entidad con fines de control de riesgos, desembolso&nbsp; y pago de obligaciones. <strong>(vii) </strong>Compartir e intercambiar con aliados y terceros, la información personal y financiera así como la&nbsp; información en relación con créditos contratados u otorgados con la Compañía con fines de publicidad y comerciales. <strong>(viii)</strong> Realizar servicios legalmente autorizados bajo el contrato de mutuo firmado con nuestros&nbsp; clientes, como pueden ser cesiones de cartera, cobro de obligaciones y cualquier otra&nbsp; actividad autorizada en dicho contrato.&nbsp; <strong>(ix)</strong> Adelantar contactos con fines comerciales, promocionales y de cobranza o cualquier otro relacionados con los servicios y productos de RapiCredit, o los de terceros con los que la Compañía tenga relaciones&nbsp; comerciales o alianzas, a través de los canales autorizados por el cliente, los cuales podrán ser: Correo electrónico, Short Message Service (SMS por sus siglas en&nbsp; inglés),&nbsp; Multimedia Message Service (MMS por sus siglas en inglés), Unstructured&nbsp; Supplementary Service Data (USSD por sus siglas en inglés),&nbsp; WhatsApp,&nbsp; Push Notification, Chats de redes sociales y aplicaciones asociadas al número telefónico&nbsp; registrado por el cliente. <strong>(x)</strong> Realizar actividades de gestión de cobro, aviso de reporte a las centrales de riesgo, entrega&nbsp; de extractos de obligaciones y actualizar la información a través de diferentes actividades&nbsp; como lo son la consulta en bases de datos públicas, páginas de internet y redes sociales <strong>(xi) </strong>Seguimiento de procesos jurídicos, identificación de pagos realizados y calificación de&nbsp; cartera de manera directa o a través de terceros ubicados dentro y fuera del territorio&nbsp; nacional.&nbsp; <strong>(xii)</strong> Seguimiento continuo a nuestros clientes, mediante estrategias de fidelización efectivas&nbsp; propiciando confianza y lealtad para la prestación de nuevos servicios, con el propósito de dar a conocer a los clientes el portafolio de servicios crediticios que&nbsp; son ofrecidos a través de la Compañía. <strong>(xiii) </strong>Consultar y reportar información de los clientes a través de centrales de riesgo y de&nbsp; acuerdo con lo establecido en la Ley 1266 de 2008. <strong>(xiv) </strong>Mantener contacto con la Compañía aún cuando finalice la relación contractual. <strong>(xv)</strong> Compartir la información con terceros aliados que colaboran con la Compañía,&nbsp; considerando que para el cumplimiento de sus encargos deben acceder en alguna medida a la información, los cuales estarán igualmente sujetos a las obligaciones de&nbsp; confidencialidad, manejo de la información y protección de datos personales a las que&nbsp; está sujeto esta sociedad. tales como proveedores de servicios de mensajería, agencias de&nbsp; publicidad, casas de cobranzas, proveedores de productos. Etc.&nbsp; <strong>(xvi)</strong> Dar atención y seguimiento a las solicitudes que reciba de los Titulares de Datos&nbsp; Personales, en ejercicio del derecho de Hábeas data. <strong>(xvii)</strong> Gestión administrativa para la ejecución de las etapas precontractual, contractual y&nbsp; poscontractual. <strong>(xviii)</strong> Evaluar la atención brindada al cliente y realizar actividades de prospección comercial. <strong>(xix)</strong> Gestionar y dar atención oportuna a las peticiones, quejas o reclamos presentados por&nbsp; los clientes de la organización a través de los canales de servicio al cliente. <strong>(xx)</strong> Dar cumplimiento al Sistema de prevención de lavado de activos y financiación del&nbsp; terrorismo adoptado por la empresa y en consecuencia consultar al titular en listas&nbsp; restrictivas.</p>
+<p>&nbsp;</p>
+<p><strong>Derechos que tiene el titular de la información.</strong></p>
+<p>Declaro que he sido informado sobre: <strong>(i) </strong>el derecho que tengo a conocer, actualizar y rectificar mis datos personales; <strong>(ii)</strong> solicitar prueba de la autorización; <strong>(iii)</strong> ser informado sobre el tratamiento que se ha dado a mis datos personales; <strong>(iv) </strong>presentar quejas ante la Superintendencia de Industria y Comercio; <strong>(v)</strong> revocar la autorización otorgada a cada uno de los canales de contacto autorizados y/o solicitar la supresión de mis datos en los casos en que sea procedente;<strong> (vi) </strong>el carácter facultativo de mis respuestas a las preguntas que versen sobre datos sensibles o de menores de edad y <strong>(vii)</strong> la facultad que tenemos de negarnos a entregar o autorizar el tratamiento de datos sensibles.</p>
+<p>&nbsp;</p>
+<p><strong>Canales para ejercer sus derechos</strong></p>
+<p>He sido informado que los siguientes son los canales de atención para el ejercicio de mis derechos tales como: conocer, actualizar, rectificar y/o suprimir, mi información personal. Correo electrónico <a href="mailto:ayuda@rapicredit.com">ayuda@rapicredit.com</a> y <a href="mailto:datospersonales@rapicredit.com">datospersonales@rapicredit.com</a></p>
+<p>Manifiesto que la presente autorización me fue solicitada y puesta de presente antes de entregar mis datos y que la suscribo de forma libre y voluntaria.</p>
+<p>Te invitamos a conocer más sobre la Política para el tratamiento de datos personales, dentro de la cual podrás encontrar definiciones, finalidades y relacionamiento con terceros y/o encargados, entre otros.La política se encuentra publicada <a href="http://www.rapicredit.com">www.rapicredit.com</a> y&nbsp; podrá ser actualizada en cualquier momento, cambio será informado y publicado oportunamente en la página web.</p>
+
+<div id="review" class="review-wrapper wp-review-12022 wp-review-star-type wp-review-default-template wp-review-box-full-width">
+				
+	
+	
+			
+			
+			<div class="user-review-area visitors-review-area">
+			<div class="wp-review-user-rating wp-review-user-rating-star"><div id="wp-review-star-rating-5586" class="wp-review-rating-input review-star" data-post-id="12022" data-token="7a63900bb9">
+	<div class="wp-review-loading-msg">
+		<span class="animate-spin fa fa-spinner"></span>		Sending	</div>
+
+	<div class="review-result-wrapper">
+		<span data-input-value="1" title="1/5"><i class="mts-icon-star"></i></span><span data-input-value="2" title="2/5"><i class="mts-icon-star"></i></span><span data-input-value="3" title="3/5"><i class="mts-icon-star"></i></span><span data-input-value="4" title="4/5"><i class="mts-icon-star"></i></span><span data-input-value="5" title="5/5"><i class="mts-icon-star"></i></span>		<div class="review-result" style="width:0%;">
+			<i class="mts-icon-star"></i><i class="mts-icon-star"></i><i class="mts-icon-star"></i><i class="mts-icon-star"></i><i class="mts-icon-star"></i>		</div>
+	</div>
+	<input type="hidden" class="wp-review-user-rating-val" name="wp-review-user-rating-val" value="0.0">
+	<input type="hidden" class="wp-review-user-rating-nonce" value="7a63900bb9">
+	<input type="hidden" class="wp-review-user-rating-postid" value="12022">
+</div>
+
+<style type="text/css">
+	.wp-review-comment-rating #wp-review-star-rating-5586 .review-result-wrapper i {
+		color: #95bae0;
+	}
+	.wp-review-12022 #wp-review-star-rating-5586 .review-result-wrapper .review-result i {
+		color: #eeee22;
+		opacity: 1;
+		filter: alpha(opacity=100);
+	}
+	.wp-review-12022 #wp-review-star-rating-5586 .review-result-wrapper i {
+		color: #95bae0;
+	}
+	.wp-review-12022 .mts-user-review-star-container #wp-review-star-rating-5586 .selected i,
+	.wp-review-12022 .user-review-area #wp-review-star-rating-5586 .review-result i,
+	.wp-review-comment-field #wp-review-star-rating-5586 .review-result i,
+	.wp-review-comment-rating #wp-review-star-rating-5586 .review-result i,
+	.wp-review-user-rating #wp-review-star-rating-5586 .review-result-wrapper:hover span i,
+	.wp-review-comment-rating #wp-review-star-rating-5586 .review-result-wrapper:hover span i {
+		color: #eeee22;
+		opacity: 1;
+		filter: alpha(opacity=100);
+	}
+	.wp-review-user-rating #wp-review-star-rating-5586 .review-result-wrapper span:hover ~ span i,
+	.wp-review-comment-rating #wp-review-star-rating-5586 .review-result-wrapper span:hover ~ span i {
+		opacity: 1;
+		color: #95bae0;
+	}
+</style>
+</div>			<div class="user-total-wrapper">
+				<h5 class="user-review-title">User Review</h5>
+				<span class="review-total-box">
+										<span class="wp-review-user-rating-total">0</span>
+					<small>(<span class="wp-review-user-rating-counter">0</span> votes)</small>
+				</span>
+			</div>
+		</div>
+	
+	</div>
+
+<style type="text/css">
+	.wp-review-12022.review-wrapper {
+		width: 100%;
+		overflow: hidden;
+	}
+	.wp-review-12022.review-wrapper,
+	.wp-review-12022 .review-title,
+	.wp-review-12022 .review-desc p,
+	.wp-review-12022 .reviewed-item p {
+		color: #3f3f3f;
+	}
+	.wp-review-12022 .review-title {
+		padding-top: 15px;
+		font-weight: bold;
+	}
+	.wp-review-12022 .review-links a {
+		color: #eeee22;
+	}
+	.wp-review-12022 .review-links a:hover {
+		background: #eeee22;
+		color: #fff;
+	}
+	.wp-review-12022 .review-list li,
+	.wp-review-12022.review-wrapper {
+		background: #e5e5e5;
+	}
+	.wp-review-12022 .review-title,
+	.wp-review-12022 .review-list li:nth-child(2n),
+	.wp-review-12022 .wpr-user-features-rating .user-review-title {
+		background: #e2e2e2;
+	}
+	.wp-review-12022.review-wrapper,
+	.wp-review-12022 .review-title,
+	.wp-review-12022 .review-list li,
+	.wp-review-12022 .review-list li:last-child,
+	.wp-review-12022 .user-review-area,
+	.wp-review-12022 .reviewed-item,
+	.wp-review-12022 .review-links,
+	.wp-review-12022 .wpr-user-features-rating {
+		border-color: #e7e7e7;
+	}
+	.wp-review-12022 .wpr-rating-accept-btn {
+		background: #eeee22;
+	}
+	.wp-review-12022.review-wrapper .user-review-title {
+		color: inherit;
+	}
+</style>
+				</div>
+		    	</div>
+</section>
+<section class="cookies-content" style="display: none;">
+	<div class="container">
+		<div class="texts">
+			<p>Nuestro sitio usa cookies para darte la mejor experiencia , al visitar RapiCredit aceptas su uso. Conoce nuestros <a href="/terminos-condiciones">términos y condiciones</a></p>
+		</div>
+		<span class="icon-ic_close" id="cookies_box"></span>
+	</div>
+</section>
+<footer class="footer_rappicredit">
+			<div class="top_footer">
+			    <div class="container">
+			        <div class="item_footer footer_accordion_m">
+			            <span class="title-footer">Información Útil</span>
+			            <div class="container_item">
+				            <nav class="menu-menu-container"><ul id="menu-menu" class="1"><li id="menu-item-457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-457"><a title="Preguntas y Respuestas sobre RapiCredit" href="https://home.test.rapicredit.com/preguntas-frecuentes/">Preguntas Frecuentes</a></li>
+<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a title="¿Cómo Funciona RapiCredit?" href="https://home.test.rapicredit.com/como-funciona/">¿Cómo funciona?</a></li>
+<li id="menu-item-456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-456"><a title="Contacto RapiCredit" href="https://home.test.rapicredit.com/contacto/">Contáctanos</a></li>
+<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a title="Blog RapiCredit" href="https://home.test.rapicredit.com/blog/">Blog</a></li>
+<li id="menu-item-11739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11739"><a href="https://home.test.rapicredit.com/referidos/">Referidos</a></li>
+</ul></nav>				        </div>
+			        </div>
+			        <div class="item_footer footer_accordion_m">
+			            <span class="title-footer">Mi cuenta</span>
+			            <div class="container_item">
+				            <nav class="menu-mi-cuenta-container"><ul id="menu-mi-cuenta" class="1"><li id="menu-item-459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459"><a title="Inicia Sesión en RapiCredit" target="_blank" rel="noopener" href="https://frontlendingst.test.rapicredit.com/login">Iniciar Sesión</a></li>
+<li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a title="Paga tu Préstamo" href="https://home.test.rapicredit.com/pagar-prestamo/">Paga tu Crédito</a></li>
+<li id="menu-item-461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a title="Obtener más Plazo" href="https://home.test.rapicredit.com/obtener-mas-plazo/">Ampliar Plazo</a></li>
+<li id="menu-item-579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-579"><a title="Solicita tu Préstamo" target="_blank" rel="noopener" href="https://www.rapicredit.com/app/signUp">Pide tu Crédito</a></li>
+<li id="menu-item-7759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7759"><a href="https://landing.rapicredit.com/landing">Pide tu RapiPlazo</a></li>
+</ul></nav>				        </div>
+			        </div>
+			        <div class="item_footer footer_accordion_m">
+			            <span class="title-footer">Legal</span>
+			            <div class="container_item">
+				            <nav class="menu-nuestros-creditos-container"><ul id="menu-nuestros-creditos" class="1"><li id="menu-item-11740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11740"><a href="https://home.test.rapicredit.com/politica-de-privacidad-tratamiento-de-datos/">Política para la protección y tratamiento de datos</a></li>
+<li id="menu-item-11741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11741"><a href="https://home.test.rapicredit.com/terminos-condiciones/">Términos y condiciones</a></li>
+</ul></nav>				        </div>
+			        </div>
+			        <div class="item_footer">
+			            <span class="title-item">SUSCRÍBETE A NUESTRO NEWSLETTER</span>
+		            	<div class="container_item">
+				            
+<div class="wpcf7 js" id="wpcf7-f618-o1" lang="es-ES" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/autorizacion-datos-personales/#wpcf7-f618-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="618">
+<input type="hidden" name="_wpcf7_version" value="5.7.7">
+<input type="hidden" name="_wpcf7_locale" value="es_ES">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f618-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<div class="newsletter">
+	<div class="form-group">
+		<p><span class="wpcf7-form-control-wrap" data-name="email-472"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Correo electrónico" value="" type="email" name="email-472"></span>
+		</p>
+	</div>
+	<div class="form-group form-check">
+		<p><span class="wpcf7-form-control-wrap" data-name="terminos"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><input type="checkbox" name="terminos" value="1" class="form-check-label" aria-invalid="false"></span></span></span><br>
+<label class="form-check-label" for="terms">Acepto <a href="/politica-de-privacidad-tratamiento-de-datos">Política de Tratamiento y Protección de Datos Personales</a></label><br>
+		<input class="wpcf7-form-control wpcf7-hidden" id="date-newsletter" value="18/01/2024" type="hidden" name="date-777">
+		</p>
+	</div>
+	<p><input type="submit" class="btn btn-default" value="Suscríbete">
+	</p>
+</div><p style="display: none !important;"><label>Δ<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="1705616911492"><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+							<div class="content-share-play">
+								<div class="redes container_share">
+									<span class="text_share">Síguenos en:</span>
+									<ul>
+										<nav id="menu" class="redes"><ul id="menu-redes" class="1"><li id="menu-item-469" class="icon-ic_facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-469"><a title="Síguenos en Facebook" target="_blank" rel="noopener" href="https://www.facebook.com/RapiCreditSAS">Facebook</a></li>
+<li id="menu-item-470" class="icon-ic_instagram menu-item menu-item-type-custom menu-item-object-custom menu-item-470"><a title="Síguenos en Instagram" target="_blank" rel="noopener" href="https://www.instagram.com/rapicredit_sas/">Instagram</a></li>
+<li id="menu-item-471" class="icon-ic_youtube menu-item menu-item-type-custom menu-item-object-custom menu-item-471"><a title="Suscribete a nuestro canal" target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCS9GQfCDEQBuFM6aS4sgTNA">Youtube</a></li>
+<li id="menu-item-11791" class="icon-ic_twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-11791"><a title="Siguenos en Twitter" target="_blank" rel="noopener" href="https://twitter.com/Rapicredit">Twitter</a></li>
+<li id="menu-item-11792" class="icon-ic_linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item-11792"><a title="Siguenos en Linkedin" target="_blank" rel="noopener" href="https://www.linkedin.com/company/rapicredit">Linkedin</a></li>
+<li id="menu-item-11793" class="icon-ic_tiktok menu-item menu-item-type-custom menu-item-object-custom menu-item-11793"><a title="Siguenos en Tiktok" target="_blank" rel="noopener" href="https://www.tiktok.com/@rapicredit?is_copy_url=1&amp;is_from_webapp=v1">Tiktok</a></li>
+<li id="menu-item-11794" class="icon-ic_kawai menu-item menu-item-type-custom menu-item-object-custom menu-item-11794"><a title="Siguenos en Kwai" target="_blank" rel="noopener" href="https://kwai-video.com/u/@Rapicredit/6s9Cu3bR">Kwai</a></li>
+</ul></nav>									</ul>
+								</div>
+								<div class="play">
+									<a href="https://play.google.com/store/apps/details?id=co.rapicredit" target="_blank" aria-label="Descarga nuestra App en Google Play">
+										<img height="40" width="135" alt="Logo Google Play" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/google-play-badge.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/google-play-badge.svg" height="40" width="135" alt="Logo Google Play"></noscript>
+									</a>
+								</div>
+							</div>
+		            	</div>
+			        </div>
+			    </div>
+			</div>
+			<div class="bottom_footer">
+				<div class="container">
+					<div class="item_footer">
+						<div class="img_item item_footer--left">
+							<a href="https://www.sic.gov.co/" rel="nofollow" target="_blank">
+								<img width="183" height="57" title="Superintendencia Industria y comercio" alt="Superintendencia Industria y comercio" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/industriaycomercio.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="183" height="57" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/industriaycomercio.svg" title="Superintendencia Industria y comercio" alt="Superintendencia Industria y comercio"></noscript>
+							</a>
+
+							<a href="https://sicfacilita.sic.gov.co/SICFacilita/index.xhtml" rel="nofollow" target="_blank">
+								<img width="245" height="57" title="SIC facilita" alt="SIC facilita" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/sic_facilita.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="245" height="57" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/sic_facilita.png" title="SIC facilita" alt="SIC facilita"></noscript>
+							</a>
+						</div>
+					</div>
+					<div class="item_footer">
+						<div class="img_item no-margin">
+							<a href="https://www.superfinanciera.gov.co/inicio/sala-de-prensa/advertencias-y-medidas-administrativas-por-ejercicio-ilegal-de-actividad-financiera/advertencias-por-suplantacion--10097510" rel="nofollow" target="_blank">
+								<img title="Imagen de suplantación" alt="imagen de suplantación" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/icons/warning.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/icons/warning.svg" title="Imagen de suplantación" alt="imagen de suplantación"></noscript>
+							</a>
+						</div>
+						<div class="info">
+							<p class="info_warning "><strong>Evita ser víctima de fraudes financieros</strong></p>
+							<p>Conoce las recomendaciones de la Superintendencia Financiera haciendo click <a href="https://www.superfinanciera.gov.co/inicio/sala-de-prensa/advertencias-y-medidas-administrativas-por-ejercicio-ilegal-de-actividad-financiera/advertencias-por-suplantacion--10097510" rel="nofollow" target="_blank"> <strong>aquí</strong></a></p>
+							<p><span>Todos los derechos reservados a RAPICREDIT - COMPAÑÍA DE CRÉDITOS RÁPIDOS SAS de Colombia <a href="mailto:ayuda@rapicredit.com" target="_blank">ayuda@rapicredit.com</a>  NIT 900.564.668-4</span></p>
+						</div>
+					</div>
+					<div class="item_footer">
+						<div class="img_item">
+							<a href="https://www.colombiafintech.co/" rel="nofollow" target="_blank">
+								<img height="61" width="75" title="Colombia Fintech" alt="Colombia Fintech" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/ColombiaFintech.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img height="61" width="75" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/ColombiaFintech.svg" title="Colombia Fintech" alt="Colombia Fintech"></noscript>
+							</a>
+							<a href="https://www.sellofintrust.com.co/trust-seal/'.rapicredit&amp;61" rel="nofollow" target="_blank">
+								<img height="61" width="275" title="Fin Trust" alt="Fin Trust" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/Logo_FinTrust.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img height="61" width="275" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/Logo_FinTrust.png" title="Fin Trust" alt="Fin Trust"></noscript>
+							</a>
+							<a href="https://www.mintzero.io/directory" rel="nofollow" target="_blank">
+								<img height="61" width="59" title="Carbon Neutral Badge" alt="Carbon Neutral Badge" data-src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/Carbon-Neutral-Badge.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img height="61" width="59" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/images/logos/Carbon-Neutral-Badge.png" title="Carbon Neutral Badge" alt="Carbon Neutral Badge"></noscript>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!--scripts-->
+		<!--scripts-->
+	    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+	    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+			
+		<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/home.test.rapicredit.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="my_loadmore-js-extra">
+/* <![CDATA[ */
+var rapicredit_loadmore_params = {"ajaxurl":"https:\/\/home.test.rapicredit.com\/wp-admin\/admin-ajax.php","posts":"{\"page\":0,\"pagename\":\"autorizacion-datos-personales\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"autorizacion-datos-personales\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"orderby\":\"menu_order\",\"order\":\"ASC\",\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false}","current_page":"1","max_page":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/myloadmore.js?ver=6.0.2" id="my_loadmore-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/wp-review/public/js/js.cookie.min.js?ver=2.1.4" id="js-cookie-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
+<script type="text/javascript" id="wp_review-js-js-extra">
+/* <![CDATA[ */
+var wpreview = {"ajaxurl":"https:\/\/home.test.rapicredit.com\/wp-admin\/admin-ajax.php","loginRequiredMessage":"You must log in to add your review"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/wp-review/public/js/main.js?ver=5.3.5" id="wp_review-js-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.15.0" id="smush-lazy-load-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/plugins/wp-review/rating-types/star-input.js?ver=6.0.2" id="wp-review-star-input-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/bootstrap.min.js?ver=6.0.2" id="script-bootstrap-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/ion.rangeSlider.min.js?ver=6.0.2" id="script-rangeSlider-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/slick.js?ver=6.0.2" id="script-slick-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/jquery-scrolltofixed-min.js?ver=6.0.2" id="script-scrolltofixed-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/moment.min.js?ver=6.0.2" id="script-moment-js"></script>
+<script type="text/javascript" src="https://home.test.rapicredit.com/wp-content/themes/rapicredit/assets/js/rapricredit.js?ver=6.0.2" id="script-rapricredit-js"></script>
+	
+</body></html>

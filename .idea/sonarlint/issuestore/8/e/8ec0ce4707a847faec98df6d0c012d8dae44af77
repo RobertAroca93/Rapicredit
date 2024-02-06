@@ -1,0 +1,26 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­½Šì
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¡—¶Ëýÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ñŸÍ©
+X
+java:S1128"=Remove this unused import 'net.serenitybdd.screenplay.Actor'.(ÖÔœ”ùÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ð”„Îüÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'net.serenitybdd.screenplay.Task'.(Œ—×–þÿÿÿÿ
+[
+java:S1128"ERemove this unused import 'net.serenitybdd.screenplay.actions.Click'.(€Äø
+[
+java:S1128"ERemove this unused import 'net.serenitybdd.screenplay.actions.Enter'.(—×—ë
+a
+java:S1128"FRemove this unused import 'net.serenitybdd.screenplay.actions.Scroll'.(ÆðŒÄþÿÿÿÿ
+a
+java:S1128	"FRemove this unused import 'net.serenitybdd.screenplay.questions.Text'.(ùŠ¨ÿÿÿÿÿ
+I
+java:S1128
+"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠÞ›
+j
+java:S1128"ORemove this unused import 'co.com.rapicredit.userInterface.onboardingRP.Firma'.(¹©Æøÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'net.serenitybdd.screenplay.Tasks.instrumented'.(Úö÷Ïúÿÿÿÿ

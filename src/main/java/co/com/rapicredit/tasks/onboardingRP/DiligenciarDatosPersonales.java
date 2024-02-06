@@ -5,10 +5,13 @@ import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.actions.Scroll;
+import net.serenitybdd.screenplay.waits.Wait;
+import net.serenitybdd.screenplay.waits.WaitUntil;
 
 import static co.com.rapicredit.userInterface.onboardingRP.SegundoFormulario.*;
+import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isVisible;
 
-public class DiligenciarSegundoForm implements Task {
+public class DiligenciarDatosPersonales implements Task {
 
     public String primerNombre;
 
@@ -18,19 +21,19 @@ public class DiligenciarSegundoForm implements Task {
 
     public String fechaExpedición;
 
-    public DiligenciarSegundoForm ingresarPrimerNombre (String primerNombre){
+    public DiligenciarDatosPersonales ingresarPrimerNombre (String primerNombre){
         this.primerNombre = primerNombre;
         return this;
     }
-    public DiligenciarSegundoForm ingresarPrimerApellido (String primerApellido){
+    public DiligenciarDatosPersonales ingresarPrimerApellido (String primerApellido){
         this.primerApellido = primerApellido;
         return this;
     }
-    public DiligenciarSegundoForm ingresarFechaNacimiento (String fechaNacimiento){
+    public DiligenciarDatosPersonales ingresarFechaNacimiento (String fechaNacimiento){
         this.fechaNacimiento = fechaNacimiento;
         return this;
     }
-    public DiligenciarSegundoForm ingresarFechaExpedición (String fechaExpedición){
+    public DiligenciarDatosPersonales ingresarFechaExpedición (String fechaExpedición){
         this.fechaExpedición = fechaExpedición;
         return this;
     }
@@ -39,6 +42,7 @@ public class DiligenciarSegundoForm implements Task {
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
                 Scroll.to(PRIMER_NOMBRE),
+                WaitUntil.the(PRIMER_NOMBRE, isVisible()).forNoMoreThan(5).seconds(),
                 Enter.theValue(primerNombre).into(PRIMER_NOMBRE),
 
                 Scroll.to(PRIMER_APELLIDO),
@@ -58,7 +62,7 @@ public class DiligenciarSegundoForm implements Task {
         );
 
     }
-    public static DiligenciarSegundoForm diligenciarSegundoForm(){
-        return new DiligenciarSegundoForm();
+    public static DiligenciarDatosPersonales diligenciarDatosPersonales(){
+        return new DiligenciarDatosPersonales();
     }
 }

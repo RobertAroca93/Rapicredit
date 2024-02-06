@@ -1,0 +1,23 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ˜™ãùÿÿÿÿ8‚ª­Û×1
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬æ·º8ƒª­Û×1
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÄÚÆ8ƒª­Û×1
+
+java:S1104"cMake numeroDeIdentificaciÃ³n a static final constant or non-public and provide accessors if needed.(ãå¿n8ƒª­Û×1
+}
+java:S1104"[Make numeroDeCelular a static final constant or non-public and provide accessors if needed.(Ú¡Üúÿÿÿÿ8„ª­Û×1
+w
+java:S1104"ZMake confirmarEmail a static final constant or non-public and provide accessors if needed.(’¿ø¥8„ª­Û×1
+y
+java:S1104"WMake contraseÃ±a a static final constant or non-public and provide accessors if needed.(Ğ¡–°úÿÿÿÿ8„ª­Û×1
+‚
+java:S1104"`Make confirmarContraseÃ±a a static final constant or non-public and provide accessors if needed.(¨Ë¢Ğÿÿÿÿÿ8„ª­Û×1
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( Àùt8„ª­Û×1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­½Šì8†ª­Û×1
+}	java:S116"bRename this field "numeroDeIdentificaciÃ³n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãå¿n8“ª­Û×1
+w	java:S116"VRename this field "contraseÃ±a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¡–°úÿÿÿÿ8”ª­Û×1
+€	java:S116"_Rename this field "confirmarContraseÃ±a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ë¢Ğÿÿÿÿÿ8”ª­Û×1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ˜™ãùÿÿÿÿ8—ª­Û×1
+j	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬æ·º8™ª­Û×1
+j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÄÚÆ8šª­Û×1
+X	java:S125,"<This block of commented-out lines of code should be removed.(ø¸ƒå8ØáóÛ×1

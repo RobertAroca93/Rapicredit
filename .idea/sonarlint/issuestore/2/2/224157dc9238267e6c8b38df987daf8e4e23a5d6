@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­½Šì
+Q	java:S125"<This block of commented-out lines of code should be removed.(ñŸÍ©
+X
+java:S1117%"BRename "numeroGenerado" which hides the field declared at line 20.(ûÛêŸ
+W
+java:S1128"<Remove this unused import 'net.serenitybdd.screenplay.Task'.(Œ—×–þÿÿÿÿ
+a
+java:S1128
+"FRemove this unused import 'net.serenitybdd.screenplay.questions.Text'.(ùŠ¨ÿÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠÞ›
+M
+java:S1068"2Remove this unused "numeroGenerado" private field.(þ‚øŒùÿÿÿÿ

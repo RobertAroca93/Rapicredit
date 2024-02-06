@@ -17,4 +17,7 @@ public class ContinuarSolicitud implements Task {
         );
 
     }
+    public static ContinuarSolicitud continuarSolicitud(){
+        return new ContinuarSolicitud();
+    }
 }
